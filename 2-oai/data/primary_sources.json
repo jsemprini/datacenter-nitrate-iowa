@@ -1,0 +1,52 @@
+[
+  {
+    "id": "repository",
+    "url": "https://github.com/jsemprini/datacenter-nitrate-iowa/tree/7e1f0e6d2a3c053a47ed9d90b45e894a9e02066a/1-gemini",
+    "commit": "7e1f0e6d2a3c053a47ed9d90b45e894a9e02066a"
+  },
+  {
+    "id": "epa_syr4",
+    "url": "https://www.epa.gov/dwsixyearreview/six-year-review-4-compliance-monitoring-data-2012-2019",
+    "download": "https://www.epa.gov/system/files/other-files/2024-03/_syr4_phasechem_4-hybrid-nitrate-to-nitrate.zip",
+    "member": "SUMMARY_ANALYTE_NITRATE.txt",
+    "national_zip_sha256": "5b8726c9adee8fbfa0ca265393814439d0f5d1a552b7a88b0322d19ec9d738e0"
+  },
+  {
+    "id": "epa_guide",
+    "url": "https://www.epa.gov/system/files/documents/2024-11/user-guide-to-downloading-and-using-syr4-data_0.pdf"
+  },
+  {
+    "id": "dnr_index",
+    "url": "https://programs.iowadnr.gov/sourcewater/"
+  },
+  {
+    "id": "dnr_altoona",
+    "url": "https://programs.iowadnr.gov/sourcewater/SystemDetail.aspx?pwsid=7707030",
+    "verified": "System ID and listed aquifer only, not a data-center water purchase relationship"
+  },
+  {
+    "id": "dnr_waukee",
+    "url": "https://programs.iowadnr.gov/sourcewater/SystemDetail.aspx?pwsid=2573080",
+    "verified": "Current purchased-surface-water description only"
+  },
+  {
+    "id": "dnr_cedar",
+    "url": "https://programs.iowadnr.gov/sourcewater/SystemDetail.aspx?pwsid=5715093",
+    "verified": "Current alluvial and groundwater-under-direct-influence description"
+  },
+  {
+    "id": "ciww_2025",
+    "url": "https://ciww.gov/stage-iii-daily-updates/",
+    "verified": "2025 utility conservation context; no data-center causal attribution"
+  },
+  {
+    "id": "meta_2021",
+    "url": "https://datacenters.atmeta.com/2021/12/meta-announces-new-expansion-to-altoona-campus-new-hardhat-in-hand-graduates/",
+    "verified": "Announcement corroborates first building activity in 2013 and subsequent expansion, not precise first withdrawal date"
+  },
+  {
+    "id": "wqp_2020",
+    "url": "https://www.waterqualitydata.us/data/Result/search?statecode=US:19&characteristicName=Nitrate&startDateLo=01-01-2020&startDateHi=12-31-2020&mimeType=csv&zip=no",
+    "verified": "Ambient query returned records without a reviewed PWS crosswalk"
+  }
+]

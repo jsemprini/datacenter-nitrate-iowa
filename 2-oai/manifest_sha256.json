@@ -1,0 +1,412 @@
+[
+  {
+    "path": "Iowa_Data_Centers_Nitrate_Colab.ipynb",
+    "bytes": 880732,
+    "sha256": "0fb9ad9c32c1b21c84efb88c79ca69178344c9bd9101673163c8600fb17e9982"
+  },
+  {
+    "path": "README.md",
+    "bytes": 7314,
+    "sha256": "69225b8e43e0516cef5469c25b7ce8eac706008531721c4c7fed7b707da08a70"
+  },
+  {
+    "path": "code/00_extract_public_data.py",
+    "bytes": 5572,
+    "sha256": "2c6ea418151f1530ec0f41ee574e997c7d974ae3aeeb09db3da91ff729f81489"
+  },
+  {
+    "path": "code/01_clean_data.py",
+    "bytes": 7027,
+    "sha256": "7da7a8b2cc118582e4cbe9d56692ebedf94b7f36d657e5c3b3042d1959553688"
+  },
+  {
+    "path": "code/02_analyze_data.py",
+    "bytes": 11770,
+    "sha256": "2499c422fc51ce37c6055b648979f228ea4c5b07de149e88472beb27781e7121"
+  },
+  {
+    "path": "code/03_verify_pipeline.py",
+    "bytes": 4684,
+    "sha256": "adb4be0af3e2735538e5dd9ccba5d1138d531374715be38c173cd12951963b3b"
+  },
+  {
+    "path": "code/04_audit_reference_links.py",
+    "bytes": 1259,
+    "sha256": "aa589df8a1c983807af80990130c673e8a44d3e1cedd41e3739be285e8586227"
+  },
+  {
+    "path": "code/05_reproduce_original.py",
+    "bytes": 2173,
+    "sha256": "e622b5c44bce088b4a335be4186fb5790ead70153c0879a85795fb4def8c23ba"
+  },
+  {
+    "path": "code/06_build_documents.py",
+    "bytes": 48946,
+    "sha256": "22a76efff00c1d64bb408b93376deabd4c157fc9b0f71880db13bdaafe999094"
+  },
+  {
+    "path": "data/clean/cleaning_summary.json",
+    "bytes": 639,
+    "sha256": "2f4756650d04b22e2ada58c71227cc940bea00f2afbec6487aeed3392195106b"
+  },
+  {
+    "path": "data/clean/coverage_grid.csv",
+    "bytes": 188983,
+    "sha256": "656d9a7e691cc17ce9be733fafc498adc6cc88581e6f46dd34906f3e8114d20e"
+  },
+  {
+    "path": "data/clean/nitrate_annual.csv",
+    "bytes": 541463,
+    "sha256": "1e71a6f479ce7d99623667635ccd48739727b5b9fd0d5f1ce7501befc11f633f"
+  },
+  {
+    "path": "data/clean/nitrate_quarterly.csv",
+    "bytes": 1129152,
+    "sha256": "6efc5bb9b80a56a4008faadb6af73c40f4c7dff02044d6bc5e233f9edb96a5aa"
+  },
+  {
+    "path": "data/clean/nitrate_samples.csv",
+    "bytes": 7089375,
+    "sha256": "6df34bfa8f199a16de2f9a896d1a58d185c7cfac2e915ef246d8e114b5d21bb7"
+  },
+  {
+    "path": "data/data_dictionary.json",
+    "bytes": 1886,
+    "sha256": "f80b8e07bc39675282788e281c59617790ccb3f10ee94910a210ef74682ee4c5"
+  },
+  {
+    "path": "data/exposure_design_template.csv",
+    "bytes": 4279,
+    "sha256": "9a215118c172dbf49f14207fa1f2d2a54cbfe1f98149e6cb194ae3487a9a67aa"
+  },
+  {
+    "path": "data/primary_sources.json",
+    "bytes": 2217,
+    "sha256": "52f4110f0ba62fa77be1b4dc750443c5149379da0a1fd947c2924296c390f5da"
+  },
+  {
+    "path": "data/raw/acquisition_log.json",
+    "bytes": 1674,
+    "sha256": "c4faf9e3a3c2add2de2e4ff9cf00de47cacd891a344ef64abe70c1275d57a339"
+  },
+  {
+    "path": "data/raw/bacon_crossref.json",
+    "bytes": 20131,
+    "sha256": "05aa85620f33f209049a847fa0c971bf94f938148355e2070e25194aecd06698"
+  },
+  {
+    "path": "data/raw/cs_metadata.json",
+    "bytes": 27072,
+    "sha256": "ec2941217ca087f81b54197cb30930a2a42e9c4ac8675e9a057e7ba88a246f10"
+  },
+  {
+    "path": "data/raw/dnr_altoona.txt",
+    "bytes": 1612,
+    "sha256": "40a4948601a284c04437db09d5c2f46e02408045f90af052053b41e60030570a"
+  },
+  {
+    "path": "data/raw/dnr_cedar.txt",
+    "bytes": 5971,
+    "sha256": "df5ae8fef8fda4edfa1a53f54570f920d0e2a262b2ec65b3a5b81247e1216e0e"
+  },
+  {
+    "path": "data/raw/dnr_current_system_index.csv",
+    "bytes": 97749,
+    "sha256": "1edac50ca0685db477649e633ecb2df4544c99d8a87f2b6cfefc12682e01c258"
+  },
+  {
+    "path": "data/raw/dnr_current_system_index_audit_snapshot.csv",
+    "bytes": 97749,
+    "sha256": "1edac50ca0685db477649e633ecb2df4544c99d8a87f2b6cfefc12682e01c258"
+  },
+  {
+    "path": "data/raw/dnr_index.html",
+    "bytes": 670553,
+    "sha256": "836e16cb8988cf9b73932b8aa22afc14ac1197a5ef270c0fe53d3d7ad8f56336"
+  },
+  {
+    "path": "data/raw/dnr_waukee.txt",
+    "bytes": 1474,
+    "sha256": "ddfde1329d692ab144692fd352234b3b2f6379b08147591da5681598e4211c2b"
+  },
+  {
+    "path": "data/raw/epa_nitrate.txt",
+    "bytes": 26060,
+    "sha256": "27c19a2ed4bad51466c28e0e5e0a7b9def2b9f9bb6e4873f2666b421dfb1659c"
+  },
+  {
+    "path": "data/raw/epa_syr4.html",
+    "bytes": 73458,
+    "sha256": "154178aac9b42265eb4dc39211d98d56d5c303e56060606e97c0fc1d80d294dd"
+  },
+  {
+    "path": "data/raw/epa_syr4_guide.pdf",
+    "bytes": 1734146,
+    "sha256": "d950d07e1eeafdc9c295ee438b79973ef5b72fc740b1bff581113335c65015cd"
+  },
+  {
+    "path": "data/raw/epa_syr4_iowa_nitrate_raw.csv",
+    "bytes": 4143134,
+    "sha256": "0aab0467dff6e70a5d0e87622c196eec12efb728a5a7593049ce093f689cbc19"
+  },
+  {
+    "path": "data/raw/meta_expansion.txt",
+    "bytes": 4647,
+    "sha256": "5ff4ffb72eb89f5e65cdc44c30baf5607d7bd84483f92acc3570d83b5b735f2c"
+  },
+  {
+    "path": "data/raw/roth_crossref.json",
+    "bytes": 14166,
+    "sha256": "f7d703e750d29c56f0a12927e5d9f380eadbdc924a122cff166c2ee492f0588f"
+  },
+  {
+    "path": "data/raw/sa_crossref.json",
+    "bytes": 14862,
+    "sha256": "8ae7e673b80d90759de4d3008ad5133f8057fa45468c9c1a6353c7803896e0da"
+  },
+  {
+    "path": "data/raw/syr4_guide.txt",
+    "bytes": 102759,
+    "sha256": "6b1f92b3f28fda7e6f15854949595ac04b74d42eb62c3ef9231ffbecdcc0fa37"
+  },
+  {
+    "path": "data/raw/wqp_ambient_nitrate_2020.csv",
+    "bytes": 480189,
+    "sha256": "ac49f2b93469ec29934342b874af97cee1a3f0dd8b0055160430f3a5ea76393b"
+  },
+  {
+    "path": "data/required_inputs.json",
+    "bytes": 3960,
+    "sha256": "235104e47c854e2436fe44bf09bbf487f119f31285b6162ac11e236a94317b34"
+  },
+  {
+    "path": "documents/Iowa_Data_Centers_Nitrate_Brief.docx",
+    "bytes": 39844,
+    "sha256": "2cc4b35f076f498dff82823ebb204c76f3c1a515fa61463d3d869714999ab476"
+  },
+  {
+    "path": "documents/Iowa_Data_Centers_Nitrate_Brief.pdf",
+    "bytes": 82279,
+    "sha256": "68b8d13d22f892db7e6006c2e6568170d0e46382e7fc638e50532b5212f326d9"
+  },
+  {
+    "path": "documents/Iowa_Data_Centers_Nitrate_Manuscript.docx",
+    "bytes": 178035,
+    "sha256": "fa246b099e912c54f509b3c0db36be82f63d84ee3992fec1b6bc84c69635966e"
+  },
+  {
+    "path": "documents/Iowa_Data_Centers_Nitrate_Manuscript.pdf",
+    "bytes": 244661,
+    "sha256": "df04a17718767324cd98fbbea9abf4389ae90c73767a15f2606b0b4cfe7a8dbd"
+  },
+  {
+    "path": "documents/Iowa_Data_Centers_Nitrate_Peer_Review.docx",
+    "bytes": 43111,
+    "sha256": "431e2fb96c08b6e87359411fd879b33143ba096000f79794d7409e50cd11208c"
+  },
+  {
+    "path": "documents/Iowa_Data_Centers_Nitrate_Peer_Review.pdf",
+    "bytes": 99459,
+    "sha256": "78ab74403675316b96888d852165d0f67cdc404a6fb44e65434006fec62fd592"
+  },
+  {
+    "path": "forensic_reproduction/README.txt",
+    "bytes": 264,
+    "sha256": "c5b934799ce920bb0e3a11dc458062da5dc7b4dbc3e059eb213b967aa9ba104b"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/SYNTHETIC_samples.csv",
+    "bytes": 101982,
+    "sha256": "0dc19be68c3832e9c9480a56d296362e6175ef154621af1a0652694171b5aec3"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/econometric_results_summary.json",
+    "bytes": 24183,
+    "sha256": "224ebaf3cffe4c4ea54ad227259d4b8a72ee7d260beb080e0570a080c2255392"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/event_study_coefficients.csv",
+    "bytes": 2347,
+    "sha256": "aba80b8fd86dec45c7d8e22e07758849da296b22285d80c4373c614105f0f7c4"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/facilities.csv",
+    "bytes": 22253,
+    "sha256": "6b2373b5b02979f9f4f64dfe23b4f438648809e80987af9f11079be538f68df5"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/iowa_pws_nitrate_panel_annual.csv",
+    "bytes": 234357,
+    "sha256": "a8845ada12a0c52d8954fe24539d65d53b542d3ddaa48a2849a67f2a1b19ed99"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/iowa_pws_nitrate_panel_quarterly.csv",
+    "bytes": 975458,
+    "sha256": "b3b504529d6d59370da3c4300fa19756d3150d9f58d3e0c57d88c644e1ac572b"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/linked_metadata.csv",
+    "bytes": 17339,
+    "sha256": "8b799e47fc4456c1085e65646956444ee9c14b3ce042fc147993ac3fe222801a"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/pws_metadata.csv",
+    "bytes": 11757,
+    "sha256": "8f3b49001dde3db229e2a0b0ff3cfc60121f1d4622b4fa83e84d32f0121dcab5"
+  },
+  {
+    "path": "forensic_reproduction/SYNTHETIC_OUTPUTS/reproduction_checks.json",
+    "bytes": 720,
+    "sha256": "53e85ae9a258f23fc5dae5460ee52fcfd38ba6f02403ba910b18487ee534a845"
+  },
+  {
+    "path": "forensic_reproduction/reproduction.log",
+    "bytes": 3493,
+    "sha256": "db3d670895e842712271147da0b6306150caab0e675f2c440b30752c2f294add"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 83,
+    "sha256": "4683270d9cd225557968b3b9e715e759ceee82c68f0bc806530f3f3fa52d2aa6"
+  },
+  {
+    "path": "results/audit_findings.json",
+    "bytes": 4264,
+    "sha256": "7a36ee720f433c783ab640ae4a6d5cfad88a3dee8a8772ae14cab8e690dcdbdc"
+  },
+  {
+    "path": "results/causal_analysis_status.json",
+    "bytes": 551,
+    "sha256": "67a73fb623306a9efb02cbc01636b4ab5918d381e27f16887d3e63a9858d9705"
+  },
+  {
+    "path": "results/initial_access_log.json",
+    "bytes": 1530,
+    "sha256": "6bf9e7b80a8f75d3eb61d012dd644f86b47de74224ef13f8f33284a00923395b"
+  },
+  {
+    "path": "results/notebook_validation.txt",
+    "bytes": 259,
+    "sha256": "feb50e60b802c926afd96023cfeaaa8ee6e9bbcd4d31b083489828f8f8489cb7"
+  },
+  {
+    "path": "results/observed_data_coverage.png",
+    "bytes": 152668,
+    "sha256": "88661a36ca208d725fc63b5218cae74a5a6965be56541c12000d4642f58cefc6"
+  },
+  {
+    "path": "results/observed_data_coverage.svg",
+    "bytes": 24173,
+    "sha256": "09ae619f2efc5cf2b1e88a868e06b1966355fbc36a32a96bdbab65111ad2b548"
+  },
+  {
+    "path": "results/observed_sampling_coverage.csv",
+    "bytes": 179,
+    "sha256": "2a6a991690efeb6deabdc4745a971a58748abe00f8e7102a2006fc97aa1ce3ec"
+  },
+  {
+    "path": "results/observed_stage_coverage.csv",
+    "bytes": 133,
+    "sha256": "78e61d61321481e05a989ee93b994406ceab92626e4bf5f43838a590e9749ece"
+  },
+  {
+    "path": "results/observed_yearly_description.csv",
+    "bytes": 698,
+    "sha256": "c987c77582edf2a57871028e73d55b0ac5fa9381c5e97f75782818e7b3dd17cc"
+  },
+  {
+    "path": "results/original_48_observed_coverage.csv",
+    "bytes": 2345,
+    "sha256": "cec9575b348723230e16a0b8f890604fc7bbf2721bbb12262ccb7352829d89de"
+  },
+  {
+    "path": "results/original_reference_link_audit.json",
+    "bytes": 16471,
+    "sha256": "d1aa7c818fc2e79b780b6991240dd8c4068f508fdc09abe5a86473c093bfeb74"
+  },
+  {
+    "path": "results/original_spatial_counts.csv",
+    "bytes": 102,
+    "sha256": "9083ac90adde626b70c513d009ee877fa1808d5ccf1b19f6a8ef5da163b0862c"
+  },
+  {
+    "path": "results/pws_id_verification.csv",
+    "bytes": 13909,
+    "sha256": "9b102f7c7339e13268d7c1e5cb4b18a7a216a0f3a2e1cfa78d7bfa385b441b3a"
+  },
+  {
+    "path": "results/reported_vs_reproduced.csv",
+    "bytes": 471,
+    "sha256": "f2fb8c828c0c791bc466d6ddb81dfdd32612087b63303cabd42b7c4415d92958"
+  },
+  {
+    "path": "results/verification_summary.json",
+    "bytes": 525,
+    "sha256": "a93ecd20be33358abddd1e093a3bc735d9e0920dabeb6ac862f41ebb4c1fffd0"
+  },
+  {
+    "path": "results/verification_tests.txt",
+    "bytes": 1008,
+    "sha256": "132a988e414b0b79e2b0002951b2ea276e15e63269d991f613065decd33d2801"
+  },
+  {
+    "path": "source_original/01_fetch_and_clean_data.py",
+    "bytes": 71808,
+    "sha256": "9378cb91f823b7a8982a046ba594f69e4e5f30fb3b0da8632389237615c92782"
+  },
+  {
+    "path": "source_original/02_did_equivalence_analysis.py",
+    "bytes": 33786,
+    "sha256": "7004ff7c26742c1c63b0c366e1445274b5d455ebd807f322a18bec8f66e96e6b"
+  },
+  {
+    "path": "source_original/Code_Generated_Image (1).png",
+    "bytes": 285342,
+    "sha256": "4d2bf0f4691d1af12d61f4bbab0cbbd8b950c85c4036c1696b0110bffe5f7655"
+  },
+  {
+    "path": "source_original/Code_Generated_Image.png",
+    "bytes": 267404,
+    "sha256": "cabf87b7c9b31e74f542ceaa9ce0708081b7c6b95c16d719a8cc014ad6a266ed"
+  },
+  {
+    "path": "source_original/Iowa Data Centers Nitrate Manuscript.pdf",
+    "bytes": 569149,
+    "sha256": "eacf6dac6f29c34431173fcfe23af21989132bb17c58858211ec59f18cce92cd"
+  },
+  {
+    "path": "source_original/Iowa_Data_Centers_Water_Media_Article.docx",
+    "bytes": 133991,
+    "sha256": "a35d5189db9a9407d8f0dedd8334a05754070700318117d55004fc144e733015"
+  },
+  {
+    "path": "source_original/framing.docx",
+    "bytes": 14002,
+    "sha256": "308573ccb147d7a439f270a0881f9e13d01f436414cb3ad0863bd1828c9009c6"
+  },
+  {
+    "path": "source_original/github_snapshot_tree.json",
+    "bytes": 3994,
+    "sha256": "604f0280d1c38c34dc35ac0d0288c2478751368e288da8308d5f27f3a605cd79"
+  },
+  {
+    "path": "source_original/iowa_data_centers_panel.csv",
+    "bytes": 22253,
+    "sha256": "6b2373b5b02979f9f4f64dfe23b4f438648809e80987af9f11079be538f68df5"
+  },
+  {
+    "path": "source_original/iowa_dc_nitrate_report.md",
+    "bytes": 63704,
+    "sha256": "421c4fd128506acdac7789b2ce47a7d4256188469fea8f4f4cfe87a8e731a2a1"
+  },
+  {
+    "path": "source_original/prompt.docx",
+    "bytes": 21008,
+    "sha256": "b1cdf4c7f6830520dae31204dde9c78f0577437d75c2a7ae73f03a72fb0ad5ff"
+  },
+  {
+    "path": "source_original/result.docx",
+    "bytes": 14478,
+    "sha256": "77dee601f167cc3c6b068870b1cf2878343b06447ce0c41a6405caf3741f5087"
+  }
+]

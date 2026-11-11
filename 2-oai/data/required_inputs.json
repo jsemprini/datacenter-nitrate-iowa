@@ -1,0 +1,114 @@
+{
+  "purpose": "Records required before estimating actual data-center effects; current data permit audit and description only",
+  "analysis_period_requested": [
+    "2005-01-01",
+    "2026-09-30"
+  ],
+  "available_release": [
+    "2012-01-01",
+    "2019-12-31"
+  ],
+  "nitrate_samples": {
+    "source": "Iowa DNR and supplying utilities; obtain native exports with data dictionary",
+    "fields": [
+      "PWSID",
+      "system_type",
+      "source_or_provider_id",
+      "water_facility_id",
+      "sampling_point_id",
+      "sample_id",
+      "laboratory_record_id",
+      "collection_date",
+      "analyte_code",
+      "reported_value",
+      "reported_unit",
+      "reported_basis_as_N_or_NO3",
+      "detection_condition",
+      "reporting_limit",
+      "reporting_limit_unit",
+      "reporting_limit_basis",
+      "method_id",
+      "sample_type",
+      "raw_finished_entry_distribution_stage",
+      "quality_flags",
+      "source_document_or_URL"
+    ],
+    "analytes": {
+      "1040": "nitrate, primary",
+      "1038": "nitrate plus nitrite, separate sensitivity only",
+      "1041": "nitrite, separate analyte"
+    },
+    "handling": "Preserve native values; do not create records from CCR ranges or violations. New native schemas need an explicit reviewed field map. Never append the hybrid nitrate file as independent nitrate observations."
+  },
+  "facilities": {
+    "fields": [
+      "parcel_id",
+      "campus_id",
+      "building_or_phase_id",
+      "operator",
+      "verified_latitude",
+      "verified_longitude",
+      "coordinate_type",
+      "land_disturbance_start",
+      "grading_completion",
+      "first_withdrawal_or_operation",
+      "permit_approval_date",
+      "date_precision",
+      "event_date_lower",
+      "event_date_upper",
+      "withdrawal_volume_by_month",
+      "water_supplier",
+      "cooling_technology",
+      "source_aquifer_or_surface_intake",
+      "outfall_or_WWTP",
+      "evidence_document_id",
+      "evidence_passage",
+      "evidence_URL",
+      "retrieved_date"
+    ],
+    "handling": "A tracker is a lead. Validate each event and phase from permits, utility records or primary announcements. Do not infer operation from announced capacity."
+  },
+  "source_links": {
+    "fields": [
+      "pwsid",
+      "source_id",
+      "intake_or_wellfield_coordinates",
+      "aquifer",
+      "depth",
+      "confinement",
+      "capture_zone_or_upstream_catchment",
+      "supplier_pwsid",
+      "purchase_share",
+      "valid_from",
+      "valid_to",
+      "treatment_changes",
+      "evidence_URL"
+    ],
+    "handling": "Specify source-contamination versus municipal-demand pathways. A local watershed is not the supply network."
+  },
+  "confounders": {
+    "fields": [
+      "observed_precipitation",
+      "observed_temperature",
+      "drought_history",
+      "river_flow",
+      "source_type",
+      "crop_or_land_cover_history",
+      "population_or_growth",
+      "major_treatment_and_blending_changes"
+    ],
+    "handling": "Use observed measurements. For a total effect, distinguish confounders from treatment-induced changes; do not control for mediators automatically."
+  },
+  "exposure_design_csv": {
+    "pwsid": "Verified source or supply unit matching outcome records",
+    "phase": "construction or operation",
+    "status": "treated or never_by_cutoff; unresolved rows rejected",
+    "event_date": "YYYY-MM-DD verified physical event; blank only for verified unexposed controls",
+    "verified": "true after source and timing review",
+    "cluster_id": "Independent source/supply-network group",
+    "exposure_definition": "Documented source transport or supplier connection; proximity exploratory only",
+    "evidence_url": "Primary evidence for event and connection",
+    "ascertained_through": "Date through which treated/control status has been comprehensively checked"
+  },
+  "current_gate": "No causal effect, equivalence, or mechanism attribution is reported from the verified inputs."
+}

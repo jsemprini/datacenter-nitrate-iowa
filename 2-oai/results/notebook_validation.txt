@@ -1,0 +1,1 @@
+All 9 executable notebook cells ran successfully in order using the bundled observed snapshot. The separate original generated-data replication also completed. Eight scientific software checks passed. No causal effect from verified Iowa inputs was estimated.

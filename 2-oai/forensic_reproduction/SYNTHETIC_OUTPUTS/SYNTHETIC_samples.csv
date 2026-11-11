@@ -1,0 +1,913 @@
+pwsid,system_name,sample_date,raw_reported_value,original_unit,mdl_mg_l_as_n,is_censored_below_mdl,standardized_nitrate_mg_l_as_n,primary_water_source
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2009-02-15,4.8123,mg/L as N,0.1,0,4.8123,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2009-05-15,8.9337,mg/L as N,0.1,0,8.9337,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2009-08-15,6.8788,mg/L as N,0.1,0,6.8788,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2009-11-15,4.8547,mg/L as N,0.1,0,4.8547,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2014-02-15,4.7421,mg/L as N,0.1,0,4.7421,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2014-05-15,10.0142,mg/L as N,0.1,0,10.0142,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2014-08-15,7.7154,mg/L as N,0.1,0,7.7154,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2014-11-15,4.2043,mg/L as N,0.1,0,4.2043,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2020-02-15,5.0317,mg/L as N,0.1,0,5.0317,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2020-05-15,7.8722,mg/L as N,0.1,0,7.8722,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2020-08-15,6.9415,mg/L as N,0.1,0,6.9415,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2020-11-15,4.3226,mg/L as N,0.1,0,4.3226,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2025-02-15,4.938,mg/L as N,0.1,0,4.938,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2025-05-15,9.17,mg/L as N,0.1,0,9.17,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2025-08-15,9.17,mg/L as N,0.1,0,9.17,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2025-11-15,4.793,mg/L as N,0.1,0,4.793,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2026-02-15,5.3574,mg/L as N,0.1,0,5.3574,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2026-05-15,9.17,mg/L as N,0.1,0,9.17,Surface Water
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),2026-08-15,9.17,mg/L as N,0.1,0,9.17,Surface Water
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2009-02-15,2.1711,mg/L as N,0.1,0,2.1711,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2009-05-15,3.8962,mg/L as N,0.1,0,3.8962,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2009-08-15,3.0391,mg/L as N,0.1,0,3.0391,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2009-11-15,1.742,mg/L as N,0.1,0,1.742,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2014-02-15,1.8138,mg/L as N,0.1,0,1.8138,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2014-05-15,3.735,mg/L as N,0.1,0,3.735,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2014-08-15,2.8591,mg/L as N,0.1,0,2.8591,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2014-11-15,2.0114,mg/L as N,0.1,0,2.0114,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2020-02-15,2.266,mg/L as N,0.1,0,2.266,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2020-05-15,3.3361,mg/L as N,0.1,0,3.3361,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2020-08-15,2.8016,mg/L as N,0.1,0,2.8016,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2020-11-15,1.6009,mg/L as N,0.1,0,1.6009,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2025-02-15,2.1517,mg/L as N,0.1,0,2.1517,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2025-05-15,2.5925,mg/L as N,0.1,0,2.5925,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2025-08-15,2.5925,mg/L as N,0.1,0,2.5925,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2025-11-15,1.8872,mg/L as N,0.1,0,1.8872,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2026-02-15,2.0267,mg/L as N,0.1,0,2.0267,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2026-05-15,2.5925,mg/L as N,0.1,0,2.5925,Blended Alluvial/Jordan/Surface
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),2026-08-15,2.5925,mg/L as N,0.1,0,2.5925,Blended Alluvial/Jordan/Surface
+IA7707030,Altoona Water Supply,2009-02-15,0.2817,mg/L as N,0.1,0,0.2817,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2009-05-15,0.2561,mg/L as N,0.1,0,0.2561,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2009-08-15,0.2949,mg/L as N,0.1,0,0.2949,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2009-11-15,0.2924,mg/L as N,0.1,0,0.2924,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2014-02-15,0.3549,mg/L as N,0.1,0,0.3549,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2014-05-15,0.3278,mg/L as N,0.1,0,0.3278,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2014-08-15,0.2988,mg/L as N,0.1,0,0.2988,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2014-11-15,0.2385,mg/L as N,0.1,0,0.2385,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2020-02-15,0.4037,mg/L as N,0.1,0,0.4037,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2020-05-15,0.2367,mg/L as N,0.1,0,0.2367,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2020-08-15,0.2262,mg/L as N,0.1,0,0.2262,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2020-11-15,0.3207,mg/L as N,0.1,0,0.3207,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2025-02-15,0.2746,mg/L as N,0.1,0,0.2746,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2025-05-15,0.2934,mg/L as N,0.1,0,0.2934,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2025-08-15,0.3891,mg/L as N,0.1,0,0.3891,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2025-11-15,0.3157,mg/L as N,0.1,0,0.3157,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2026-02-15,0.2088,mg/L as N,0.1,0,0.2088,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2026-05-15,0.1452,mg/L as N,0.1,0,0.1452,Deep Confined Bedrock (Jordan Aquifer)
+IA7707030,Altoona Water Supply,2026-08-15,0.2651,mg/L as N,0.1,0,0.2651,Deep Confined Bedrock (Jordan Aquifer)
+IA2573080,Waukee Water Supply (CIWW Consecutive),2009-02-15,4.4886,mg/L as N,0.1,0,4.4886,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2009-05-15,7.9765,mg/L as N,0.1,0,7.9765,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2009-08-15,6.5716,mg/L as N,0.1,0,6.5716,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2009-11-15,4.1416,mg/L as N,0.1,0,4.1416,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2014-02-15,4.4119,mg/L as N,0.1,0,4.4119,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2014-05-15,8.4721,mg/L as N,0.1,0,8.4721,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2014-08-15,7.1018,mg/L as N,0.1,0,7.1018,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2014-11-15,4.2838,mg/L as N,0.1,0,4.2838,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2020-02-15,4.841,mg/L as N,0.1,0,4.841,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2020-05-15,6.677,mg/L as N,0.1,0,6.677,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2020-08-15,6.7811,mg/L as N,0.1,0,6.7811,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2020-11-15,3.7991,mg/L as N,0.1,0,3.7991,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2025-02-15,4.0386,mg/L as N,0.1,0,4.0386,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2025-05-15,9.2522,mg/L as N,0.1,0,9.2522,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2025-08-15,7.7455,mg/L as N,0.1,0,7.7455,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2025-11-15,4.229,mg/L as N,0.1,0,4.229,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2026-02-15,4.5498,mg/L as N,0.1,0,4.5498,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2026-05-15,10.0411,mg/L as N,0.1,0,10.0411,Surface Water
+IA2573080,Waukee Water Supply (CIWW Consecutive),2026-08-15,8.189,mg/L as N,0.1,0,8.189,Surface Water
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2009-02-15,4.6733,mg/L as N,0.1,0,4.6733,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2009-05-15,7.4417,mg/L as N,0.1,0,7.4417,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2009-08-15,6.6357,mg/L as N,0.1,0,6.6357,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2009-11-15,4.5907,mg/L as N,0.1,0,4.5907,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2014-02-15,4.3835,mg/L as N,0.1,0,4.3835,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2014-05-15,7.9029,mg/L as N,0.1,0,7.9029,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2014-08-15,6.6361,mg/L as N,0.1,0,6.6361,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2014-11-15,4.3577,mg/L as N,0.1,0,4.3577,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2020-02-15,4.0594,mg/L as N,0.1,0,4.0594,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2020-05-15,7.2235,mg/L as N,0.1,0,7.2235,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2020-08-15,6.3426,mg/L as N,0.1,0,6.3426,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2020-11-15,4.4666,mg/L as N,0.1,0,4.4666,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2025-02-15,4.2398,mg/L as N,0.1,0,4.2398,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2025-05-15,9.2145,mg/L as N,0.1,0,9.2145,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2025-08-15,7.2871,mg/L as N,0.1,0,7.2871,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2025-11-15,4.3034,mg/L as N,0.1,0,4.3034,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2026-02-15,5.0959,mg/L as N,0.1,0,5.0959,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2026-05-15,8.9541,mg/L as N,0.1,0,8.9541,Blended Alluvial/Jordan/Surface
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),2026-08-15,6.8114,mg/L as N,0.1,0,6.8114,Blended Alluvial/Jordan/Surface
+IA7780042,Urbandale Water Utility (CIWW Member),2009-02-15,5.2234,mg/L as N,0.1,0,5.2234,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2009-05-15,8.311,mg/L as N,0.1,0,8.311,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2009-08-15,6.81,mg/L as N,0.1,0,6.81,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2009-11-15,4.5979,mg/L as N,0.1,0,4.5979,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2014-02-15,4.3323,mg/L as N,0.1,0,4.3323,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2014-05-15,8.8822,mg/L as N,0.1,0,8.8822,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2014-08-15,7.1884,mg/L as N,0.1,0,7.1884,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2014-11-15,4.7027,mg/L as N,0.1,0,4.7027,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2020-02-15,4.5485,mg/L as N,0.1,0,4.5485,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2020-05-15,7.476,mg/L as N,0.1,0,7.476,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2020-08-15,6.1914,mg/L as N,0.1,0,6.1914,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2020-11-15,4.4117,mg/L as N,0.1,0,4.4117,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2025-02-15,4.8031,mg/L as N,0.1,0,4.8031,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2025-05-15,10.693,mg/L as N,0.1,0,10.693,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2025-08-15,7.8527,mg/L as N,0.1,0,7.8527,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2025-11-15,4.1172,mg/L as N,0.1,0,4.1172,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2026-02-15,4.2371,mg/L as N,0.1,0,4.2371,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2026-05-15,10.1736,mg/L as N,0.1,0,10.1736,Surface Water
+IA7780042,Urbandale Water Utility (CIWW Member),2026-08-15,8.3117,mg/L as N,0.1,0,8.3117,Surface Water
+IA2570046,Van Meter Municipal Water Works,2009-02-15,4.4982,mg/L as N,0.1,0,4.4982,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2009-05-15,6.3284,mg/L as N,0.1,0,6.3284,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2009-08-15,5.6509,mg/L as N,0.1,0,5.6509,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2009-11-15,3.9084,mg/L as N,0.1,0,3.9084,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2014-02-15,4.1732,mg/L as N,0.1,0,4.1732,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2014-05-15,6.8031,mg/L as N,0.1,0,6.8031,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2014-08-15,5.7499,mg/L as N,0.1,0,5.7499,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2014-11-15,3.7077,mg/L as N,0.1,0,3.7077,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2020-02-15,4.155,mg/L as N,0.1,0,4.155,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2020-05-15,5.7436,mg/L as N,0.1,0,5.7436,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2020-08-15,5.036,mg/L as N,0.1,0,5.036,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2020-11-15,3.7091,mg/L as N,0.1,0,3.7091,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2025-02-15,3.9246,mg/L as N,0.1,0,3.9246,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2025-05-15,7.5628,mg/L as N,0.1,0,7.5628,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2025-08-15,5.877,mg/L as N,0.1,0,5.877,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2025-11-15,4.0416,mg/L as N,0.1,0,4.0416,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2026-02-15,4.0354,mg/L as N,0.1,0,4.0354,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2026-05-15,7.5623,mg/L as N,0.1,0,7.5623,Shallow Alluvial Groundwater
+IA2570046,Van Meter Municipal Water Works,2026-08-15,5.9295,mg/L as N,0.1,0,5.9295,Shallow Alluvial Groundwater
+IA7717032,Bondurant Municipal Water Supply,2009-02-15,4.2542,mg/L as N,0.1,0,4.2542,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2009-05-15,7.135,mg/L as N,0.1,0,7.135,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2009-08-15,6.169,mg/L as N,0.1,0,6.169,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2009-11-15,4.4959,mg/L as N,0.1,0,4.4959,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2014-02-15,4.6752,mg/L as N,0.1,0,4.6752,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2014-05-15,7.9445,mg/L as N,0.1,0,7.9445,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2014-08-15,6.6577,mg/L as N,0.1,0,6.6577,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2014-11-15,4.5486,mg/L as N,0.1,0,4.5486,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2020-02-15,4.0458,mg/L as N,0.1,0,4.0458,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2020-05-15,7.4511,mg/L as N,0.1,0,7.4511,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2020-08-15,5.9052,mg/L as N,0.1,0,5.9052,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2020-11-15,3.2956,mg/L as N,0.1,0,3.2956,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2025-02-15,4.6348,mg/L as N,0.1,0,4.6348,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2025-05-15,9.5867,mg/L as N,0.1,0,9.5867,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2025-08-15,6.6329,mg/L as N,0.1,0,6.6329,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2025-11-15,4.498,mg/L as N,0.1,0,4.498,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2026-02-15,4.5911,mg/L as N,0.1,0,4.5911,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2026-05-15,9.6695,mg/L as N,0.1,0,9.6695,Surface Water
+IA7717032,Bondurant Municipal Water Supply,2026-08-15,7.4004,mg/L as N,0.1,0,7.4004,Surface Water
+IA7720051,Clive Water Department (CIWW Member),2009-02-15,4.8324,mg/L as N,0.1,0,4.8324,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2009-05-15,7.4641,mg/L as N,0.1,0,7.4641,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2009-08-15,6.3826,mg/L as N,0.1,0,6.3826,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2009-11-15,4.7991,mg/L as N,0.1,0,4.7991,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2014-02-15,4.5868,mg/L as N,0.1,0,4.5868,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2014-05-15,8.4651,mg/L as N,0.1,0,8.4651,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2014-08-15,6.8424,mg/L as N,0.1,0,6.8424,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2014-11-15,4.5207,mg/L as N,0.1,0,4.5207,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2020-02-15,4.7851,mg/L as N,0.1,0,4.7851,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2020-05-15,7.6561,mg/L as N,0.1,0,7.6561,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2020-08-15,6.2811,mg/L as N,0.1,0,6.2811,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2020-11-15,4.3898,mg/L as N,0.1,0,4.3898,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2025-02-15,4.7468,mg/L as N,0.1,0,4.7468,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2025-05-15,9.728,mg/L as N,0.1,0,9.728,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2025-08-15,7.2697,mg/L as N,0.1,0,7.2697,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2025-11-15,3.7686,mg/L as N,0.1,0,3.7686,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2026-02-15,4.279,mg/L as N,0.1,0,4.279,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2026-05-15,9.2736,mg/L as N,0.1,0,9.2736,Blended Alluvial/Jordan/Surface
+IA7720051,Clive Water Department (CIWW Member),2026-08-15,7.2774,mg/L as N,0.1,0,7.2774,Blended Alluvial/Jordan/Surface
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2009-02-15,4.8784,mg/L as N,0.1,0,4.8784,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2009-05-15,8.2427,mg/L as N,0.1,0,8.2427,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2009-08-15,6.8286,mg/L as N,0.1,0,6.8286,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2009-11-15,4.8736,mg/L as N,0.1,0,4.8736,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2014-02-15,4.7559,mg/L as N,0.1,0,4.7559,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2014-05-15,9.235,mg/L as N,0.1,0,9.235,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2014-08-15,7.4827,mg/L as N,0.1,0,7.4827,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2014-11-15,4.1037,mg/L as N,0.1,0,4.1037,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2020-02-15,4.4929,mg/L as N,0.1,0,4.4929,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2020-05-15,7.6691,mg/L as N,0.1,0,7.6691,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2020-08-15,6.3718,mg/L as N,0.1,0,6.3718,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2020-11-15,4.6621,mg/L as N,0.1,0,4.6621,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2025-02-15,4.39,mg/L as N,0.1,0,4.39,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2025-05-15,10.4814,mg/L as N,0.1,0,10.4814,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2025-08-15,7.9378,mg/L as N,0.1,0,7.9378,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2025-11-15,4.3357,mg/L as N,0.1,0,4.3357,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2026-02-15,4.5547,mg/L as N,0.1,0,4.5547,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2026-05-15,9.8858,mg/L as N,0.1,0,9.8858,Surface Water
+IA7740011,Johnston Municipal Water Supply (CIWW Member),2026-08-15,7.7647,mg/L as N,0.1,0,7.7647,Surface Water
+IA7736011,Grimes Water Supply (CIWW Member),2009-02-15,1.8293,mg/L as N,0.1,0,1.8293,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2009-05-15,3.201,mg/L as N,0.1,0,3.201,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2009-08-15,2.5442,mg/L as N,0.1,0,2.5442,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2009-11-15,1.8757,mg/L as N,0.1,0,1.8757,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2014-02-15,1.9159,mg/L as N,0.1,0,1.9159,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2014-05-15,3.6193,mg/L as N,0.1,0,3.6193,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2014-08-15,2.7396,mg/L as N,0.1,0,2.7396,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2014-11-15,1.5842,mg/L as N,0.1,0,1.5842,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2020-02-15,1.8335,mg/L as N,0.1,0,1.8335,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2020-05-15,2.889,mg/L as N,0.1,0,2.889,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2020-08-15,2.1569,mg/L as N,0.1,0,2.1569,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2020-11-15,1.9477,mg/L as N,0.1,0,1.9477,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2025-02-15,1.9016,mg/L as N,0.1,0,1.9016,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2025-05-15,4.0249,mg/L as N,0.1,0,4.0249,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2025-08-15,3.4799,mg/L as N,0.1,0,3.4799,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2025-11-15,1.991,mg/L as N,0.1,0,1.991,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2026-02-15,1.6679,mg/L as N,0.1,0,1.6679,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2026-05-15,3.8683,mg/L as N,0.1,0,3.8683,Blended Alluvial/Jordan/Surface
+IA7736011,Grimes Water Supply (CIWW Member),2026-08-15,3.1151,mg/L as N,0.1,0,3.1151,Blended Alluvial/Jordan/Surface
+IA9164078,Norwalk Water Supply,2009-02-15,5.4219,mg/L as N,0.1,0,5.4219,Surface Water
+IA9164078,Norwalk Water Supply,2009-05-15,7.9997,mg/L as N,0.1,0,7.9997,Surface Water
+IA9164078,Norwalk Water Supply,2009-08-15,6.5206,mg/L as N,0.1,0,6.5206,Surface Water
+IA9164078,Norwalk Water Supply,2009-11-15,4.4087,mg/L as N,0.1,0,4.4087,Surface Water
+IA9164078,Norwalk Water Supply,2014-02-15,4.7879,mg/L as N,0.1,0,4.7879,Surface Water
+IA9164078,Norwalk Water Supply,2014-05-15,8.501,mg/L as N,0.1,0,8.501,Surface Water
+IA9164078,Norwalk Water Supply,2014-08-15,7.0211,mg/L as N,0.1,0,7.0211,Surface Water
+IA9164078,Norwalk Water Supply,2014-11-15,4.8954,mg/L as N,0.1,0,4.8954,Surface Water
+IA9164078,Norwalk Water Supply,2020-02-15,4.1911,mg/L as N,0.1,0,4.1911,Surface Water
+IA9164078,Norwalk Water Supply,2020-05-15,7.6849,mg/L as N,0.1,0,7.6849,Surface Water
+IA9164078,Norwalk Water Supply,2020-08-15,6.2264,mg/L as N,0.1,0,6.2264,Surface Water
+IA9164078,Norwalk Water Supply,2020-11-15,4.1769,mg/L as N,0.1,0,4.1769,Surface Water
+IA9164078,Norwalk Water Supply,2025-02-15,4.7687,mg/L as N,0.1,0,4.7687,Surface Water
+IA9164078,Norwalk Water Supply,2025-05-15,10.2706,mg/L as N,0.1,0,10.2706,Surface Water
+IA9164078,Norwalk Water Supply,2025-08-15,8.1316,mg/L as N,0.1,0,8.1316,Surface Water
+IA9164078,Norwalk Water Supply,2025-11-15,4.8209,mg/L as N,0.1,0,4.8209,Surface Water
+IA9164078,Norwalk Water Supply,2026-02-15,4.4921,mg/L as N,0.1,0,4.4921,Surface Water
+IA9164078,Norwalk Water Supply,2026-05-15,10.0235,mg/L as N,0.1,0,10.0235,Surface Water
+IA9164078,Norwalk Water Supply,2026-08-15,8.2002,mg/L as N,0.1,0,8.2002,Surface Water
+IA7770050,Polk City Water Supply,2009-02-15,3.6604,mg/L as N,0.1,0,3.6604,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2009-05-15,6.2108,mg/L as N,0.1,0,6.2108,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2009-08-15,5.3508,mg/L as N,0.1,0,5.3508,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2009-11-15,4.3203,mg/L as N,0.1,0,4.3203,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2014-02-15,3.9296,mg/L as N,0.1,0,3.9296,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2014-05-15,6.5219,mg/L as N,0.1,0,6.5219,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2014-08-15,5.4041,mg/L as N,0.1,0,5.4041,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2014-11-15,3.3544,mg/L as N,0.1,0,3.3544,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2020-02-15,3.598,mg/L as N,0.1,0,3.598,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2020-05-15,5.6931,mg/L as N,0.1,0,5.6931,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2020-08-15,5.1286,mg/L as N,0.1,0,5.1286,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2020-11-15,3.5943,mg/L as N,0.1,0,3.5943,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2025-02-15,3.8417,mg/L as N,0.1,0,3.8417,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2025-05-15,7.5248,mg/L as N,0.1,0,7.5248,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2025-08-15,5.9361,mg/L as N,0.1,0,5.9361,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2025-11-15,3.4594,mg/L as N,0.1,0,3.4594,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2026-02-15,3.6523,mg/L as N,0.1,0,3.6523,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2026-05-15,7.4514,mg/L as N,0.1,0,7.4514,Shallow Alluvial Groundwater
+IA7770050,Polk City Water Supply,2026-08-15,5.8032,mg/L as N,0.1,0,5.8032,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2009-02-15,3.59,mg/L as N,0.1,0,3.59,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2009-05-15,5.7603,mg/L as N,0.1,0,5.7603,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2009-08-15,4.8393,mg/L as N,0.1,0,4.8393,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2009-11-15,3.7698,mg/L as N,0.1,0,3.7698,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2014-02-15,3.4169,mg/L as N,0.1,0,3.4169,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2014-05-15,5.9087,mg/L as N,0.1,0,5.9087,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2014-08-15,5.2869,mg/L as N,0.1,0,5.2869,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2014-11-15,3.2969,mg/L as N,0.1,0,3.2969,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2020-02-15,3.6375,mg/L as N,0.1,0,3.6375,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2020-05-15,4.8551,mg/L as N,0.1,0,4.8551,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2020-08-15,4.5103,mg/L as N,0.1,0,4.5103,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2020-11-15,3.6409,mg/L as N,0.1,0,3.6409,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2025-02-15,3.5865,mg/L as N,0.1,0,3.5865,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2025-05-15,7.2819,mg/L as N,0.1,0,7.2819,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2025-08-15,5.7401,mg/L as N,0.1,0,5.7401,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2025-11-15,3.6372,mg/L as N,0.1,0,3.6372,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2026-02-15,3.7821,mg/L as N,0.1,0,3.7821,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2026-05-15,6.8101,mg/L as N,0.1,0,6.8101,Shallow Alluvial Groundwater
+IA2503003,Adel Municipal Water Works,2026-08-15,5.7921,mg/L as N,0.1,0,5.7921,Shallow Alluvial Groundwater
+IA9133075,Indianola Water Supply,2009-02-15,0.1496,mg/L as N,0.1,0,0.1496,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2009-05-15,0.2494,mg/L as N,0.1,0,0.2494,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2009-08-15,0.221,mg/L as N,0.1,0,0.221,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2009-11-15,0.2387,mg/L as N,0.1,0,0.2387,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2014-02-15,0.1691,mg/L as N,0.1,0,0.1691,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2014-05-15,0.3623,mg/L as N,0.1,0,0.3623,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2014-08-15,0.4756,mg/L as N,0.1,0,0.4756,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2014-11-15,0.2241,mg/L as N,0.1,0,0.2241,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2020-02-15,0.1583,mg/L as N,0.1,0,0.1583,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2020-05-15,0.3455,mg/L as N,0.1,0,0.3455,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2020-08-15,0.2585,mg/L as N,0.1,0,0.2585,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2020-11-15,0.2791,mg/L as N,0.1,0,0.2791,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2025-02-15,0.2659,mg/L as N,0.1,0,0.2659,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2025-05-15,0.3886,mg/L as N,0.1,0,0.3886,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2025-08-15,0.3013,mg/L as N,0.1,0,0.3013,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2025-11-15,0.2716,mg/L as N,0.1,0,0.2716,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2026-02-15,0.1592,mg/L as N,0.1,0,0.1592,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2026-05-15,0.36,mg/L as N,0.1,0,0.36,Deep Confined Bedrock (Jordan Aquifer)
+IA9133075,Indianola Water Supply,2026-08-15,0.2289,mg/L as N,0.1,0,0.2289,Deep Confined Bedrock (Jordan Aquifer)
+IA9113071,Carlisle Water Supply,2009-02-15,2.8446,mg/L as N,0.1,0,2.8446,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2009-05-15,4.79,mg/L as N,0.1,0,4.79,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2009-08-15,4.4994,mg/L as N,0.1,0,4.4994,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2009-11-15,3.15,mg/L as N,0.1,0,3.15,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2014-02-15,3.7956,mg/L as N,0.1,0,3.7956,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2014-05-15,6.1159,mg/L as N,0.1,0,6.1159,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2014-08-15,4.3451,mg/L as N,0.1,0,4.3451,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2014-11-15,3.4521,mg/L as N,0.1,0,3.4521,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2020-02-15,3.0726,mg/L as N,0.1,0,3.0726,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2020-05-15,4.9448,mg/L as N,0.1,0,4.9448,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2020-08-15,4.396,mg/L as N,0.1,0,4.396,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2020-11-15,3.3467,mg/L as N,0.1,0,3.3467,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2025-02-15,3.5903,mg/L as N,0.1,0,3.5903,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2025-05-15,6.3997,mg/L as N,0.1,0,6.3997,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2025-08-15,5.4,mg/L as N,0.1,0,5.4,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2025-11-15,2.8649,mg/L as N,0.1,0,2.8649,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2026-02-15,3.7896,mg/L as N,0.1,0,3.7896,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2026-05-15,6.2132,mg/L as N,0.1,0,6.2132,Shallow Alluvial Groundwater
+IA9113071,Carlisle Water Supply,2026-08-15,4.982,mg/L as N,0.1,0,4.982,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2009-02-15,3.5903,mg/L as N,0.1,0,3.5903,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2009-05-15,5.2278,mg/L as N,0.1,0,5.2278,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2009-08-15,4.6178,mg/L as N,0.1,0,4.6178,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2009-11-15,3.5166,mg/L as N,0.1,0,3.5166,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2014-02-15,3.5795,mg/L as N,0.1,0,3.5795,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2014-05-15,5.827,mg/L as N,0.1,0,5.827,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2014-08-15,4.6097,mg/L as N,0.1,0,4.6097,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2014-11-15,3.253,mg/L as N,0.1,0,3.253,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2020-02-15,3.1746,mg/L as N,0.1,0,3.1746,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2020-05-15,5.155,mg/L as N,0.1,0,5.155,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2020-08-15,4.4301,mg/L as N,0.1,0,4.4301,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2020-11-15,3.1039,mg/L as N,0.1,0,3.1039,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2025-02-15,3.4612,mg/L as N,0.1,0,3.4612,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2025-05-15,6.5008,mg/L as N,0.1,0,6.5008,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2025-08-15,5.7216,mg/L as N,0.1,0,5.7216,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2025-11-15,3.5765,mg/L as N,0.1,0,3.5765,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2026-02-15,3.8601,mg/L as N,0.1,0,3.8601,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2026-05-15,6.6194,mg/L as N,0.1,0,6.6194,Shallow Alluvial Groundwater
+IA7751092,Mitchellville Water Supply,2026-08-15,5.5097,mg/L as N,0.1,0,5.5097,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2009-02-15,2.8422,mg/L as N,0.1,0,2.8422,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2009-05-15,4.399,mg/L as N,0.1,0,4.399,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2009-08-15,3.8511,mg/L as N,0.1,0,3.8511,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2009-11-15,2.5758,mg/L as N,0.1,0,2.5758,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2014-02-15,2.9592,mg/L as N,0.1,0,2.9592,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2014-05-15,5.0637,mg/L as N,0.1,0,5.0637,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2014-08-15,3.8841,mg/L as N,0.1,0,3.8841,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2014-11-15,2.3041,mg/L as N,0.1,0,2.3041,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2020-02-15,2.6258,mg/L as N,0.1,0,2.6258,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2020-05-15,3.99,mg/L as N,0.1,0,3.99,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2020-08-15,3.8886,mg/L as N,0.1,0,3.8886,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2020-11-15,2.3215,mg/L as N,0.1,0,2.3215,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2025-02-15,3.9,mg/L as N,0.1,0,3.9,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2025-05-15,5.5148,mg/L as N,0.1,0,5.5148,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2025-08-15,4.5712,mg/L as N,0.1,0,4.5712,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2025-11-15,2.1707,mg/L as N,0.1,0,2.1707,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2026-02-15,2.7463,mg/L as N,0.1,0,2.7463,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2026-05-15,5.2791,mg/L as N,0.1,0,5.2791,Shallow Alluvial Groundwater
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),2026-08-15,4.5131,mg/L as N,0.1,0,4.5131,Shallow Alluvial Groundwater
+IA5751035,Marion Municipal Water Department,2009-02-15,0.5953,mg/L as N,0.1,0,0.5953,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2009-05-15,0.9093,mg/L as N,0.1,0,0.9093,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2009-08-15,0.662,mg/L as N,0.1,0,0.662,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2009-11-15,0.5608,mg/L as N,0.1,0,0.5608,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2014-02-15,0.5738,mg/L as N,0.1,0,0.5738,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2014-05-15,0.9534,mg/L as N,0.1,0,0.9534,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2014-08-15,0.728,mg/L as N,0.1,0,0.728,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2014-11-15,0.7053,mg/L as N,0.1,0,0.7053,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2020-02-15,0.6943,mg/L as N,0.1,0,0.6943,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2020-05-15,0.8967,mg/L as N,0.1,0,0.8967,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2020-08-15,0.6808,mg/L as N,0.1,0,0.6808,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2020-11-15,0.5577,mg/L as N,0.1,0,0.5577,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2025-02-15,0.6613,mg/L as N,0.1,0,0.6613,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2025-05-15,1.039,mg/L as N,0.1,0,1.039,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2025-08-15,0.8084,mg/L as N,0.1,0,0.8084,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2025-11-15,0.6251,mg/L as N,0.1,0,0.6251,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2026-02-15,0.4858,mg/L as N,0.1,0,0.4858,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2026-05-15,0.9818,mg/L as N,0.1,0,0.9818,Deep Confined Bedrock (Jordan Aquifer)
+IA5751035,Marion Municipal Water Department,2026-08-15,0.7948,mg/L as N,0.1,0,0.7948,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2009-02-15,1.0199,mg/L as N,0.1,0,1.0199,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2009-05-15,1.4504,mg/L as N,0.1,0,1.4504,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2009-08-15,1.2563,mg/L as N,0.1,0,1.2563,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2009-11-15,1.0999,mg/L as N,0.1,0,1.0999,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2014-02-15,1.0317,mg/L as N,0.1,0,1.0317,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2014-05-15,1.6006,mg/L as N,0.1,0,1.6006,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2014-08-15,1.2672,mg/L as N,0.1,0,1.2672,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2014-11-15,0.9736,mg/L as N,0.1,0,0.9736,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2020-02-15,0.9404,mg/L as N,0.1,0,0.9404,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2020-05-15,1.5751,mg/L as N,0.1,0,1.5751,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2020-08-15,1.2302,mg/L as N,0.1,0,1.2302,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2020-11-15,1.0879,mg/L as N,0.1,0,1.0879,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2025-02-15,1.0214,mg/L as N,0.1,0,1.0214,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2025-05-15,1.6286,mg/L as N,0.1,0,1.6286,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2025-08-15,1.4145,mg/L as N,0.1,0,1.4145,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2025-11-15,0.9394,mg/L as N,0.1,0,0.9394,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2026-02-15,0.9908,mg/L as N,0.1,0,0.9908,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2026-05-15,1.6508,mg/L as N,0.1,0,1.6508,Deep Confined Bedrock (Jordan Aquifer)
+IA5735045,Hiawatha Water Department,2026-08-15,1.3102,mg/L as N,0.1,0,1.3102,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2009-02-15,1.3491,mg/L as N,0.1,0,1.3491,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2009-05-15,1.6886,mg/L as N,0.1,0,1.6886,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2009-08-15,1.5306,mg/L as N,0.1,0,1.5306,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2009-11-15,1.2325,mg/L as N,0.1,0,1.2325,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2014-02-15,1.2768,mg/L as N,0.1,0,1.2768,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2014-05-15,1.9515,mg/L as N,0.1,0,1.9515,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2014-08-15,1.5303,mg/L as N,0.1,0,1.5303,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2014-11-15,1.0918,mg/L as N,0.1,0,1.0918,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2020-02-15,1.2319,mg/L as N,0.1,0,1.2319,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2020-05-15,1.7507,mg/L as N,0.1,0,1.7507,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2020-08-15,1.3928,mg/L as N,0.1,0,1.3928,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2020-11-15,1.1542,mg/L as N,0.1,0,1.1542,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2025-02-15,1.123,mg/L as N,0.1,0,1.123,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2025-05-15,2.125,mg/L as N,0.1,0,2.125,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2025-08-15,1.7692,mg/L as N,0.1,0,1.7692,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2025-11-15,1.2417,mg/L as N,0.1,0,1.2417,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2026-02-15,1.0352,mg/L as N,0.1,0,1.0352,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2026-05-15,2.1395,mg/L as N,0.1,0,2.1395,Deep Confined Bedrock (Jordan Aquifer)
+IA5731032,Fairfax Water Supply,2026-08-15,1.6699,mg/L as N,0.1,0,1.6699,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2009-02-15,1.4336,mg/L as N,0.1,0,1.4336,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2009-05-15,2.0572,mg/L as N,0.1,0,2.0572,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2009-08-15,1.8333,mg/L as N,0.1,0,1.8333,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2009-11-15,1.4539,mg/L as N,0.1,0,1.4539,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2014-02-15,1.45,mg/L as N,0.1,0,1.45,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2014-05-15,2.3512,mg/L as N,0.1,0,2.3512,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2014-08-15,1.9124,mg/L as N,0.1,0,1.9124,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2014-11-15,1.3785,mg/L as N,0.1,0,1.3785,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2020-02-15,1.4019,mg/L as N,0.1,0,1.4019,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2020-05-15,2.0544,mg/L as N,0.1,0,2.0544,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2020-08-15,1.6938,mg/L as N,0.1,0,1.6938,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2020-11-15,1.3436,mg/L as N,0.1,0,1.3436,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2025-02-15,1.3267,mg/L as N,0.1,0,1.3267,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2025-05-15,2.4326,mg/L as N,0.1,0,2.4326,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2025-08-15,2.0836,mg/L as N,0.1,0,2.0836,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2025-11-15,1.3467,mg/L as N,0.1,0,1.3467,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2026-02-15,1.3375,mg/L as N,0.1,0,1.3375,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2026-05-15,2.4538,mg/L as N,0.1,0,2.4538,Deep Confined Bedrock (Jordan Aquifer)
+IA5765101,Palo Water Supply,2026-08-15,1.9094,mg/L as N,0.1,0,1.9094,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2009-02-15,1.794,mg/L as N,0.1,0,1.794,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2009-05-15,2.1946,mg/L as N,0.1,0,2.1946,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2009-08-15,2.0369,mg/L as N,0.1,0,2.0369,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2009-11-15,1.7587,mg/L as N,0.1,0,1.7587,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2014-02-15,1.6863,mg/L as N,0.1,0,1.6863,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2014-05-15,2.526,mg/L as N,0.1,0,2.526,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2014-08-15,2.1033,mg/L as N,0.1,0,2.1033,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2014-11-15,1.585,mg/L as N,0.1,0,1.585,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2020-02-15,1.6867,mg/L as N,0.1,0,1.6867,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2020-05-15,2.3784,mg/L as N,0.1,0,2.3784,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2020-08-15,2.1074,mg/L as N,0.1,0,2.1074,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2020-11-15,1.6693,mg/L as N,0.1,0,1.6693,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2025-02-15,1.515,mg/L as N,0.1,0,1.515,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2025-05-15,2.6627,mg/L as N,0.1,0,2.6627,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2025-08-15,2.2357,mg/L as N,0.1,0,2.2357,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2025-11-15,1.4591,mg/L as N,0.1,0,1.4591,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2026-02-15,1.721,mg/L as N,0.1,0,1.721,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2026-05-15,2.5904,mg/L as N,0.1,0,2.5904,Deep Confined Bedrock (Jordan Aquifer)
+IA5343098,Monticello Water Supply,2026-08-15,2.1298,mg/L as N,0.1,0,2.1298,Deep Confined Bedrock (Jordan Aquifer)
+IA5225079,Iowa City Water Department,2009-02-15,3.3217,mg/L as N,0.1,0,3.3217,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2009-05-15,5.5116,mg/L as N,0.1,0,5.5116,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2009-08-15,4.435,mg/L as N,0.1,0,4.435,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2009-11-15,3.3158,mg/L as N,0.1,0,3.3158,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2014-02-15,3.0825,mg/L as N,0.1,0,3.0825,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2014-05-15,5.744,mg/L as N,0.1,0,5.744,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2014-08-15,4.8154,mg/L as N,0.1,0,4.8154,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2014-11-15,3.3455,mg/L as N,0.1,0,3.3455,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2020-02-15,2.9818,mg/L as N,0.1,0,2.9818,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2020-05-15,5.0494,mg/L as N,0.1,0,5.0494,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2020-08-15,4.0384,mg/L as N,0.1,0,4.0384,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2020-11-15,2.9384,mg/L as N,0.1,0,2.9384,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2025-02-15,3.1127,mg/L as N,0.1,0,3.1127,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2025-05-15,6.4515,mg/L as N,0.1,0,6.4515,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2025-08-15,5.2664,mg/L as N,0.1,0,5.2664,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2025-11-15,2.8041,mg/L as N,0.1,0,2.8041,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2026-02-15,2.9642,mg/L as N,0.1,0,2.9642,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2026-05-15,6.5279,mg/L as N,0.1,0,6.5279,Blended Alluvial/Jordan/Surface
+IA5225079,Iowa City Water Department,2026-08-15,4.969,mg/L as N,0.1,0,4.969,Blended Alluvial/Jordan/Surface
+IA5208071,Coralville Municipal Water System,2009-02-15,0.3798,mg/L as N,0.1,0,0.3798,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2009-05-15,0.5084,mg/L as N,0.1,0,0.5084,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2009-08-15,0.3763,mg/L as N,0.1,0,0.3763,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2009-11-15,0.3045,mg/L as N,0.1,0,0.3045,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2014-02-15,0.3967,mg/L as N,0.1,0,0.3967,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2014-05-15,0.5319,mg/L as N,0.1,0,0.5319,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2014-08-15,0.5932,mg/L as N,0.1,0,0.5932,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2014-11-15,0.2788,mg/L as N,0.1,0,0.2788,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2020-02-15,0.2702,mg/L as N,0.1,0,0.2702,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2020-05-15,0.598,mg/L as N,0.1,0,0.598,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2020-08-15,0.4411,mg/L as N,0.1,0,0.4411,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2020-11-15,0.3106,mg/L as N,0.1,0,0.3106,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2025-02-15,0.4065,mg/L as N,0.1,0,0.4065,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2025-05-15,0.6362,mg/L as N,0.1,0,0.6362,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2025-08-15,0.4785,mg/L as N,0.1,0,0.4785,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2025-11-15,0.3289,mg/L as N,0.1,0,0.3289,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2026-02-15,0.3419,mg/L as N,0.1,0,0.3419,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2026-05-15,0.5777,mg/L as N,0.1,0,0.5777,Deep Confined Bedrock (Jordan Aquifer)
+IA5208071,Coralville Municipal Water System,2026-08-15,0.5034,mg/L as N,0.1,0,0.5034,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2009-02-15,0.2744,mg/L as N,0.1,0,0.2744,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2009-05-15,0.5078,mg/L as N,0.1,0,0.5078,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2009-08-15,0.3762,mg/L as N,0.1,0,0.3762,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2009-11-15,0.2067,mg/L as N,0.1,0,0.2067,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2014-02-15,0.3847,mg/L as N,0.1,0,0.3847,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2014-05-15,0.5609,mg/L as N,0.1,0,0.5609,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2014-08-15,0.4524,mg/L as N,0.1,0,0.4524,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2014-11-15,0.3494,mg/L as N,0.1,0,0.3494,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2020-02-15,0.3182,mg/L as N,0.1,0,0.3182,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2020-05-15,0.527,mg/L as N,0.1,0,0.527,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2020-08-15,0.4435,mg/L as N,0.1,0,0.4435,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2020-11-15,0.3761,mg/L as N,0.1,0,0.3761,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2025-02-15,0.2614,mg/L as N,0.1,0,0.2614,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2025-05-15,0.6355,mg/L as N,0.1,0,0.6355,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2025-08-15,0.4759,mg/L as N,0.1,0,0.4759,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2025-11-15,0.3259,mg/L as N,0.1,0,0.3259,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2026-02-15,0.2948,mg/L as N,0.1,0,0.2948,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2026-05-15,0.5308,mg/L as N,0.1,0,0.5308,Deep Confined Bedrock (Jordan Aquifer)
+IA5252072,North Liberty Water Supply,2026-08-15,0.4677,mg/L as N,0.1,0,0.4677,Deep Confined Bedrock (Jordan Aquifer)
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2009-02-15,2.2824,mg/L as N,0.1,0,2.2824,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2009-05-15,4.4075,mg/L as N,0.1,0,4.4075,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2009-08-15,3.9629,mg/L as N,0.1,0,3.9629,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2009-11-15,1.8537,mg/L as N,0.1,0,1.8537,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2014-02-15,2.7304,mg/L as N,0.1,0,2.7304,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2014-05-15,4.782,mg/L as N,0.1,0,4.782,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2014-08-15,3.32,mg/L as N,0.1,0,3.32,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2014-11-15,2.1231,mg/L as N,0.1,0,2.1231,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2020-02-15,2.2067,mg/L as N,0.1,0,2.2067,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2020-05-15,4.1936,mg/L as N,0.1,0,4.1936,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2020-08-15,2.4361,mg/L as N,0.1,0,2.4361,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2020-11-15,1.4742,mg/L as N,0.1,0,1.4742,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2025-02-15,3.1882,mg/L as N,0.1,0,3.1882,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2025-05-15,5.3098,mg/L as N,0.1,0,5.3098,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2025-08-15,4.7384,mg/L as N,0.1,0,4.7384,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2025-11-15,2.8259,mg/L as N,0.1,0,2.8259,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2026-02-15,2.3115,mg/L as N,0.1,0,2.3115,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2026-05-15,5.2615,mg/L as N,0.1,0,5.2615,Surface Water
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,2026-08-15,5.3036,mg/L as N,0.1,0,5.3036,Surface Water
+IA8230008,Eldridge Water Supply,2009-02-15,0.5008,mg/L as N,0.1,0,0.5008,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2009-05-15,0.7867,mg/L as N,0.1,0,0.7867,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2009-08-15,0.6996,mg/L as N,0.1,0,0.6996,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2009-11-15,0.4534,mg/L as N,0.1,0,0.4534,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2014-02-15,0.4679,mg/L as N,0.1,0,0.4679,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2014-05-15,0.7458,mg/L as N,0.1,0,0.7458,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2014-08-15,0.6325,mg/L as N,0.1,0,0.6325,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2014-11-15,0.5559,mg/L as N,0.1,0,0.5559,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2020-02-15,0.3925,mg/L as N,0.1,0,0.3925,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2020-05-15,0.7936,mg/L as N,0.1,0,0.7936,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2020-08-15,0.6424,mg/L as N,0.1,0,0.6424,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2020-11-15,0.5754,mg/L as N,0.1,0,0.5754,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2025-02-15,0.4257,mg/L as N,0.1,0,0.4257,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2025-05-15,0.924,mg/L as N,0.1,0,0.924,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2025-08-15,0.7327,mg/L as N,0.1,0,0.7327,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2025-11-15,0.5503,mg/L as N,0.1,0,0.5503,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2026-02-15,0.4781,mg/L as N,0.1,0,0.4781,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2026-05-15,0.8992,mg/L as N,0.1,0,0.8992,Deep Confined Bedrock (Jordan Aquifer)
+IA8230008,Eldridge Water Supply,2026-08-15,0.7326,mg/L as N,0.1,0,0.7326,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2009-02-15,0.3438,mg/L as N,0.1,0,0.3438,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2009-05-15,0.4943,mg/L as N,0.1,0,0.4943,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2009-08-15,0.4038,mg/L as N,0.1,0,0.4038,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2009-11-15,0.2631,mg/L as N,0.1,0,0.2631,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2014-02-15,0.3271,mg/L as N,0.1,0,0.3271,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2014-05-15,0.5976,mg/L as N,0.1,0,0.5976,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2014-08-15,0.4544,mg/L as N,0.1,0,0.4544,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2014-11-15,0.3127,mg/L as N,0.1,0,0.3127,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2020-02-15,0.3059,mg/L as N,0.1,0,0.3059,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2020-05-15,0.4423,mg/L as N,0.1,0,0.4423,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2020-08-15,0.4509,mg/L as N,0.1,0,0.4509,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2020-11-15,0.3333,mg/L as N,0.1,0,0.3333,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2025-02-15,0.3716,mg/L as N,0.1,0,0.3716,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2025-05-15,0.5689,mg/L as N,0.1,0,0.5689,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2025-08-15,0.4951,mg/L as N,0.1,0,0.4951,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2025-11-15,0.3825,mg/L as N,0.1,0,0.3825,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2026-02-15,0.4006,mg/L as N,0.1,0,0.4006,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2026-05-15,0.7076,mg/L as N,0.1,0,0.7076,Deep Confined Bedrock (Jordan Aquifer)
+IA2326048,Iowa-American Water Company - Clinton District,2026-08-15,0.5867,mg/L as N,0.1,0,0.5867,Deep Confined Bedrock (Jordan Aquifer)
+IA3126052,Dubuque Water Works,2009-02-15,1.8978,mg/L as N,0.1,0,1.8978,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2009-05-15,2.0712,mg/L as N,0.1,0,2.0712,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2009-08-15,1.5593,mg/L as N,0.1,0,1.5593,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2009-11-15,1.3368,mg/L as N,0.1,0,1.3368,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2014-02-15,1.5758,mg/L as N,0.1,0,1.5758,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2014-05-15,2.1293,mg/L as N,0.1,0,2.1293,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2014-08-15,1.4263,mg/L as N,0.1,0,1.4263,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2014-11-15,1.3646,mg/L as N,0.1,0,1.3646,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2020-02-15,1.4009,mg/L as N,0.1,0,1.4009,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2020-05-15,1.7833,mg/L as N,0.1,0,1.7833,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2020-08-15,1.9284,mg/L as N,0.1,0,1.9284,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2020-11-15,0.958,mg/L as N,0.1,0,0.958,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2025-02-15,1.4539,mg/L as N,0.1,0,1.4539,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2025-05-15,2.7348,mg/L as N,0.1,0,2.7348,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2025-08-15,2.2898,mg/L as N,0.1,0,2.2898,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2025-11-15,1.624,mg/L as N,0.1,0,1.624,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2026-02-15,1.5612,mg/L as N,0.1,0,1.5612,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2026-05-15,2.4211,mg/L as N,0.1,0,2.4211,Blended Alluvial/Jordan/Surface
+IA3126052,Dubuque Water Works,2026-08-15,2.3219,mg/L as N,0.1,0,2.3219,Blended Alluvial/Jordan/Surface
+IA3170001,Peosta Water Supply,2009-02-15,0.5311,mg/L as N,0.1,0,0.5311,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2009-05-15,0.7281,mg/L as N,0.1,0,0.7281,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2009-08-15,0.6064,mg/L as N,0.1,0,0.6064,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2009-11-15,0.5759,mg/L as N,0.1,0,0.5759,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2014-02-15,0.6657,mg/L as N,0.1,0,0.6657,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2014-05-15,0.7985,mg/L as N,0.1,0,0.7985,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2014-08-15,0.6144,mg/L as N,0.1,0,0.6144,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2014-11-15,0.329,mg/L as N,0.1,0,0.329,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2020-02-15,0.353,mg/L as N,0.1,0,0.353,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2020-05-15,0.647,mg/L as N,0.1,0,0.647,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2020-08-15,0.5169,mg/L as N,0.1,0,0.5169,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2020-11-15,0.4404,mg/L as N,0.1,0,0.4404,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2025-02-15,0.4802,mg/L as N,0.1,0,0.4802,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2025-05-15,0.8648,mg/L as N,0.1,0,0.8648,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2025-08-15,0.5862,mg/L as N,0.1,0,0.5862,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2025-11-15,0.4824,mg/L as N,0.1,0,0.4824,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2026-02-15,0.5135,mg/L as N,0.1,0,0.5135,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2026-05-15,0.8714,mg/L as N,0.1,0,0.8714,Deep Confined Bedrock (Jordan Aquifer)
+IA3170001,Peosta Water Supply,2026-08-15,0.6018,mg/L as N,0.1,0,0.6018,Deep Confined Bedrock (Jordan Aquifer)
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2009-02-15,1.7875,mg/L as N,0.1,0,1.7875,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2009-05-15,2.884,mg/L as N,0.1,0,2.884,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2009-08-15,2.4307,mg/L as N,0.1,0,2.4307,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2009-11-15,1.6935,mg/L as N,0.1,0,1.6935,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2014-02-15,1.8112,mg/L as N,0.1,0,1.8112,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2014-05-15,3.2111,mg/L as N,0.1,0,3.2111,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2014-08-15,2.0837,mg/L as N,0.1,0,2.0837,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2014-11-15,2.0819,mg/L as N,0.1,0,2.0819,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2020-02-15,1.2847,mg/L as N,0.1,0,1.2847,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2020-05-15,2.8324,mg/L as N,0.1,0,2.8324,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2020-08-15,1.283,mg/L as N,0.1,0,1.283,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2020-11-15,1.4294,mg/L as N,0.1,0,1.4294,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2025-02-15,1.7445,mg/L as N,0.1,0,1.7445,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2025-05-15,3.8879,mg/L as N,0.1,0,3.8879,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2025-08-15,2.3858,mg/L as N,0.1,0,2.3858,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2025-11-15,1.763,mg/L as N,0.1,0,1.763,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2026-02-15,1.9361,mg/L as N,0.1,0,1.9361,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2026-05-15,3.3413,mg/L as N,0.1,0,3.3413,Surface Water
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),2026-08-15,2.9309,mg/L as N,0.1,0,2.9309,Surface Water
+IA9778054,Sioux City Water Supply,2009-02-15,1.7516,mg/L as N,0.1,0,1.7516,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2009-05-15,3.2767,mg/L as N,0.1,0,3.2767,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2009-08-15,2.3825,mg/L as N,0.1,0,2.3825,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2009-11-15,2.212,mg/L as N,0.1,0,2.212,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2014-02-15,1.9141,mg/L as N,0.1,0,1.9141,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2014-05-15,3.328,mg/L as N,0.1,0,3.328,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2014-08-15,2.8819,mg/L as N,0.1,0,2.8819,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2014-11-15,1.947,mg/L as N,0.1,0,1.947,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2020-02-15,1.9439,mg/L as N,0.1,0,1.9439,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2020-05-15,3.0327,mg/L as N,0.1,0,3.0327,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2020-08-15,2.382,mg/L as N,0.1,0,2.382,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2020-11-15,1.7803,mg/L as N,0.1,0,1.7803,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2025-02-15,1.6047,mg/L as N,0.1,0,1.6047,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2025-05-15,3.6434,mg/L as N,0.1,0,3.6434,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2025-08-15,3.0642,mg/L as N,0.1,0,3.0642,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2025-11-15,1.8272,mg/L as N,0.1,0,1.8272,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2026-02-15,2.1101,mg/L as N,0.1,0,2.1101,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2026-05-15,3.4601,mg/L as N,0.1,0,3.4601,Shallow Alluvial Groundwater
+IA9778054,Sioux City Water Supply,2026-08-15,3.1828,mg/L as N,0.1,0,3.1828,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2009-02-15,1.739,mg/L as N,0.1,0,1.739,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2009-05-15,2.199,mg/L as N,0.1,0,2.199,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2009-08-15,2.4115,mg/L as N,0.1,0,2.4115,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2009-11-15,1.5571,mg/L as N,0.1,0,1.5571,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2014-02-15,1.6685,mg/L as N,0.1,0,1.6685,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2014-05-15,3.3222,mg/L as N,0.1,0,3.3222,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2014-08-15,2.5839,mg/L as N,0.1,0,2.5839,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2014-11-15,1.5591,mg/L as N,0.1,0,1.5591,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2020-02-15,1.6051,mg/L as N,0.1,0,1.6051,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2020-05-15,2.8145,mg/L as N,0.1,0,2.8145,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2020-08-15,2.0095,mg/L as N,0.1,0,2.0095,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2020-11-15,1.5274,mg/L as N,0.1,0,1.5274,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2025-02-15,2.0976,mg/L as N,0.1,0,2.0976,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2025-05-15,3.4761,mg/L as N,0.1,0,3.4761,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2025-08-15,2.9293,mg/L as N,0.1,0,2.9293,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2025-11-15,1.7702,mg/L as N,0.1,0,1.7702,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2026-02-15,1.6834,mg/L as N,0.1,0,1.6834,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2026-05-15,3.373,mg/L as N,0.1,0,3.373,Shallow Alluvial Groundwater
+IA9774033,Sergeant Bluff Water Supply,2026-08-15,2.714,mg/L as N,0.1,0,2.714,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2009-02-15,2.1243,mg/L as N,0.1,0,2.1243,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2009-05-15,3.5407,mg/L as N,0.1,0,3.5407,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2009-08-15,2.7596,mg/L as N,0.1,0,2.7596,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2009-11-15,2.3505,mg/L as N,0.1,0,2.3505,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2014-02-15,2.4649,mg/L as N,0.1,0,2.4649,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2014-05-15,3.7439,mg/L as N,0.1,0,3.7439,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2014-08-15,3.0316,mg/L as N,0.1,0,3.0316,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2014-11-15,2.215,mg/L as N,0.1,0,2.215,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2020-02-15,1.6537,mg/L as N,0.1,0,1.6537,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2020-05-15,3.1005,mg/L as N,0.1,0,3.1005,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2020-08-15,2.6476,mg/L as N,0.1,0,2.6476,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2020-11-15,1.8977,mg/L as N,0.1,0,1.8977,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2025-02-15,2.0386,mg/L as N,0.1,0,2.0386,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2025-05-15,3.8677,mg/L as N,0.1,0,3.8677,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2025-08-15,3.6499,mg/L as N,0.1,0,3.6499,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2025-11-15,2.2738,mg/L as N,0.1,0,2.2738,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2026-02-15,2.0415,mg/L as N,0.1,0,2.0415,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2026-05-15,4.4025,mg/L as N,0.1,0,4.4025,Shallow Alluvial Groundwater
+IA9770024,Salix Water Supply,2026-08-15,3.3841,mg/L as N,0.1,0,3.3841,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2009-02-15,5.7167,mg/L as N,0.1,0,5.7167,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2009-05-15,8.1697,mg/L as N,0.1,0,8.1697,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2009-08-15,7.3321,mg/L as N,0.1,0,7.3321,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2009-11-15,5.4755,mg/L as N,0.1,0,5.4755,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2014-02-15,5.7836,mg/L as N,0.1,0,5.7836,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2014-05-15,8.5487,mg/L as N,0.1,0,8.5487,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2014-08-15,7.259,mg/L as N,0.1,0,7.259,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2014-11-15,6.2025,mg/L as N,0.1,0,6.2025,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2020-02-15,6.0925,mg/L as N,0.1,0,6.0925,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2020-05-15,8.0647,mg/L as N,0.1,0,8.0647,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2020-08-15,6.6608,mg/L as N,0.1,0,6.6608,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2020-11-15,5.1335,mg/L as N,0.1,0,5.1335,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2025-02-15,5.8385,mg/L as N,0.1,0,5.8385,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2025-05-15,9.5429,mg/L as N,0.1,0,9.5429,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2025-08-15,7.7973,mg/L as N,0.1,0,7.7973,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2025-11-15,5.3608,mg/L as N,0.1,0,5.3608,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2026-02-15,5.7576,mg/L as N,0.1,0,5.7576,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2026-05-15,9.7468,mg/L as N,0.1,0,9.7468,Shallow Alluvial Groundwater
+IA8444063,Hull Water Supply,2026-08-15,7.7777,mg/L as N,0.1,0,7.7777,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2009-02-15,4.838,mg/L as N,0.1,0,4.838,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2009-05-15,6.814,mg/L as N,0.1,0,6.814,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2009-08-15,5.969,mg/L as N,0.1,0,5.969,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2009-11-15,4.654,mg/L as N,0.1,0,4.654,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2014-02-15,4.5485,mg/L as N,0.1,0,4.5485,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2014-05-15,7.3703,mg/L as N,0.1,0,7.3703,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2014-08-15,6.1992,mg/L as N,0.1,0,6.1992,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2014-11-15,4.7287,mg/L as N,0.1,0,4.7287,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2020-02-15,4.5705,mg/L as N,0.1,0,4.5705,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2020-05-15,6.7885,mg/L as N,0.1,0,6.7885,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2020-08-15,5.6552,mg/L as N,0.1,0,5.6552,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2020-11-15,4.3138,mg/L as N,0.1,0,4.3138,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2025-02-15,5.0395,mg/L as N,0.1,0,5.0395,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2025-05-15,8.4236,mg/L as N,0.1,0,8.4236,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2025-08-15,6.8422,mg/L as N,0.1,0,6.8422,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2025-11-15,4.6405,mg/L as N,0.1,0,4.6405,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2026-02-15,5.1515,mg/L as N,0.1,0,5.1515,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2026-05-15,8.2326,mg/L as N,0.1,0,8.2326,Shallow Alluvial Groundwater
+IA8486053,Sioux Center Municipal Water Department,2026-08-15,6.568,mg/L as N,0.1,0,6.568,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2009-02-15,4.8763,mg/L as N,0.1,0,4.8763,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2009-05-15,6.1172,mg/L as N,0.1,0,6.1172,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2009-08-15,5.6447,mg/L as N,0.1,0,5.6447,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2009-11-15,4.5445,mg/L as N,0.1,0,4.5445,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2014-02-15,4.2859,mg/L as N,0.1,0,4.2859,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2014-05-15,6.5769,mg/L as N,0.1,0,6.5769,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2014-08-15,5.9261,mg/L as N,0.1,0,5.9261,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2014-11-15,4.5512,mg/L as N,0.1,0,4.5512,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2020-02-15,4.4213,mg/L as N,0.1,0,4.4213,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2020-05-15,6.6466,mg/L as N,0.1,0,6.6466,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2020-08-15,5.8592,mg/L as N,0.1,0,5.8592,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2020-11-15,4.2494,mg/L as N,0.1,0,4.2494,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2025-02-15,4.598,mg/L as N,0.1,0,4.598,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2025-05-15,7.7103,mg/L as N,0.1,0,7.7103,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2025-08-15,6.1694,mg/L as N,0.1,0,6.1694,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2025-11-15,4.4101,mg/L as N,0.1,0,4.4101,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2026-02-15,4.5733,mg/L as N,0.1,0,4.5733,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2026-05-15,7.5653,mg/L as N,0.1,0,7.5653,Shallow Alluvial Groundwater
+IA4715072,Galva Water Supply,2026-08-15,6.4057,mg/L as N,0.1,0,6.4057,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2009-02-15,1.6426,mg/L as N,0.1,0,1.6426,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2009-05-15,1.9113,mg/L as N,0.1,0,1.9113,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2009-08-15,1.6656,mg/L as N,0.1,0,1.6656,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2009-11-15,1.0608,mg/L as N,0.1,0,1.0608,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2014-02-15,1.4105,mg/L as N,0.1,0,1.4105,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2014-05-15,2.0098,mg/L as N,0.1,0,2.0098,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2014-08-15,1.7605,mg/L as N,0.1,0,1.7605,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2014-11-15,1.8127,mg/L as N,0.1,0,1.8127,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2020-02-15,1.0224,mg/L as N,0.1,0,1.0224,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2020-05-15,1.7718,mg/L as N,0.1,0,1.7718,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2020-08-15,1.0298,mg/L as N,0.1,0,1.0298,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2020-11-15,0.9836,mg/L as N,0.1,0,0.9836,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2025-02-15,1.384,mg/L as N,0.1,0,1.384,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2025-05-15,2.9151,mg/L as N,0.1,0,2.9151,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2025-08-15,2.3411,mg/L as N,0.1,0,2.3411,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2025-11-15,1.586,mg/L as N,0.1,0,1.586,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2026-02-15,1.5329,mg/L as N,0.1,0,1.5329,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2026-05-15,2.2523,mg/L as N,0.1,0,2.2523,Shallow Alluvial Groundwater
+IA3045046,Lake Park Municipal Utilities,2026-08-15,2.2662,mg/L as N,0.1,0,2.2662,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2009-02-15,2.808,mg/L as N,0.1,0,2.808,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2009-05-15,4.5608,mg/L as N,0.1,0,4.5608,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2009-08-15,3.9568,mg/L as N,0.1,0,3.9568,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2009-11-15,2.5258,mg/L as N,0.1,0,2.5258,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2014-02-15,3.0431,mg/L as N,0.1,0,3.0431,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2014-05-15,4.3445,mg/L as N,0.1,0,4.3445,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2014-08-15,4.485,mg/L as N,0.1,0,4.485,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2014-11-15,2.6914,mg/L as N,0.1,0,2.6914,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2020-02-15,2.7084,mg/L as N,0.1,0,2.7084,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2020-05-15,3.8214,mg/L as N,0.1,0,3.8214,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2020-08-15,3.3629,mg/L as N,0.1,0,3.3629,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2020-11-15,2.0601,mg/L as N,0.1,0,2.0601,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2025-02-15,2.7337,mg/L as N,0.1,0,2.7337,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2025-05-15,5.2671,mg/L as N,0.1,0,5.2671,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2025-08-15,3.9606,mg/L as N,0.1,0,3.9606,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2025-11-15,2.7314,mg/L as N,0.1,0,2.7314,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2026-02-15,2.914,mg/L as N,0.1,0,2.914,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2026-05-15,5.2054,mg/L as N,0.1,0,5.2054,Shallow Alluvial Groundwater
+IA0105002,Adair Municipal Water Supply,2026-08-15,4.0591,mg/L as N,0.1,0,4.0591,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2009-02-15,2.3911,mg/L as N,0.1,0,2.3911,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2009-05-15,3.3416,mg/L as N,0.1,0,3.3416,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2009-08-15,2.942,mg/L as N,0.1,0,2.942,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2009-11-15,2.2822,mg/L as N,0.1,0,2.2822,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2014-02-15,2.344,mg/L as N,0.1,0,2.344,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2014-05-15,4.1738,mg/L as N,0.1,0,4.1738,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2014-08-15,3.426,mg/L as N,0.1,0,3.426,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2014-11-15,2.1733,mg/L as N,0.1,0,2.1733,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2020-02-15,2.0477,mg/L as N,0.1,0,2.0477,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2020-05-15,3.0495,mg/L as N,0.1,0,3.0495,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2020-08-15,2.6876,mg/L as N,0.1,0,2.6876,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2020-11-15,1.5032,mg/L as N,0.1,0,1.5032,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2025-02-15,2.2271,mg/L as N,0.1,0,2.2271,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2025-05-15,4.3418,mg/L as N,0.1,0,4.3418,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2025-08-15,3.3161,mg/L as N,0.1,0,3.3161,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2025-11-15,2.4462,mg/L as N,0.1,0,2.4462,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2026-02-15,2.0125,mg/L as N,0.1,0,2.0125,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2026-05-15,4.6082,mg/L as N,0.1,0,4.6082,Shallow Alluvial Groundwater
+IA8503039,Ames Water Treatment Plant,2026-08-15,3.3854,mg/L as N,0.1,0,3.3854,Shallow Alluvial Groundwater
+IA8562044,Nevada Water Supply,2009-02-15,0.5857,mg/L as N,0.1,0,0.5857,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2009-05-15,0.6971,mg/L as N,0.1,0,0.6971,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2009-08-15,0.6389,mg/L as N,0.1,0,0.6389,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2009-11-15,0.6644,mg/L as N,0.1,0,0.6644,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2014-02-15,0.6325,mg/L as N,0.1,0,0.6325,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2014-05-15,0.9092,mg/L as N,0.1,0,0.9092,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2014-08-15,0.6818,mg/L as N,0.1,0,0.6818,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2014-11-15,0.5672,mg/L as N,0.1,0,0.5672,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2020-02-15,0.5467,mg/L as N,0.1,0,0.5467,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2020-05-15,0.8337,mg/L as N,0.1,0,0.8337,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2020-08-15,0.6271,mg/L as N,0.1,0,0.6271,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2020-11-15,0.489,mg/L as N,0.1,0,0.489,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2025-02-15,0.6157,mg/L as N,0.1,0,0.6157,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2025-05-15,0.8609,mg/L as N,0.1,0,0.8609,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2025-08-15,0.6891,mg/L as N,0.1,0,0.6891,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2025-11-15,0.4801,mg/L as N,0.1,0,0.4801,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2026-02-15,0.5806,mg/L as N,0.1,0,0.5806,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2026-05-15,0.9388,mg/L as N,0.1,0,0.9388,Deep Confined Bedrock (Jordan Aquifer)
+IA8562044,Nevada Water Supply,2026-08-15,0.8072,mg/L as N,0.1,0,0.8072,Deep Confined Bedrock (Jordan Aquifer)
+IA0819033,Boone Water Works,2009-02-15,3.4617,mg/L as N,0.1,0,3.4617,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2009-05-15,6.0749,mg/L as N,0.1,0,6.0749,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2009-08-15,4.9099,mg/L as N,0.1,0,4.9099,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2009-11-15,3.7229,mg/L as N,0.1,0,3.7229,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2014-02-15,3.7233,mg/L as N,0.1,0,3.7233,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2014-05-15,6.8805,mg/L as N,0.1,0,6.8805,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2014-08-15,5.5402,mg/L as N,0.1,0,5.5402,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2014-11-15,3.0969,mg/L as N,0.1,0,3.0969,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2020-02-15,3.9296,mg/L as N,0.1,0,3.9296,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2020-05-15,5.751,mg/L as N,0.1,0,5.751,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2020-08-15,5.1465,mg/L as N,0.1,0,5.1465,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2020-11-15,3.5186,mg/L as N,0.1,0,3.5186,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2025-02-15,3.6976,mg/L as N,0.1,0,3.6976,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2025-05-15,6.6389,mg/L as N,0.1,0,6.6389,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2025-08-15,6.1351,mg/L as N,0.1,0,6.1351,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2025-11-15,3.84,mg/L as N,0.1,0,3.84,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2026-02-15,3.9556,mg/L as N,0.1,0,3.9556,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2026-05-15,7.288,mg/L as N,0.1,0,7.288,Shallow Alluvial Groundwater
+IA0819033,Boone Water Works,2026-08-15,5.9143,mg/L as N,0.1,0,5.9143,Shallow Alluvial Groundwater
+IA0790074,Waterloo Water Works,2009-02-15,2.6971,mg/L as N,0.1,0,2.6971,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2009-05-15,3.7775,mg/L as N,0.1,0,3.7775,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2009-08-15,3.29,mg/L as N,0.1,0,3.29,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2009-11-15,2.5613,mg/L as N,0.1,0,2.5613,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2014-02-15,2.5592,mg/L as N,0.1,0,2.5592,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2014-05-15,3.9843,mg/L as N,0.1,0,3.9843,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2014-08-15,3.3071,mg/L as N,0.1,0,3.3071,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2014-11-15,2.5245,mg/L as N,0.1,0,2.5245,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2020-02-15,2.5452,mg/L as N,0.1,0,2.5452,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2020-05-15,3.5002,mg/L as N,0.1,0,3.5002,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2020-08-15,3.2088,mg/L as N,0.1,0,3.2088,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2020-11-15,2.6256,mg/L as N,0.1,0,2.6256,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2025-02-15,2.5043,mg/L as N,0.1,0,2.5043,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2025-05-15,4.34,mg/L as N,0.1,0,4.34,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2025-08-15,3.4929,mg/L as N,0.1,0,3.4929,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2025-11-15,2.4166,mg/L as N,0.1,0,2.4166,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2026-02-15,2.4131,mg/L as N,0.1,0,2.4131,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2026-05-15,4.1823,mg/L as N,0.1,0,4.1823,Deep Confined Bedrock (Jordan Aquifer)
+IA0790074,Waterloo Water Works,2026-08-15,3.4059,mg/L as N,0.1,0,3.4059,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2009-02-15,2.7744,mg/L as N,0.1,0,2.7744,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2009-05-15,3.8288,mg/L as N,0.1,0,3.8288,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2009-08-15,3.4838,mg/L as N,0.1,0,3.4838,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2009-11-15,2.6296,mg/L as N,0.1,0,2.6296,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2014-02-15,2.7581,mg/L as N,0.1,0,2.7581,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2014-05-15,4.1595,mg/L as N,0.1,0,4.1595,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2014-08-15,3.5571,mg/L as N,0.1,0,3.5571,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2014-11-15,2.4519,mg/L as N,0.1,0,2.4519,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2020-02-15,2.7908,mg/L as N,0.1,0,2.7908,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2020-05-15,3.8569,mg/L as N,0.1,0,3.8569,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2020-08-15,3.4184,mg/L as N,0.1,0,3.4184,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2020-11-15,2.6042,mg/L as N,0.1,0,2.6042,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2025-02-15,2.5018,mg/L as N,0.1,0,2.5018,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2025-05-15,4.4597,mg/L as N,0.1,0,4.4597,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2025-08-15,3.8368,mg/L as N,0.1,0,3.8368,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2025-11-15,2.4457,mg/L as N,0.1,0,2.4457,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2026-02-15,2.4493,mg/L as N,0.1,0,2.4493,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2026-05-15,4.5013,mg/L as N,0.1,0,4.5013,Deep Confined Bedrock (Jordan Aquifer)
+IA0709084,Cedar Falls Municipal Water Utilities,2026-08-15,3.697,mg/L as N,0.1,0,3.697,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2009-02-15,0.1992,mg/L as N,0.1,0,0.1992,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2009-05-15,0.3634,mg/L as N,0.1,0,0.3634,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2009-08-15,0.287,mg/L as N,0.1,0,0.287,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2009-11-15,0.3773,mg/L as N,0.1,0,0.3773,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2014-02-15,0.1587,mg/L as N,0.1,0,0.1587,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2014-05-15,0.3631,mg/L as N,0.1,0,0.3631,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2014-08-15,0.349,mg/L as N,0.1,0,0.349,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2014-11-15,0.2363,mg/L as N,0.1,0,0.2363,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2020-02-15,0.1709,mg/L as N,0.1,0,0.1709,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2020-05-15,0.3136,mg/L as N,0.1,0,0.3136,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2020-08-15,0.2933,mg/L as N,0.1,0,0.2933,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2020-11-15,0.0444,mg/L as N,0.1,1,0.0707,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2025-02-15,0.2572,mg/L as N,0.1,0,0.2572,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2025-05-15,0.4455,mg/L as N,0.1,0,0.4455,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2025-08-15,0.3346,mg/L as N,0.1,0,0.3346,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2025-11-15,0.2137,mg/L as N,0.1,0,0.2137,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2026-02-15,0.1527,mg/L as N,0.1,0,0.1527,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2026-05-15,0.3662,mg/L as N,0.1,0,0.3662,Deep Confined Bedrock (Jordan Aquifer)
+IA7930008,Grinnell Water Department,2026-08-15,0.3156,mg/L as N,0.1,0,0.3156,Deep Confined Bedrock (Jordan Aquifer)
+IA6273005,Oskaloosa Municipal Water Department,2009-02-15,1.1824,mg/L as N,0.1,0,1.1824,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2009-05-15,1.7411,mg/L as N,0.1,0,1.7411,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2009-08-15,1.2835,mg/L as N,0.1,0,1.2835,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2009-11-15,1.2174,mg/L as N,0.1,0,1.2174,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2014-02-15,0.8299,mg/L as N,0.1,0,0.8299,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2014-05-15,1.8332,mg/L as N,0.1,0,1.8332,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2014-08-15,1.639,mg/L as N,0.1,0,1.639,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2014-11-15,1.7264,mg/L as N,0.1,0,1.7264,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2020-02-15,1.0117,mg/L as N,0.1,0,1.0117,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2020-05-15,1.6178,mg/L as N,0.1,0,1.6178,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2020-08-15,1.2702,mg/L as N,0.1,0,1.2702,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2020-11-15,0.704,mg/L as N,0.1,0,0.704,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2025-02-15,1.24,mg/L as N,0.1,0,1.24,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2025-05-15,1.9881,mg/L as N,0.1,0,1.9881,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2025-08-15,2.2857,mg/L as N,0.1,0,2.2857,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2025-11-15,1.3543,mg/L as N,0.1,0,1.3543,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2026-02-15,1.3592,mg/L as N,0.1,0,1.3592,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2026-05-15,2.863,mg/L as N,0.1,0,2.863,Shallow Alluvial Groundwater
+IA6273005,Oskaloosa Municipal Water Department,2026-08-15,2.1837,mg/L as N,0.1,0,2.1837,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2009-02-15,1.9587,mg/L as N,0.1,0,1.9587,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2009-05-15,2.6293,mg/L as N,0.1,0,2.6293,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2009-08-15,2.4242,mg/L as N,0.1,0,2.4242,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2009-11-15,1.7849,mg/L as N,0.1,0,1.7849,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2014-02-15,1.5867,mg/L as N,0.1,0,1.5867,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2014-05-15,2.4367,mg/L as N,0.1,0,2.4367,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2014-08-15,2.2738,mg/L as N,0.1,0,2.2738,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2014-11-15,1.8258,mg/L as N,0.1,0,1.8258,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2020-02-15,1.2723,mg/L as N,0.1,0,1.2723,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2020-05-15,2.9055,mg/L as N,0.1,0,2.9055,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2020-08-15,1.6741,mg/L as N,0.1,0,1.6741,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2020-11-15,1.3324,mg/L as N,0.1,0,1.3324,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2025-02-15,2.2077,mg/L as N,0.1,0,2.2077,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2025-05-15,3.9063,mg/L as N,0.1,0,3.9063,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2025-08-15,2.5365,mg/L as N,0.1,0,2.5365,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2025-11-15,1.762,mg/L as N,0.1,0,1.762,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2026-02-15,1.6,mg/L as N,0.1,0,1.6,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2026-05-15,3.2242,mg/L as N,0.1,0,3.2242,Shallow Alluvial Groundwater
+IA6469042,Marshalltown Water Works,2026-08-15,2.3252,mg/L as N,0.1,0,2.3252,Shallow Alluvial Groundwater

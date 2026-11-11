@@ -1,0 +1,12 @@
+{
+  "causal_analysis_status": "NOT ESTIMATED",
+  "reason": "No independently validated time-varying facility to source or supply-network crosswalk",
+  "available_observed_period": "2012-2019",
+  "finished_stage_requires_review": "finished_or_entry includes entry and distribution points; labels do not verify source connectivity",
+  "weather_controls": "No measured local weather file acquired; no synthetic weather inserted",
+  "unsupported_claims": [
+    "zero causal effect",
+    "statewide equivalence",
+    "attribution of 2025-2026 spikes"
+  ]
+}

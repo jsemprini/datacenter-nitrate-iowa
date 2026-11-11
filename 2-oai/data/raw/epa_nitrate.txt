@@ -1,0 +1,944 @@
+National Primary Drinking Water Regulations | US EPA
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+JavaScript appears to be disabled on this computer. Please
+click here to see any active alerts
+.
+Menu
+Search
+Search
+Primary navigation
+Environmental Topics
+Environmental Topics
+Air
+Bed Bugs
+Chemicals, Toxics, and Pesticide
+Emergency Response
+Environmental Information by Location
+Health
+Land, Waste, and Cleanup
+Lead
+Mold
+Radon
+Research
+Science Topics
+Water Topics
+A-Z Topic Index
+Laws & Regulations
+Laws & Regulations
+By Business Sector
+By Topic
+Compliance
+Enforcement
+Guidance
+Laws and Executive Orders
+Regulations
+Report a Violation
+Report a Violation
+Environmental Violations
+Fraud, Waste or Abuse
+About EPA
+About EPA
+Our Mission and What We Do
+Headquarters Offices
+Regional Offices
+Labs and Research Centers
+Newsroom
+Planning, Budget, and Results
+Organization Chart
+EPA History
+Breadcrumb
+Home
+Ground Water and Drinking Water
+National Primary Drinking Water Regulations
+Related Info
+Find out
+how EPA develops drinking water regulations
+Learn about
+existing EPA drinking water regulations
+Read the drinking water section of the
+Code of Federal Regulations (40 CFR 141)
+Historical information
+Fact Sheet: Questions and Answers on Fluoride, January 2011
+The National Primary Drinking Water Regulations (
+NPDWR)
+are legally enforceable primary standards and treatment techniques that apply to public water systems. Primary standards and treatment techniques protect public health by limiting the levels of contaminants in drinking water.
+Microorganisms
+Disinfection Byproducts
+Disinfectants
+Inorganic Chemicals
+Organic Chemicals, except for PFAS
+Selected Per- and poly-fluoroalkyl substances (PFAS)
+Radionuclides
+Microorganisms
+Surface Water Treatment Rules
+Ground Water Rule
+Revised Total Coliform Rule And Total Coliform Rule
+Contaminant
+MCLG
+1
+MCL
+or
+TT
+1
+Potential Health Effects from Long-Term Exposure Above the
+MCL
+(unless specified as short-term)
+Sources of Contaminant in Drinking Water
+Cryptosporidium
+zero
+TT
+3
+Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+Human and animal fecal waste
+Giardia lamblia
+zero
+TT
+3
+Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+Human and animal fecal waste
+Heterotrophic plate count (
+HPC
+)
+n/a
+TT
+3
+HPC
+has no health effects; it is an analytic method used to measure the variety of bacteria that are common in water. The lower the concentration of bacteria in drinking water, the better maintained the water system is.
+HPC
+measures a range of bacteria that are naturally present in the environment
+Legionella
+zero
+TT
+3
+Legionnaire's Disease, a type of pneumonia
+Found naturally in water; multiplies in heating systems
+Total Coliforms (including fecal coliform and
+E. Coli
+)
+Quick reference guide
+Rule Summary
+zero
+5.0%
+4
+Not a health threat in itself; it is used to indicate whether other potentially harmful bacteria may be present
+5
+Coliforms are naturally present in the environment; as well as feces; fecal coliforms and
+E. coli
+only come from human and animal fecal waste.
+Turbidity
+n/a
+TT
+3
+Turbidity is a measure of the cloudiness of water. It is used to indicate water quality and filtration effectiveness (such as whether disease-causing organisms are present). Higher turbidity levels are often associated with higher levels of disease-causing microorganisms such as viruses, parasites and some bacteria. These organisms can cause symptoms such as nausea, cramps, diarrhea, and associated headaches.
+Soil runoff
+Viruses (enteric)
+zero
+TT
+3
+Gastrointestinal illness (such as diarrhea, vomiting, and cramps)
+Human and animal fecal waste
+Disinfection Byproducts
+Quick reference guide: Stage 1 and 2 Disinfectants and Disinfection Byproducts Rules
+Stage 1 and 2 Rules Summary
+Contaminant
+MCLG
+1
+(
+mg/L
+)
+2
+MCL
+or
+TT
+1
+(
+mg/L
+)
+2
+Potential Health Effects from Long-Term Exposure Above the
+MCL
+(unless specified as short-term)
+Sources of Contaminant in Drinking Water
+Bromate
+zero
+0.010
+Increased risk of cancer
+Byproduct of drinking water disinfection
+Chlorite
+0.8
+1.0
+Anemia; infants and young children: nervous system effects
+Byproduct of drinking water disinfection
+Haloacetic acids (
+HAA5)
+n/a
+6
+0.060
+Increased risk of cancer
+Byproduct of drinking water disinfection
+Total Trihalomethanes (
+TTHMs
+)
+n/a
+6
+0.080
+Liver, kidney or central nervous system problems; increased risk of cancer
+Byproduct of drinking water disinfection
+Disinfectants
+Quick reference guide: Stage 1 and 2 Disinfectants and Disinfection Byproducts Rules
+Stage 1 and 2 Rules Summary
+Contaminant
+MCLG
+1
+(
+mg/L
+)
+2
+MCL
+or
+TT
+1
+(
+mg/L
+)
+2
+Potential Health Effects from Long-Term Exposure Above the
+MCL
+(unless specified as short-term)
+Sources of Contaminant in Drinking Water
+Chloramines (as
+Cl
+2
+)
+MRDLG
+=4
+1
+MRDL
+=4.0
+1
+Eye/nose irritation; stomach discomfort, anemia
+Water additive used to control microbes
+Chlorine (as
+Cl
+2
+)
+MRDLG
+=4
+1
+MRDL
+=4.0
+1
+Eye/nose irritation; stomach discomfort
+Water additive used to control microbes
+Chlorine dioxide (as
+ClO
+2
+)
+MRDLG
+=0.8
+1
+MRDL
+=0.8
+1
+Anemia; infants and young children: nervous system effects
+Water additive used to control microbes
+Inorganic Chemicals
+Chemical Contaminant Rules Summary
+Contaminant
+MCLG
+1
+(
+mg/L
+)
+2
+MCL
+or
+TT
+1
+(
+mg/L
+)
+2
+Potential Health Effects from Long-Term Exposure Above the
+MCL
+(unless specified as short-term)
+Sources of Contaminant in Drinking Water
+Antimony
+0.006
+0.006
+Increase in blood cholesterol; decrease in blood sugar
+Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder
+Arsenic
+Quick reference guide
+Consumer fact sheet
+0
+0.010 as of 01/23/06
+Skin damage or problems with circulatory systems, and may have increased risk of getting cancer
+Erosion of natural deposits; runoff from orchards, runoff from glass and electronics production wastes
+Asbestos (fiber > 10 micrometers)
+7 million fibers per liter (
+MFL
+)
+7
+MFL
+Increased risk of developing benign intestinal polyps
+Decay of asbestos cement in water mains; erosion of natural deposits
+Barium
+2
+2
+Increase in blood pressure
+Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits
+Beryllium
+0.004
+0.004
+Intestinal lesions
+Discharge from metal refineries and coal-burning factories; discharge from electrical, aerospace, and defense industries
+Cadmium
+0.005
+0.005
+Kidney damage
+Corrosion of galvanized pipes; erosion of natural deposits; discharge from metal refineries; runoff from waste batteries and paints
+Chromium (total)
+0.1
+0.1
+Allergic dermatitis
+Discharge from steel and pulp mills; erosion of natural deposits
+Copper
+1.3
+TT
+7
+; Action Level=1.3
+Short term exposure: Gastrointestinal distress
+Long term exposure: Liver or kidney damage
+People with Wilson's Disease should consult their personal doctor if the amount of copper in their water exceeds the action level
+Corrosion of household plumbing systems; erosion of natural deposits
+Cyanide (as free cyanide)
+0.2
+0.2
+Nerve damage or thyroid problems
+Discharge from steel/metal factories; discharge from plastic and fertilizer factories
+Fluoride
+4.0
+4.0
+Bone disease (pain and tenderness of the bones); Children may get mottled teeth
+Water additive which promotes strong teeth; erosion of natural deposits; discharge from fertilizer and aluminum factories
+Lead
+Quick reference guide
+Rule information
+zero
+TT
+7
+; Action Level=0.015*
+Infants and children: Delays in physical or mental development; children could show slight deficits in attention span and learning abilities
+Adults: Kidney problems; high blood pressure
+Corrosion of household plumbing systems; erosion of natural deposits
+Mercury (inorganic)
+0.002
+0.002
+Kidney damage
+Erosion of natural deposits; discharge from refineries and factories; runoff from landfills and croplands
+Nitrate (measured as Nitrogen)
+10
+10
+Infants below the age of six months who drink water containing nitrate in excess of the MCL could become seriously ill and, if untreated, may die. Symptoms include shortness of breath and blue-baby syndrome.
+Runoff from fertilizer use; leaking from septic tanks, sewage; erosion of natural deposits
+Nitrite (measured as Nitrogen)
+1
+1
+Infants below the age of six months who drink water containing nitrite in excess of the MCL could become seriously ill and, if untreated, may die. Symptoms include shortness of breath and blue-baby syndrome.
+Runoff from fertilizer use; leaking from septic tanks, sewage; erosion of natural deposits
+Selenium
+0.05
+0.05
+Hair or fingernail loss; numbness in fingers or toes; circulatory problems
+Discharge from petroleum refineries; erosion of natural deposits; discharge from mines
+Thallium
+0.0005
+0.002
+Hair loss; changes in blood; kidney, intestine, or liver problems
+Leaching from ore-processing sites; discharge from electronics, glass, and drug factories
+Organic Chemicals, except for PFAS
+Chemical Contaminant Rules Summary
+Contaminant
+MCLG
+1
+(
+mg/L
+)
+2
+MCL
+or
+TT
+1
+(
+mg/L
+)
+2
+Potential Health Effects from Long-Term Exposure Above the
+MCL
+(unless specified as short-term)
+Sources of Contaminant in Drinking Water
+Acrylamide
+zero
+TT
+8
+Nervous system or blood problems; increased risk of cancer
+Added to water during sewage/wastewater treatment
+Alachlor
+zero
+0.002
+Eye, liver, kidney or spleen problems; anemia; increased risk of cancer
+Runoff from herbicide used on row crops
+Atrazine
+0.003
+0.003
+Cardiovascular system or reproductive problems
+Runoff from herbicide used on row crops
+Benzene
+zero
+0.005
+Anemia; decrease in blood platelets; increased risk of cancer
+Discharge from factories; leaching from gas storage tanks and landfills
+Benzo(a)pyrene (PAHs)
+zero
+0.0002
+Reproductive difficulties; increased risk of cancer
+Leaching from linings of water storage tanks and distribution lines
+Carbofuran
+0.04
+0.04
+Problems with blood, nervous system, or reproductive system
+Leaching of soil fumigant used on rice and alfalfa
+Carbon tetrachloride
+zero
+0.005
+Liver problems; increased risk of cancer
+Discharge from chemical plants and other industrial activities
+Chlordane
+zero
+0.002
+Liver or nervous system problems; increased risk of cancer
+Residue of banned termiticide
+Chlorobenzene
+0.1
+0.1
+Liver or kidney problems
+Discharge from chemical and agricultural chemical factories
+2,4-D
+0.07
+0.07
+Kidney, liver, or adrenal gland problems
+Runoff from herbicide used on row crops
+Dalapon
+0.2
+0.2
+Minor kidney changes
+Runoff from herbicide used on rights of way
+1,2-Dibromo-3-chloropropane (
+DBCP
+)
+zero
+0.0002
+Reproductive difficulties; increased risk of cancer
+Runoff/leaching from soil fumigant used on soybeans, cotton, pineapples, and orchards
+o-Dichlorobenzene
+0.6
+0.6
+Liver, kidney, or circulatory system problems
+Discharge from industrial chemical factories
+p-Dichlorobenzene
+0.075
+0.075
+Anemia; liver, kidney or spleen damage; changes in blood
+Discharge from industrial chemical factories
+1,2-Dichloroethane
+zero
+0.005
+Increased risk of cancer
+Discharge from industrial chemical factories
+1,1-Dichloroethylene
+0.007
+0.007
+Liver problems
+Discharge from industrial chemical factories
+cis-1,2-Dichloroethylene
+0.07
+0.07
+Liver problems
+Discharge from industrial chemical factories
+trans-1,2-Dichloroethylene
+0.1
+0.1
+Liver problems
+Discharge from industrial chemical factories
+Dichloromethane
+zero
+0.005
+Liver problems; increased risk of cancer
+Discharge from drug and chemical factories
+1,2-Dichloropropane
+zero
+0.005
+Increased risk of cancer
+Discharge from industrial chemical factories
+Di(2-ethylhexyl) adipate
+0.4
+0.4
+Weight loss, liver problems, or possible reproductive difficulties.
+Discharge from chemical factories
+Di(2-ethylhexyl) phthalate
+zero
+0.006
+Reproductive difficulties; liver problems; increased risk of cancer
+Discharge from rubber and chemical factories
+Dinoseb
+0.007
+0.007
+Reproductive difficulties
+Runoff from herbicide used on soybeans and vegetables
+Dioxin (
+2,3,7,8-TCDD
+)
+zero
+0.00000003
+Reproductive difficulties; increased risk of cancer
+Emissions from waste incineration and other combustion; discharge from chemical factories
+Diquat
+0.02
+0.02
+Cataracts
+Runoff from herbicide use
+Endothall
+0.1
+0.1
+Stomach and intestinal problems
+Runoff from herbicide use
+Endrin
+0.002
+0.002
+Liver problems
+Residue of banned insecticide
+Epichlorohydrin
+zero
+TT
+8
+Increased cancer risk, and over a long period of time, stomach problems
+Discharge from industrial chemical factories; an impurity of some water treatment chemicals
+Ethylbenzene
+0.7
+0.7
+Liver or kidneys problems
+Discharge from petroleum refineries
+Ethylene dibromide
+zero
+0.00005
+Problems with liver, stomach, reproductive system, or kidneys; increased risk of cancer
+Discharge from petroleum refineries
+Glyphosate
+0.7
+0.7
+Kidney problems; reproductive difficulties
+Runoff from herbicide use
+Heptachlor
+zero
+0.0004
+Liver damage; increased risk of cancer
+Residue of banned termiticide
+Heptachlor epoxide
+zero
+0.0002
+Liver damage; increased risk of cancer
+Breakdown of heptachlor
+Hexachlorobenzene
+zero
+0.001
+Liver or kidney problems; reproductive difficulties; increased risk of cancer
+Discharge from metal refineries and agricultural chemical factories
+Hexachlorocyclopentadiene
+0.05
+0.05
+Kidney or stomach problems
+Discharge from chemical factories
+Lindane
+0.0002
+0.0002
+Liver or kidney problems
+Runoff/leaching from insecticide used on cattle, lumber, gardens
+Methoxychlor
+0.04
+0.04
+Reproductive difficulties
+Runoff/leaching from insecticide used on fruits, vegetables, alfalfa, livestock
+Oxamyl (Vydate)
+0.2
+0.2
+Slight nervous system effects
+Runoff/leaching from insecticide used on apples, potatoes, and tomatoes
+Polychlorinated biphenyls (
+PCBs
+)
+zero
+0.0005
+Skin changes; thymus gland problems; immune deficiencies; reproductive or nervous system difficulties; increased risk of cancer
+Runoff from landfills; discharge of waste chemicals
+Pentachlorophenol
+zero
+0.001
+Liver or kidney problems; increased cancer risk
+Discharge from wood preserving factories
+Picloram
+0.5
+0.5
+Liver problems
+Herbicide runoff
+Simazine
+0.004
+0.004
+Problems with blood
+Herbicide runoff
+Styrene
+0.1
+0.1
+Liver, kidney, or circulatory system problems
+Discharge from rubber and plastic factories; leaching from landfills
+Tetrachloroethylene
+zero
+0.005
+Liver problems; increased risk of cancer
+Discharge from factories and dry cleaners
+Toluene
+1
+1
+Nervous system, kidney, or liver problems
+Discharge from petroleum factories
+Toxaphene
+zero
+0.003
+Kidney, liver, or thyroid problems; increased risk of cancer
+Runoff/leaching from insecticide used on cotton and cattle
+2,4,5-TP (
+Silvex
+)
+0.05
+0.05
+Liver problems
+Residue of banned herbicide
+1,2,4-Trichlorobenzene
+0.07
+0.07
+Changes in adrenal glands
+Discharge from textile finishing factories
+1,1,1-Trichloroethane
+0.20
+0.2
+Liver, nervous system, or circulatory problems
+Discharge from metal degreasing sites and other factories
+1,1,2-Trichloroethane
+0.003
+0.005
+Liver, kidney, or immune system problems
+Discharge from industrial chemical factories
+Trichloroethylene
+zero
+0.005
+Liver problems; increased risk of cancer
+Discharge from metal degreasing sites and other factories
+Vinyl chloride
+zero
+0.002
+Increased risk of cancer
+Leaching from PVC pipes; discharge from plastic factories
+Xylenes (total)
+10
+10
+Nervous system damage
+Discharge from petroleum factories; discharge from chemical factories
+Selected Per- and poly-fluoroalkyl substances (PFAS)
+PFAS rule references
+Contaminant
+MCLG
+1
+(
+mg/L
+)
+2
+MCL
+1
+(
+mg/L
+)
+2
+HBWC
+9
+(mg/L)
+2
+for
+Hazard Index Calculation
+Potential Health Effects from Long-Term Exposure Above the
+MCL
+(unless specified as short-term)
+Sources of Contaminant in Drinking Water
+Hazard Index
+PFAS (HFPO-DA, PFBS, PFHxS, and PFNA)
+1(unitless)
+1(unitless)
+Not applicable
+Low levels of multiple PFAS that individually would not likely result in increased risk of adverse health effects may result in adverse health effects when combined in a mixture. Increased health risks include liver, immune, and thyroid effects. Additionally, developmental and thyroid effects following repeated exposure during pregnancy and/or childhood.
+Discharge from manufacturing and industrial chemical facilities, use of certain consumer products, occupational exposures, and certain firefighting activities.
+HFPO-DA (commonly knowns as GenX Chemicals)
+0.00001
+0.00001
+0.00001
+Immune, liver and kidney effects; potential concern for cancer
+Developmental effects following repeated exposure during pregnancy and/or childhood
+Discharge from manufacturing and industrial chemical facilities, use of certain consumer products, occupational exposures, and certain firefighting activities.
+PFBS
+No individual MCLG
+No individual MCL
+0.002
+See Hazard Index PFAS information
+See Hazard Index PFAS information
+PFHxS
+0.00001
+0.00001
+0.00001
+Immune, thyroid, and liver effects
+Developmental effects following repeated exposure during pregnancy and/or childhood
+Discharge from manufacturing and industrial chemical facilities, use of certain consumer products, occupational exposures, and certain firefighting activities.
+PFNA
+0.00001
+0.00001
+0.00001
+Elevated cholesterol levels and immune and liver effects
+Developmental effects following repeated exposure during pregnancy and/or childhood
+Discharge from manufacturing and industrial chemical facilities, use of certain consumer products, occupational exposures, and certain firefighting activities.
+PFOA
+zero
+0.0000040
+Not applicable
+Cardiovascular, immune and liver effects; increased incidence of certain types of cancers including kidney and testicular
+Developmental and immune effects following repeated exposure during pregnancy and/or childhood
+Discharge from manufacturing and industrial chemical facilities, use of certain consumer products, occupational exposures, and certain firefighting activities.
+PFOS
+zero
+0.0000040
+Not applicable
+Cardiovascular, immune and liver effects; increased incidence of certain types of cancers including liver
+Developmental and immune effects following repeated exposure during pregnancy and/or childhood
+Discharge from manufacturing and industrial chemical facilities, use of certain consumer products, occupational exposures, and certain firefighting activities.
+Radionuclides
+Quick Reference Guide
+Radionuclides Rule Information and Summary
+Contaminant
+MCLG
+1
+(
+mg/L
+)
+2
+MCL
+or
+TT
+1
+(
+mg/L
+)
+2
+Potential Health Effects from Long-Term Exposure Above the
+MCL
+(unless specified as short-term)
+Sources of Contaminant in Drinking Water
+Alpha particles
+none ---------- zero
+15 picocuries per Liter (
+pCi/L
+)
+Increased risk of cancer
+Erosion of natural deposits of certain minerals that are radioactive and may emit a form of radiation known as alpha radiation
+Beta particles and photon emitters
+none ---------- zero
+4 millirems per year
+Increased risk of cancer
+Decay of natural and man-made deposits of
+certain minerals that are radioactive and may emit forms of radiation known as photons and beta radiation
+Radium 226 and Radium 228 (combined)
+none ---------- zero
+5
+pCi/L
+Increased risk of cancer
+Erosion of natural deposits
+Uranium
+zero
+30
+ug/L
+as of 12/08/03
+Increased risk of cancer, kidney toxicity
+Erosion of natural deposits
+Notes
+1
+Definitions:
+Maximum Contaminant Level Goal (
+MCLG
+) - The level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety and are non-enforceable public health goals.
+Maximum Contaminant Level (
+MCL
+) - The highest level of a contaminant that is allowed in drinking water. MCLs are set as close to MCLGs as feasible using the best available treatment technology and taking cost into consideration. MCLs are enforceable standards.
+Maximum Residual Disinfectant Level Goal (
+MRDLG
+) - The level of a drinking water disinfectant below which there is no known or expected risk to health.
+MRDLGs
+do not reflect the benefits of the use of disinfectants to control microbial contaminants.
+Treatment Technique (
+TT
+) - A required process intended to reduce the level of a contaminant in drinking water.
+Maximum Residual Disinfectant Level (
+MRDL
+) - The highest level of a disinfectant allowed in drinking water. There is convincing evidence that addition of a disinfectant is necessary for control of microbial contaminants.
+2
+Units are in milligrams per liter (
+mg/L
+) unless otherwise noted. Milligrams per liter are equivalent to parts per million (
+PPM
+).
+3
+EPA's surface water treatment rules require systems using surface water or ground water under the direct influence of surface water to
+Disinfect their water, and
+Filter their water, or
+Meet criteria for avoiding filtration so that the following contaminants are controlled at the following levels:
+Cryptosporidium
+: Unfiltered systems are required to include
+Cryptosporidium
+in their existing watershed control provisions
+Giardia lamblia
+: 99.9% removal/inactivation.
+Viruses: 99.99% removal/inactivation.
+Legionella
+: No limit, but EPA believes that if
+Giardia
+and viruses are removed/inactivated, according to the treatment techniques in the Surface Water Treatment Rule,
+Legionella
+will also be controlled.
+Turbidity: For systems that use conventional or direct filtration, at no time can turbidity (cloudiness of water) go higher than 1 Nephelometric Turbidity Unit
+(NTU)
+, and samples for turbidity must be less than or equal to 0.3
+NTUs
+in at least 95 percent of the samples in any month. Systems that use filtration other than the conventional or direct filtration must follow state limits, which must include turbidity at no time exceeding 5
+NTUs
+.
+Heterotrophic Plate Count (
+HPC)
+: No more than 500 bacterial colonies per milliliter.
+Long Term 1 Enhanced Surface Water Treatment: Surface water systems or groundwater under the direct influence (
+GWUDI
+) systems serving fewer than 10,000 people must comply with the applicable Long Term 1 Enhanced Surface Water Treatment Rule provisions (such as turbidity standards, individual filter monitoring,
+Cryptosporidium
+removal requirements, updated watershed control requirements for unfiltered systems).
+Long Term 2 Enhanced Surface Water Treatment Rule: This rule applies to all surface water systems or ground water systems under the direct influence of surface water. The rule targets additional
+Cryptosporidium
+treatment requirements for higher risk systems and includes provisions to reduce risks from uncovered finished water storage facilities and to ensure that the systems maintain microbial protection as they take steps to reduce the formation of disinfection byproducts.
+Filter Backwash Recycling: This rule requires systems that recycle to return specific recycle flows through all processes of the system's existing conventional or direct filtration system or at an alternate location approved by the state.
+4
+No more than 5.0% samples total coliform-positive (
+TC-positive
+) in a month. (For water systems that collect fewer than 40 routine samples per month, no more than one sample can be total coliform-positive per month.) Every sample that has total coliform must be analyzed for either fecal coliforms or
+E. coli
+if two consecutive
+TC-positive
+samples, and one is also positive for
+E.coli
+fecal coliforms, system has an acute
+MCL
+violation.
+5
+Fecal coliform and
+E. coli
+are bacteria whose presence indicates that the water may be contaminated with human or animal wastes. Disease-causing microbes (pathogens) in these wastes can cause diarrhea, cramps, nausea, headaches, or other symptoms. These pathogens may pose a special health risk for infants, young children, and people with severely compromised immune systems.
+6
+Although there is no collective
+MCLG
+for this contaminant group, there are individual
+MCLGs
+for some of the individual contaminants:
+Trihalomethanes: bromodichloromethane (zero); bromoform (zero); dibromochloromethane (0.06
+mg/L
+): chloroform (0.07
+mg/L
+.
+Haloacetic acids: dichloroacetic acid (zero); trichloroacetic acid (0.02
+mg/L
+); monochloroacetic acid (0.07
+mg/L
+). Bromoacetic acid and dibromoacetic acid are regulated with this group but have no MCLGs.
+7
+Lead and copper are regulated by a treatment technique that requires systems to control the corrosiveness of their water. If more than 10% of tap water samples exceed the action level, water systems must take additional steps. For copper, the action level is 1.3
+mg/L
+, and for lead is 0.015
+mg/L
+. *Beginning on the LCRI compliance date of November 1, 2027, systems must comply with the revised lead action level of 0.010 mg/L.
+8
+Each water system must certify, in writing, to the state (using third-party or manufacturer's certification) that when acrylamide and epichlorohydrin are used to treat water, the combination (or product) of dose and monomer level does not exceed the levels specified, as follows:
+Acrylamide = 0.05% dosed at 1
+mg/L
+(or equivalent)
+Epichlorohydrin = 0.01% dosed at 20
+mg/L
+(or equivalent)
+9
+Health Based Water Concentration (HBWC) - To calculate the Hazard Index, a ratio is developed for each PFAS by dividing the measured level of the PFAS in drinking water by the level below which adverse health effects are not likely to occur (i.e., the Health Based Water Concentration).
+Contact us about Ground Water and Drinking Water
+to ask a question, provide feedback, or report a problem.
+Last updated on August 31, 2026
+Assistance
+Spanish
+Arabic
+Chinese (simplified)
+Chinese (traditional)
+French
+Haitian Creole
+Korean
+Portuguese
+Russian
+Tagalog
+Vietnamese
+Discover.
+Accessibility Statement
+Budget & Performance
+Contracting
+EPA www Web Snapshot
+Grants
+No FEAR Act Data
+Plain Writing
+Privacy and Security Notice
+Connect.
+Data
+Inspector General
+Jobs
+Newsroom
+Regulations.gov
+Subscribe
+USA.gov
+White House
+Ask.
+Contact EPA
+EPA Disclaimers
+Hotlines
+FOIA Requests
+Frequent Questions
+Site Feedback
+Follow.

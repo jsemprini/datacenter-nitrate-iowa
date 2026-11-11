@@ -1,0 +1,1495 @@
+       Appendix E: User Guide to Downloading and Using Six-Year
+            Review 4 and Related Data from EPA’s Website
+This appendix includes a user guide for downloading and using the Six-Year Review 4 (SYR 4)
+and related data from EPA’s website. This document is also posted online with the data. In
+addition, instructions on importing the SYR 4 datasets are included in this Appendix (see Section
+10). The data dictionary for all datasets is also included in Appendix C above.
+
+Several of the contaminant occurrence datasets that are posted online were not analyzed as part
+of the SYR 4 effort. These contaminants were not subject to detailed review in SYR 4 due to
+recent, ongoing, or pending regulatory action (e.g., lead, copper, DBPs). These datasets passed
+the same QA procedures as those analyzed in SYR 4.
+
+The data files are posted online in several zip files. Each zip file includes text files for multiple
+contaminants/parameters. The number of records and contaminants/parameters included in each
+file varies. The user may want to compare their counts of records downloaded for each
+contaminant of interest to the table of records provided in this user guide’s exhibits to ensure that
+all of the records were correctly downloaded and imported. Note that these record counts reflect
+the data after the QA/QC process. For a list of data elements included in the data posted online,
+refer to Exhibit E.1.
+
+The remainder of this document is organized as follows:
+
+   •    Section 1: Background Information on Six-Year Review 4 Data Records
+   •    Section 2: SYR 4 Data Records Posted for Phase Chemicals, Lead, Copper and
+        Radionuclides
+   •    Section 3: SYR 4 Data Records Posted for Disinfection Byproducts
+   •    Section 4: SYR 4 Data Records Posted for Disinfection Byproducts Related Parameters
+   •    Section 5: SYR 4 Data Records Posted for Microbial Contaminants, Microbial Related
+        Parameters, and Disinfectant Residuals
+   •    Section 6: SYR 4 Data Records Posted for the Aircraft Drinking Water Rule (ADWR)
+   •    Section 7: Additional Data Collected under SYR 4 ICR
+   •    Section 8: SYR 4 Data Records Posted for Treatment
+   •    Section 9: SYR 4 Data Considerations
+   •    Section 10: Instructions on Importing SYR 4 Datasets
+               10A: Downloading Data Files
+               10B: Importing Data into Microsoft Excel
+               10C: Importing Data into R
+               10D: Importing Data into Microsoft Access
+
+
+
+
+Data Management QA/QC Process                    E-1                                    February 2024
+for the SYR 4 ICR Dataset
+Section 1: Background Information on SYR 4 Data Records
+To support the national contaminant occurrence and exposure assessments performed under the
+fourth Six-Year Review process (SYR 4), EPA collected compliance monitoring data and
+treatment technique information from public water systems (PWSs) for regulated drinking water
+contaminants. This analysis allows EPA to characterize the frequency of occurrence, the levels
+found, and the geographic distribution of contaminants and related data to help the agency
+determine if there may be a meaningful opportunity to improve public health protection. EPA
+conducted a voluntary data request from states, primacy agencies, territories, and tribes (referred
+to as “States” throughout the remainder of this Appendix) to obtain compliance monitoring data
+and treatment technique information necessary to analyze national contaminant occurrence in
+support of SYR 4. This data request was conducted through the Information Collection Request
+(ICR) process. EPA requested States to submit their Safe Drinking Water Act (SDWA)
+compliance monitoring data and treatment technique information collected between January
+2012 and December 2019. For more information on the process undertaken to request the
+voluntary submission of compliance monitoring data and treatment technique information by the
+States, see the fourth Six-Year Review ICR (84 FR 58381, USEPA, 2019).
+
+Through extensive data management efforts, quality assurance evaluations, and communications
+and consultations with State’s data management staff, EPA established a single contaminant
+occurrence dataset that consists of compliance monitoring data and treatment technique
+information from 59 out of 66 jurisdictions (46 states plus Washington, D.C., American Samoa,
+Navajo Nation, Commonwealth of the Northern Mariana Islands, and other tribes). This dataset
+is referred to as the National Compliance Monitoring ICR dataset for the fourth Six-Year Review
+(SYR 4 ICR dataset). The 59 States that provided data for the SYR 4 ICR dataset comprise 88
+percent of all PWSs and 92 percent of the total population served by PWSs nationally, and are
+geographically representative of PWSs nationwide. The SYR 4 ICR dataset was used to estimate
+a variety of occurrence measures to characterize the national occurrence of regulated
+contaminants in public water systems to support the Six-Year Review process.
+
+EPA received compliance monitoring data and treatment technique information from both
+SDWIS/State and non-SDWIS/State users. For States that use SDWIS/State, EPA developed a
+tool, available upon request from States, to extract the requested data identified in the SYR 4
+ICR from a SDWIS/State database. In all, 46 states and 13 other jurisdictions provided
+compliance monitoring data that included parametric records. Thirty-five states, Washington
+D.C, and six regional tribal entities used the extraction tool to extract all or some of their data.
+The 17 States not using SDWIS/State submitted their compliance monitoring data and treatment
+technique “as is,” resulting in a variety of formats, including dBase, Excel, XML, Access, and
+comma-delimited. With the exception of two States whose data were downloaded from their
+publicly available website (California and Florida), all States submitted their data online via
+EPA's Central Data Exchange. All data were conformed to a similar format with consistent units
+of measurement for consistency. For more details about the collection and formatting of SYR 4
+ICR data, see the main chapters of this document.
+
+EPA conducted a quality assurance and control evaluation of these data submitted by States and
+assembled these data into the SYR 4 ICR database, which includes more than 83 million records
+
+
+Data Management QA/QC Process                   E-2                                     February 2024
+for the SYR 4 ICR Dataset
+from approximately 142,000 public water systems, serving approximately 303 million people
+nationally. The dataset includes the results of all compliance monitoring data (i.e., all sample
+analytical detections and non-detections) from January 2012 to December 2019 for regulated
+chemical phase contaminants, radionuclides, disinfectants and disinfection byproducts
+(D/DBPs), DBP precursors, microbial contaminants/indicators, disinfectant residuals, and other
+related data including treatment information. As noted in the main chapters, only the data that
+passed the QA/QC process are posted online.
+
+Exhibit E.1, Six-Year Review 4 Data Field Names and Definitions, contains a list of the data
+elements, column names and a brief description of the data for each data element included in the
+SYR 4 ICR data text files.
+
+Exhibit E.1: Six-Year Review 4 Data Field Names and Definitions
+ Data Element              Column Name         Description
+
+ Contaminant               ANALYTE_CODE        4-digit Safe Drinking Water Information System (SDWIS)
+ Identification Code                           contaminant identification number for which the sample is being
+                                               analyzed.
+ Contaminant Name          ANALYTE_NAME        Common name of contaminant for which the sample is being
+                                               analyzed.
+ Primacy Code              PRIMACY_CODE        2- digit code identifying the primacy agency (i.e., State) for the
+                                               water system.
+ State Code                STATE_CODE          2-digit code identifying the U.S. state or territory in which the
+                                               water system is located.
+ Public Water System       PWSID               The code used to identify each PWS. The code begins with the
+ Identification Number                         standard 2- character postal state abbreviation or region code;
+ (PWSID)                                       the remaining 7 numbers are unique to each PWS in the State.
+ System Name               SYSTEM_NAME         Name of the PWS.
+ Federal Public Water      SYSTEM_TYPE         A code to identify whether a system is:
+ System Type Code                              • Community Water System (C);
+                                               • Non-Transient Non-Community Water System (NTNC); or
+                                               • Transient Non-Community Water System (NC).
+ Retail Population         RETAIL_POPULATIO    Retail population served by a system.
+ served                    N_SERVED
+ Adjusted Total            ADJUSTED_TOTAL_     Adjusted total population served (retail plus adjusted wholesale
+ Population-served         POPULATION_         population served as not to double-count buyer systems that
+                           SERVED              purchase from multiple seller systems).
+ Source Water Type         SOURCE_WATER_       Type of water at the source. Source water type can be:
+                           TYPE                • Ground water (GW);
+                                               • Surface water (SW);
+                                               • Purchased Surface Water (SWP);
+                                               • Purchased Ground Water (GWP);
+                                               • Ground Water Under Direct Influence of Surface Water (GU);
+                                               or
+                                               • Purchased Ground Water Under Direct Influence of Surface
+                                               Water (GUP).
+ Facility Identification   WATER_FACILITY_ID   A unique identifier for each water system facility.
+ Code
+ Water Facility Type       WATER_FACILITY_     Type of water system facility:
+                           TYPE                • CC = Consecutive Connection;
+                                               • CH = Common Headers;
+                                               • CW = Clear Well;
+                                               • DS = Distribution System;
+                                               • IG = Infiltration Gallery;
+                                               • IN = Intake;
+
+
+
+Data Management QA/QC Process                     E-3                                            February 2024
+for the SYR 4 ICR Dataset
+ Data Element            Column Name        Description
+
+                                            • OT = Other;
+                                            • PC = Pressure Control;
+                                            • PF = Pumping Facility;
+                                            • RS = Reservoir;
+                                            • SI = Surface Impoundment;
+                                            • SP = Spring;
+                                            • SS = Sampling Station;
+                                            • ST = Storage;
+                                            • TM = Transmission Main (Manifold);
+                                            • TP = Treatment Plant;
+                                            • WH = Well Head;
+                                            • WL = Well; or
+                                            • XX = unknown.
+ Sampling Point          SAMPLING_POINT_I   A unique identifier for each sampling point location.
+ Identification Code     D
+ Sampling Point Type     SAMPLING_POINT_    Location type of a sampling point:
+                         TYPE               • DS = Distribution System;
+                                            • EP = Entry point;
+                                            • FC = First Customer;
+                                            • FN = Finished Water Source;
+                                            • LD = Lowest Disinfectant Residual;
+                                            • MD = Midpoint in the Distribution System;
+                                            • MR = Point of Maximum Residence;
+                                            • PC = Process Control;
+                                            • RW = Raw Water Source;
+                                            • SR = Source Water Point;
+                                            • UP = Unit Process; or
+                                            • WS = Water System Facility Point
+ Source Type Code        SOURCE_TYPE_COD    Type of water source, based on whether treatment has taken
+                         E                  place. Source type can be:
+                                            • Finished (FN);
+                                            • Raw (RW); or
+                                            • Unknown (null or X).
+ Sample Type Code        SAMPLE_TYPE_COD    Type of sample:
+                         E                  • CO = Confirmation;
+                                            • MR = Maximum Residence Time;
+                                            • RP = Repeat;
+                                            • RT = Routine;
+                                            • ST = Split;
+                                            • MS = Matrix spike;
+                                            • TG = Triggered; or
+                                            • FB = Field Blank.
+ Laboratory Assigned     LABORATORY_        Unique lab identification, used to link up the total coliform
+ Identification Number   ASSIGNED_ID        positive (TC+) and E. coli / fecal coliform samples.
+ Six-Year ID             SIX_YEAR_ID        Unique identifier for each analytical result.
+ Sample Identification   SAMPLE_ID          Identifier assigned by State or the laboratory that uniquely
+ Number                                     identifies a sample.
+ Sample Collection       SAMPLE_            Date the sample was collected, including month, day, and year.
+ Date                    COLLECTION_DATE
+ Detection Limit Value   DETECTION_LIMIT_   Limit below which the specific lab indicated they could not
+                         VALUE              reliably measure results for a contaminant with the methods and
+                                            procedures used by the lab.
+ Detection Limit Unit    DETECTION_LIMIT_   Units of the detection limit value.
+                         UNIT
+ Detection Limit Code    DETECTION_LIMIT_   Indicates the type of Detection Limit reported in the Detection
+                         CODE               Limit Value column (e.g., the Minimum Reporting Level,
+                                            Laboratory Reporting Level, etc.)
+ Sample Analytical       DETECT             The sign indicates whether the sample analytical result was:
+ Result - Sign                              • (0) "less than" means the contaminant was not detected or was
+
+
+Data Management QA/QC Process                  E-4                                            February 2024
+for the SYR 4 ICR Dataset
+ Data Element           Column Name       Description
+
+                                          detected at a level "less than" the MRL.
+                                          • (1) "equal to" means the contaminant was detected at a level
+                                          "equal to" the value reported in "Sample Analytical Result -
+                                          Value."
+ Sample Analytical      VALUE             For detections, this field is equal to the actual numeric (decimal)
+ Result - Value                           value of the analysis for the chemical result; for non-detections,
+                                          this field is blank.
+ Sample Analytical      UNIT              Unit of measurement for the analytical results reported (usually
+ Result - Unit of                         expressed in either µg/L or mg/L for chemicals; or pCi/L for
+ Measure                                  radionuclides).
+ Presence Indicator     PRESENCE_         Indication of whether results of an analysis were positive or
+ Code                   INDICATOR_CODE    negative for TC, EC and FC.
+                                          • P = Presence
+                                          • A = Absence.
+ Residual Field Free    RESIDUAL_FIELD_   Amount of free chlorine residual (in mg/L) found in the water
+ Chlorine               FREE_CHLORINE_M   after disinfectant has been applied. These concentrations were
+                        G_L               measured in the field at the same time and location as coliform
+                                          samples (TC-EC-FC samples).
+ Residual Field Total   RESIDUAL_FIELD_   Amount of total chlorine residual (in mg/L) found in the water
+ Chlorine               TOTAL_CHLORINE_   after disinfectant has been applied. These concentrations were
+                        MG_L              measured in the field at the same time and location as coliform
+                                          samples (TC-EC-FC samples).
+
+
+
+
+Data Management QA/QC Process                E-5                                             February 2024
+for the SYR 4 ICR Dataset
+Section 2: SYR 4 Data Records Posted for Phase Chemicals, Lead,
+Copper and Radionuclides
+Exhibit E.2 provides a count of States, total number of sample records and systems for each
+phase chemical, lead, copper, and radionuclide collected for SYR 4. Contaminant occurrence
+data are grouped into zip files, which are indicated in the final column of Exhibit E2.
+
+   Exhibit E.2: Number of Six-Year Review 4 Data Records for Phase Chemicals,
+                Lead, Copper, and Radionuclides and Zip Filename(s)
+                                                Total      Total
+                                        Number
+                              Analyte           Number     Number
+Contaminant                             of                            Zip Filename
+                              ID                of Sample of
+                                        States
+                                                Records    Systems
+                                           Phase Chemicals
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+1,1,1-Trichloroethane            2981       58    491,411    52,207
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+1,1,2-Trichloroethane            2985       58    482,294    52,200
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+1,1-Dichloroethylene             2977       58    508,764    52,206
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+1,2,4-Trichlorobenzene           2378       58    480,039    52,201
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+1,2-Dibromo-3-chloropropane      2931       57    244,298    37,153
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+1,2-Dichloroethane               2980       58    493,514    52,209
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+1,2-Dichloropropane              2983       58    481,065    52,197
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+2,3,7,8-TCDD                     2063       42     38,934     6,222
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+2,4,5-TP                         2110       58    187,025    40,954
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+2,4-D                            2105       58    191,658    41,519
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+Alachlor                         2051       58    215,965    42,822
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+Antimony, Total                  1074       59    230,942    51,063
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+Arsenic                          1005       59    452,852    52,505
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+Asbestos                         1094       48     24,124    13,772
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_1 (1,1,1-
+Atrazine                         2050       58    225,827    43,763
+                                                                      Trichloroethane to Atrazine).zip
+                                                                      SYR4_PhaseChem_2 (Barium to
+Barium                           1010       59    232,216    52,488
+                                                                      Cyanide).zip
+                                                                      SYR4_PhaseChem_2 (Barium to
+Benzene                          2990       58    487,631    52,207
+                                                                      Cyanide).zip
+                                                                      SYR4_PhaseChem_2 (Barium to
+Benzo(A)pyrene                   2306       58    190,003    35,877
+                                                                      Cyanide).zip
+                                                                      SYR4_PhaseChem_2 (Barium to
+Beryllium, Total                 1075       59    229,630    50,225
+                                                                      Cyanide).zip
+                                                                      SYR4_PhaseChem_2 (Barium to
+BHC-Gamma                        2010       58    195,775    38,843
+                                                                      Cyanide).zip
+
+
+
+
+Data Management QA/QC Process                    E-6                                    February 2024
+for the SYR 4 ICR Dataset
+                                                 Total       Total
+                                        Number
+                             Analyte             Number      Number
+Contaminant                             of                               Zip Filename
+                             ID                  of Sample   of
+                                        States
+                                                 Records     Systems
+                                                                         SYR4_PhaseChem_2 (Barium to
+Cadmium                         1015        59     230,098      50,989
+                                                                         Cyanide).zip
+                                                                         SYR4_PhaseChem_2 (Barium to
+Carbofuran                      2046        58     176,608      37,375
+                                                                         Cyanide).zip
+                                                                         SYR4_PhaseChem_2 (Barium to
+Carbon Tetrachloride            2982        58     510,599      52,205
+                                                                         Cyanide).zip
+                                                                         SYR4_PhaseChem_2 (Barium to
+Chlordane                       2959        58     189,512      38,310
+                                                                         Cyanide).zip
+                                                                         SYR4_PhaseChem_2 (Barium to
+Chlorobenzene                   2989        58     479,909      52,184
+                                                                         Cyanide).zip
+                                                                         SYR4_PhaseChem_2 (Barium to
+Chromium                        1020        59     238,413      51,357
+                                                                         Cyanide).zip
+                                                                         SYR4_PhaseChem_2 (Barium to
+cis-1,2-Dichloroethylene        2380        58     495,228      52,210
+                                                                         Cyanide).zip
+                                                                         SYR4_PhaseChem_2 (Barium to
+Cyanide                         1024        57     163,373      38,760
+                                                                         Cyanide).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Dalapon                         2031        58     232,471      40,062
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Di(2-Ethylhexyl) Adipate        2035        58     192,447      36,369
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Di(2-Ethylhexyl) Phthalate      2039        58     202,419      36,486
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Dichloromethane                 2964        58     487,166      52,222
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Dinoseb                         2041        58     186,403      40,854
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Diquat                          2032        54     110,637      22,215
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Endothall                       2033        51      98,015      18,624
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Endrin                          2005        58     192,869      38,483
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Ethylbenzene                    2992        58     487,555      52,200
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Ethylene Dibromide              2946        57     243,161      38,371
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Fluoride1                       1025        59     435,466      52,202
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Glyphosate                      2034        55     105,084      21,744
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Heptachlor                      2065        58     193,927      38,640
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Heptachlor Epoxide              2067        58     193,623      38,638
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Hexachlorobenzene               2274        58     195,150      38,311
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_3 (Dalapon to
+Hexachlorocyclopentadiene       2042        58     196,236      38,471
+                                                                         Hexachlorocyclopentadiene).zip
+                                                                         SYR4_PhaseChem_4 (Hybrid
+Mercury                         1035        59     226,418      50,990
+                                                                         Nitrate to Nitrate).zip
+                                                                         SYR4_PhaseChem_4 (Hybrid
+Methoxychlor                    2015        58     196,131      38,834
+                                                                         Nitrate to Nitrate).zip
+                                                                         SYR4_PhaseChem_4 (Hybrid
+Nitrate                         1040        59   1,404,609     105,202
+                                                                         Nitrate to Nitrate).zip
+                                1040/                                    SYR4_PhaseChem_4 (Hybrid
+Nitrate (Hybrid)2                           59   1,635,300     127,904
+                                 1038                                    Nitrate to Nitrate).zip
+
+
+
+Data Management QA/QC Process                     E-7                                     February 2024
+for the SYR 4 ICR Dataset
+                                                Total       Total
+                                       Number
+                             Analyte            Number      Number
+Contaminant                            of                              Zip Filename
+                             ID                 of Sample   of
+                                       States
+                                                Records     Systems
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Nitrite                         1041       59     512,234     73,442   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Nitrate-Nitrite                 1038       51     561,314     76,530   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+o-Dichlorobenzene               2968       58     480,075     52,200   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Oxamyl                          2036       58     175,728     37,235   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+p-Dichlorobenzene               2969       58     480,247     52,203   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Pentachlorophenol               2326       58     201,636     41,094   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Picloram                        2040       58     188,833     41,375   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Selenium                        1045       59     232,598     51,317   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Simazine                        2037       58     220,013     43,211   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Styrene                         2996       58     479,601     52,187   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Tetrachloroethylene             2987       58     544,460     52,210   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Thallium, Total                 1085       59     229,685     51,007   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Toluene                         2991       58     488,192     52,348   Nitrite to Total Polychlorinated
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_5 (Nitrate-
+Total Polychlorinated
+                                2383       49     116,454     23,262   Nitrite to Total Polychlorinated
+Biphenyls (PCB)
+                                                                       Biphenyls (PCB)
+                                                                       SYR4_PhaseChem_6
+Toxaphene                       2020       58     183,765     37,419
+                                                                       (Toxaphene to Xylenes, total).zip
+                                                                       SYR4_PhaseChem_6
+trans-1,2-Dichloroethylene      2979       58     488,716     52,194
+                                                                       (Toxaphene to Xylenes, total).zip
+                                                                       SYR4_PhaseChem_6
+Trichloroethylene               2984       58     540,777     52,222
+                                                                       (Toxaphene to Xylenes, total).zip
+                                                                       SYR4_PhaseChem_6
+Vinyl Chloride                  2976       58     482,672     52,021
+                                                                       (Toxaphene to Xylenes, total).zip
+                                                                       SYR4_PhaseChem_6
+Xylenes, Total                  2955       56     412,436     46,720
+                                                                       (Toxaphene to Xylenes, total).zip
+                                          Lead and Copper
+                                                                       SYR4_PhaseChem_4 (Hybrid
+Lead                            1030       54   1,552,995     53,058
+                                                                       nitrate to nitrate).zip
+
+
+
+
+Data Management QA/QC Process                    E-8                                      February 2024
+for the SYR 4 ICR Dataset
+                                                           Total          Total
+                                               Number
+                                   Analyte                 Number         Number
+Contaminant                                    of                                       Zip Filename
+                                   ID                      of Sample      of
+                                               States
+                                                           Records        Systems
+                                                                                        SYR4_PhaseChem_2 (Barium to
+Copper                                 1022          55     1,579,728         54,224
+                                                                                        Cyanide).zip
+                                                      Radionuclides
+Gross Alpha, Excl. Radon &
+                                       4000          55        64,413         16,925    SYR4_Rads.zip
+U
+Gross Beta Particle Activity           4100          50        48,520         11,261    SYR4_Rads.zip
+Combined Radium (-226 & -
+                                       4010          53        86,594         21,972    SYR4_Rads.zip
+228)
+Combined Uranium                       4006          55        97,663         18,491    SYR4_Rads.zip
+1 Includes records that passed the QA/QC procedures described in this document. See USEPA (2024c) for additional
+
+information on procedures conducted for the occurrence analysis.
+2 Includes all sampling results for nitrate and sampling results for total nitrate plus nitrite for systems for which there
+
+were no SYR 4 nitrate (only) data.
+
+
+
+
+Data Management QA/QC Process                               E-9                                              February 2024
+for the SYR 4 ICR Dataset
+Section 3: SYR 4 Data Records Posted for Disinfection Byproducts
+Exhibit E.3 provides a count of States, total number of sample records and systems for each
+regulated disinfection byproduct collected for SYR 4, and the zip files names that the data files
+can be located. These data records were not analyzed under SYR 4 because of the ongoing
+considerations of potential revisions of the Stage 1 and Stage 2 DBP Rules.
+
+
+       Exhibit E.3: Number of Six-Year Review 4 Data Records for Disinfection
+                          Byproducts and Zip filename(s)
+
+                                                              Total
+                                                                           Total
+                                   Analyte    Number        Number of
+ Contaminant                                                             Number of         Zip Filename
+                                     ID       of States      Sample
+                                                                          Systems
+                                                             Records
+
+                                   Disinfection Byproducts - Full Datasets
+ Total Trihalomethanes (TTHM)         2950          57   1,089,557         46,297    SYR4_THMs.zip
+ Dibromochloromethane                 2944          46        981,059       47,172   SYR4_THMs.zip
+ Bromoform                            2942          46        976,412       47,129   SYR4_THMs.zip
+ Chloroform                           2941          46        981,289       47,403   SYR4_THMs.zip
+ Bromodichloromethane                 2943          46        977,561       47,196   SYR4_THMs.zip
+ Haloacetic Acids (HAA5)              2456          57       1,005,235      43,577   SYR4_HAAs.zip
+ Dibromoacetic Acid                   2454          44        720,986       36,121   SYR4_HAAs.zip
+ Dichloroacetic Acid                  2451          44        721,017       36,134   SYR4_HAAs.zip
+ Monochloroacetic Acid                2450          44        720,474       36,113   SYR4_HAAs.zip
+ Trichloroacetic Acid                 2452          44        720,706       36,125   SYR4_HAAs.zip
+ Monobromoacetic Acid                 2453          44        720,595       36,095   SYR4_HAAs.zip
+                                                                                     SYR4_Bromate_Chlorite.
+ Bromate                              1011          38         23,298          444
+                                                                                     zip
+                                                                                     SYR4_Bromate_Chlorite.
+ Chlorite                             1009          33         87,995          514
+                                                                                     zip
+Note: The speciation data is higher for TTHM than HAA5 (90+% vs 70+%). There were two more States that provided
+speciated THM results as compared to speciated HAA results. About 11,000 systems had speciated THM data but
+not speciated HAA data. There are only about 200 systems with speciated HAA data but no speciated THM data. In
+addition, the number of PWSs providing speciated TTHM data is higher than number of PWSs providing TTHM.
+There are about 8,000 systems that have data for the speciated THMs but not TTHM whereas there are only about
+7,000 systems with data for TTHM but not the speciated THMs.
+
+
+
+
+Data Management QA/QC Process                        E-10                                       February 2024
+for the SYR 4 ICR Dataset
+Section 4: SYR 4 Data Records Posted for Disinfection Byproduct
+Related Parameters
+This DBP-related data includes total organic carbon (TOC), alkalinity, pH, dissolved organic
+carbon (DOC), specific UV-absorbance (SUVA), and UV-absorbance. Full datasets for TOC and
+alkalinity (i.e., text files including all individual sample analytical results for TOC and alkalinity)
+are included. In addition to the full datasets for TOC and alkalinity, a paired TOC-alkalinity
+dataset was created that included, for each treatment plant (listed in Exhibit E.2 as a water
+system facility), the average monthly concentrations of TOC and alkalinity in raw water paired
+with the corresponding average finished water concentration of TOC. The paired TOC-alkalinity
+dataset was created to evaluate the percent removal of TOC using the SYR 4 data and joined the
+average monthly TOC concentration with the average monthly alkalinity concentration for
+individual water system facilities when possible. This paired dataset is directly related to the
+treatment technique requirements for TOC removal under the Stage 1 DBPR. EPA produced
+these datasets to support the ongoing considerations of potential revisions of the Stage 1 DBP
+Rule (85 FR 61680, USEPA, 2020). EPA did not analyze these data records under the SYR 4
+effort. Historical efforts to evaluate the paired TOC-alkalinity data are described in Six-Year
+Review 3 Technical Support Document for Disinfectants/Disinfection Byproducts Rules (USEPA,
+2016).
+
+Exhibit E.4 provides a count of States, total number of sample records and systems for TOC (raw
+and finished), alkalinity, pH, DOC, SUVA, and UV-absorbance. The count of systems for raw
+and finished TOC samples are counted separately, so systems with samples in both categories are
+counted twice. The “full” TOC dataset contains only the raw/finished water designations from
+the original data provided by the State (see SOURCE_TYPE_CODE). However, for the “paired”
+TOC-alkalinity dataset, EPA applies the following logic to assign raw/finished water
+designations to records that were missing it. Raw samples are identified as samples taken at
+source water sampling points. Records are marked as raw if SOURCE_TYPE_CODE equals
+“RW” or SOURCE_TYPE_CODE is NULL but the water system facility type code equals “IG”,
+“IN”, “RS”, “SP”, “WL”, or “CC”. Records are marked as finished if SOURCE_TYPE_CODE
+equals “FN” or SOURCE_TYPE_CODE is NULL but the water facility type code equals “CW”,
+“DS”, “PF”, “ST”, “TM”, “TP”. Exhibit E.5 contains the list of data elements, column names,
+and a brief description of the data for each data element included in the “paired” TOC-alkalinity
+dataset. For a list of data elements included in the “full” TOC, alkalinity, and pH datasets, refer
+to Exhibit E.1.
+
+  Exhibit E.4: Number of Six-Year Review 4 Data Records for TOC, Alkalinity, pH,
+                DOC, SUVA, and UV-absorbance and Zip Filename(s)
+                                                           Total
+                                                                         Total
+                                         Number of      Number of
+      Contaminant          Analyte ID                                 Number of        Zip Filename
+                                          States          Sample
+                                                                       Systems
+                                                         Records
+                        Disinfection Byproduct Related Parameters – Full Datasets
+ Total Organic Carbon                                                               SYR4_DBP_Related
+                                2920         49             440,197        3,156
+ (TOC)                                                                              Parameters.zip
+ Raw TOC                        2920         42             188,358        2,494    SYR4_DBP_Related
+
+
+
+Data Management QA/QC Process                     E-11                                     February 2024
+for the SYR 4 ICR Dataset
+                                                                Total
+                                                                                Total
+                                               Number of      Number of
+       Contaminant            Analyte ID                                      Number of           Zip Filename
+                                                States         Sample
+                                                                               Systems
+                                                               Records
+                                                                                             Parameters.zip
+                                                                                             SYR4_DBP_Related
+ Finished TOC                       2920          38              155,558           1,999
+                                                                                             Parameters.zip
+                                                                                             SYR4_DBP_Related
+ Alkalinity                         1927          51              429,397          18,140
+                                                                                             Parameters.zip
+                                                                                             SYR4_DBP_Related
+ pH                                 1925          52              632,821          28,660
+                                                                                             Parameters.zip
+                                                                                             SYR4_DBP_Related
+ SUVA                               2923          2                  8,026             59
+                                                                                             Parameters.zip
+                                                                                             SYR4_DBP_Related
+ UV-254                             2922          3                  6,061             60
+                                                                                             Parameters.zip
+                                                                                             SYR4_DBP_Related
+ DOC                                2919          3                  5,908             76
+                                                                                             Parameters.zip
+                           Disinfection Byproduct Related Parameters – Paired Dataset
+ Paired TOC-alkalinity                                                                       SYR4_DBP_Related
+                                      N/A         33                92,666          1,192
+ record                                                                                      Parameters.zip
+
+
+
+
+         Exhibit E.5 Paired TOC-Alkalinity Dataset Field Names and Definitions
+
+      Data Element            Column Name                                    Description
+ Public Water System       NUMBER0                The code used to identify each PWS. The code begins with the
+ Identification Number                            standard 2- character postal state abbreviation or region code;
+ (PWSID)                                          the remaining 7 numbers are unique to each PWS in the state.
+ Sample Collection         Month                  Month (1 through 12).
+ Date (Month)
+ Sample Collection         Year                   Year (2012 through 2019).
+ Date (Year)
+ Retail Population-        Population Served      Retail population served by the water system.
+ served
+ Federal Public Water      System Type            Water system type according to federal requirements.
+ System Type Code                                 C = Community water system
+                                                  NTNC = Non-transient non-community water system
+ Source Water Type         Source Water Type      Primary water source for the water system.
+                                                  GU = Ground water Under Direct Influence of Surface Water
+                                                  GW = Ground Water
+                                                  GWP = Purchased Ground Water
+                                                  SW = Surface Water
+                                                  SWP = Purchased Surface Water
+ Facility Identification   Water Facility ID      Unique identifier for each water system facility.
+ Code
+ State Facility            State Facility ID      Identifier for each water system facility that is unique within a
+ Identification Code                              particular state.
+ State Assigned            State Assigned ID      A state-assigned value which identifies the water system facility.
+ Identification Code
+ Raw water TOC             Avg Of Raw TOC         Monthly average (in mg/L) total organic carbon (TOC)
+ average concentration     (mg/L)                 concentration in raw water.
+ Raw water alkalinity      Avg Of Raw             Monthly average (in mg/L) alkalinity concentration in raw water.
+ average concentration     Alkalinity (mg/L)
+ Finished water TOC        Avg Of Finished        Monthly average (in mg/L) total organic carbon (TOC)
+ average concentration     TOC (mg/L)             concentration in finished water.
+
+
+
+
+Data Management QA/QC Process                          E-12                                           February 2024
+for the SYR 4 ICR Dataset
+Section 5: SYR 4 Data Records Posted for Microbial Contaminants,
+Microbial Related Parameters, and Disinfectant Residuals
+Data for three microbial contaminants (total coliforms (TC), Escherichia coli (EC), and fecal
+coliform (FC)) were collected from 2012 to 2019 for SYR 4. The TC datasets are separated into
+individual files by each year of data collected because of the large volume of data collected.
+Unlike the TC records which are provided separately by year, the EC and FC are contained in
+one file. The EC dataset is one large file intended for use in Access or R. Systems are required
+under the Surface Water Treatment Rule to monitor for disinfectant residuals at the same time
+and locations as TC under TCR/RTCR. Most States submitted data from systems that included
+free and total residual chlorine results paired with TC records. However, some States provided
+the residual monitoring data in separate datafiles or did not submit that information under the
+SYR 4 ICR.
+
+Exhibit E.6 provides a count of States, total number of sample records and systems for TC, EC,
+FC, and records of disinfectant residuals. Exhibit E.6 also shows that some States submitted
+chlorine residual monitoring results separately under different analyte codes (e.g., Chlorine
+(Analyte ID 0999), Residual Chlorine (Analyte ID 1012), and Free Residual Chlorine (Analyte
+ID 1013)). To maximize the number of paired total coliform and chlorine residual records, EPA
+took additional steps to add records from States reporting residual data records separately (see
+Section 5.5.2 of the main text for details on pairing and the analytes used). The “full” datafiles in
+Exhibit E.6 contain these paired records as well as records for systems with reported microbial
+indicator presence and absence but no associated disinfection residual information.
+
+To assist the user, EPA produced the “paired” TC, EC, and FC datafiles (Exhibit E.6), which
+contain only the records for systems in the “full” versions of those datasets that include paired
+residual information. The “paired” datafiles were not analyzed under SYR 4 because of the
+ongoing considerations of potential revisions of the Surface Water Treatment Rules.
+
+Note that the TC, EC, and FC datasets contain the monitoring records under TCR/RTCR for
+systems with all source water types. The HPC, Giardia, disinfectant residual, and paired
+TC/EC/FC disinfectant residual files contain the monitoring records under the SWTRs. See
+Exhibit E.1 for a description of field names.
+
+
+     Exhibit E.6: Number of Six-Year Review 4 Data Records for Microbial
+Contaminants, Microbial Related Parameters, and Disinfectant Residuals and Zip
+                                 Filename(s)
+                                          Number        Total       Total
+                                Analyte   of States/    Number      Number
+ Contaminant                                                                    Zip Filename
+                                ID        Entities      of Sample   of
+                                          with Data     Records     Systems
+                         Microbial Contaminants and Disinfectant Residual – Full Datasets
+
+ Total Coliform (2012)            3100        54        2,349,687     102,423   SYR4_TC.zip
+
+
+
+
+Data Management QA/QC Process                          E-13                                    February 2024
+for the SYR 4 ICR Dataset
+                                           Number        Total          Total
+                                 Analyte   of States/    Number         Number
+ Contaminant                                                                          Zip Filename
+                                 ID        Entities      of Sample      of
+                                           with Data     Records        Systems
+ Total Coliform (2013)            3100         54        2,398,740        102,713     SYR4_TC.zip
+
+ Total Coliform (2014)            3100         56        2,521,212        105,515     SYR4_TC.zip
+
+ Total Coliform (2015)            3100         56        2,513,937        104,532     SYR4_TC.zip
+
+ Total Coliform (2016)            3100         57        2,656,932        113,099     SYR4_TC.zip
+
+ Total Coliform (2017)            3100         57        2,780,743        114,328     SYR4_TC.zip
+
+ Total Coliform (2018)            3100         57        2,849,385        114,954     SYR4_TC.zip
+
+ Total Coliform (2019)            3100         57        2,675,476        111,385     SYR4_TC.zip
+
+ E. coli (EC)                     3014         57        7,175,363         93,728     SYR4_EC_FC_HPC_Giardia.zip
+
+ E. coli (EC) In Raw Water1       3014         43              65,805      19,515     SYR4_EC_FC_HPC_Giardia.zip
+ E. coli (EC) In Distribution
+                                  3014         49        6,346,973         90,607     SYR4_EC_FC_HPC_Giardia.zip
+ Systems2
+ E. coli (EC) In Unknown
+                                  3014         54          762,585         24,486     SYR4_EC_FC_HPC_Giardia.zip
+ Sampling Location3
+ Fecal Coliform (FC)              3013         40              16,818       1,835     SYR4_EC_FC_HPC_Giardia.zip
+
+ Coliphage                        3028         2                   3              3   SYR4_EC_FC_HPC_Giardia.zip
+
+ Enterococci                      3002         3                   8              4   SYR4_EC_FC_HPC_Giardia.zip
+
+ Cryptosporidium                  3015         29              19,542        740      SYR4_EC_FC_HPC_Giardia.zip
+ Heterotrophic Bacteria
+                                  3001         16          135,081           595      SYR4_EC_FC_HPC_Giardia.zip
+ (HPC)
+ Giardia Lamblia                  3008         15               4,628        229      SYR4_EC_FC_HPC_Giardia.zip
+
+ Legionella                                    0                   0              0   N/A
+                                                                                      SYR4_Disinfectant_
+ Chlorine4                        0999         19        6,100,133          4,438
+                                                                                      Residuals.zip
+                                                                                      SYR4_Disinfectant_
+ Total Chlorine4                  1000         1           125,788           741
+                                                                                      Residuals.zip
+                                                                                      SYR4_Disinfectant_
+ Chloramine4                      1006         9               78,664        198
+                                                                                      Residuals.zip
+                                                                                      SYR4_Disinfectant_
+ Residual Chlorine4               1012         4           179,599           572
+                                                                                      Residuals.zip
+                                                                                      SYR4_Disinfectant_
+ Free Residual Chlorine4          1013         3         2,000,997          4,044
+                                                                                      Residuals.zip
+                                                                                      SYR4_Disinfectant_
+ Chlorine Dioxide                 1008         9               12,752         28
+                                                                                      Residuals.zip
+                         Microbes and Associated Disinfectant Residuals – Paired Datasets5
+ E. coli (EC) with Associated
+                                  3014         49        3,079,032       28,091       SYR4_Paired Microbes_DR.zip
+ Disinfectant Residuals
+
+
+
+
+Data Management QA/QC Process                           E-14                                         February 2024
+for the SYR 4 ICR Dataset
+                                             Number        Total         Total
+                                 Analyte     of States/    Number        Number
+ Contaminant                                                                           Zip Filename
+                                 ID          Entities      of Sample     of
+                                             with Data     Records       Systems
+  Fecal Coliform (FC) with
+  Associated Disinfectant            3013           24           5,966        534        SYR4_Paired Microbes_DR.zip
+  Residuals
+  Total Coliform (TC) paired
+  with Associated Disinfectant       3100           43        1,165,209     30,950       SYR4_Paired Microbes_DR.zip
+  Residuals (2012)
+  Total Coliform (TC) paired
+  with Associated Disinfectant       3100           44        1,173,926     31,132       SYR4_Paired Microbes_DR.zip
+  Residuals (2013)
+  Total Coliform (TC) paired
+  with Associated Disinfectant       3100           46        1,218,722     31,865       SYR4_Paired Microbes_DR.zip
+  Residuals (2014)
+  Total Coliform (TC) paired
+  with Associated Disinfectant       3100           47        1,241,995     31,880       SYR4_Paired Microbes_DR.zip
+  Residuals (2015)
+  Total Coliform (TC) paired
+  with Associated Disinfectant       3100           48        1,274,211     34,654       SYR4_Paired Microbes_DR.zip
+  Residuals (2016)
+  Total Coliform (TC) paired
+  with Associated Disinfectant       3100           50        1,331,868     37,217       SYR4_Paired Microbes_DR.zip
+  Residuals (2017)
+  Total Coliform (TC) paired
+  with Associated Disinfectant       3100           50        1,480,354     41,053       SYR4_Paired Microbes_DR.zip
+  Residuals (2018)
+  Total Coliform (TC) paired
+  with Associated Disinfectant       3100           50        1,498,050     38,029       SYR4_Paired Microbes_DR.zip
+  Residuals (2019)
+1 Includes results with a sample type code of “TG” (i.e., triggered monitoring). Note that these record counts are
+
+subsets of the E. coli records included in the E. coli data set.
+2 Includes results not marked as triggered but had a sample point type of “DS”, “FC”, “FN”, “LD”, “MD”, or “MR” or
+
+records with water facility type of “CC”, “DS”, “TP”, or “TM” and sample point type of “WS” or null. Note that these
+record counts are subsets of the E. coli records included in the E. coli data set.
+3 Includes remaining E. coli results not identified as coming from raw water or the distribution system. Note that these
+
+record counts are subsets of the E. coli records included in the E. coli data set.
+4 Reported independently of the coliform sample results.
+5 Refer to Section 5.5.2 for more details on the paired disinfectant residual and total coliform records.
+
+
+
+
+Section 6: SYR 4 Data Records Posted for Aircraft Drinking Water
+Rule (ADWR)
+EPA downloaded compliance data from the Agency’s Aircraft Reporting and Compliance
+System (ARCS) for the period from February 2011 to May 2021. This dataset includes aircraft
+compliance monitoring data for TC and EC for aircraft drinking water systems (Exhibit E.7). The
+Aircraft PWS Inventory file includes records for 8,627 unique aircraft drinking water systems.
+Details on the QA/QC procedure for this data can be found in Appendix D of this document.
+Note that the number of sample records presented below and included in the posted data reflect
+counts prior to the QA/QC procedures were applied for the SYR 4 analyses as presented in
+USEPA (2024b). After the QA/QC steps described in Appendix D are applied, there are 140,502
+total coliform and 92,994 E. coli records remaining.
+
+
+Data Management QA/QC Process                             E-15                                           February 2024
+for the SYR 4 ICR Dataset
+Exhibit E.7: Number of Aircraft Drinking Water Rule (ADWR) Data Records and
+Zip filename
+
+                            Total Number of      Total Number of
+ Contaminant                                                                     Zip Filename
+                            Sample Records          Systems
+
+                              Aircraft PWS Sample by Air Carrier and Results
+  Total Coliform               212,937                8,094           SYR4_ADWRCompliance Data.zip
+  E. coli 2                     93,011                7,091           SYR4_ADWR Compliance Data.zip
+1 The number of records presented here is greater than the number of rows of data downloaded from ARCS (70,979
+
+at the time of download in support of the SYR 4 analysis) because it counts all samples within each row of data (i.e.,
+Sample 1, Sample 2, and Sample 3). Note that Sample 3 is related to the ability to have third sample collected, which
+is not a requirement of ADWR and is not often used. Typically there is no data for Sample 3 fields.
+2 The count of E. coli records and systems is based on all E. coli samples listed as either “present” or “absent.” It
+
+does not include samples listed as “not speciated” or “not analyzed.”
+
+
+
+Exhibit E.8, Data Dictionary Aircraft Drinking Water Rule (ADWR) Dataset, contains a list of
+the data elements, column names and a brief description of the data for each data element
+included in the ADWR data text files.
+
+
+Exhibit E.8: Data Dictionary Aircraft Drinking Water Rule (ADWR) Dataset
+
+ Data Element                Column Name            Description
+
+ PWS Inventory
+ Official FAA Corporate      FAA Corporate Name     The name of the air carrier or operator as registered with the
+ Name                                               FAA.
+ FAA Designator              FAA Designator         The four-character designator assigned to the air carrier by the
+                                                    FAA.
+ PWSID                       PWS ID                 The aircraft public water system identification number (PWS_ID)
+                                                    used by EPA to uniquely identify the aircraft public water system
+                                                    (PWS).
+ FAA Aircraft Registry       FAARegistry No.        The number for the aircraft that is registered with the Federal
+ No                                                 Aviation Administration (FAA), commonly referred to as the N-
+                                                    number or tail number.
+ Aircraft Activity Status    Status                 The activity status of the aircraft. It is selectable from the drop-
+ Code                                               down list. Permissible values are [Active] or [Inactive].
+ Routine Disinfection        D&FFrequency           The frequency of routine disinfection and flushing scheduled for
+ and Flushing                                       this aircraft.
+ Frequency
+ Routine Sample              SamplingFrequency      The frequency of routine coliform sampling scheduled for this
+ Frequency                                          aircraft.
+ Aircraft Manufacturer       Manufacturer           The manufacturer of the aircraft.
+ Aircraft Model              Model                  The manufacturer’s model of the aircraft.
+ Seating Capacity            Seat Capacity          The number of passenger seats configured for the aircraft. It has
+                                                    a maximum value of 999.
+ Samples by Air Carrier
+ Official FAA Corporate      FAA Corporate Name     The name of the air carrier or operator as registered with the
+ Name                                               FAA.
+
+
+
+
+Data Management QA/QC Process                           E-16                                             February 2024
+for the SYR 4 ICR Dataset
+ Data Element             Column Name          Description
+
+ FAA Aircraft Registry    FAA Registry No.     The number for the aircraft that is registered with the Federal
+ No                                            Aviation Administration (FAA), commonly referred to as the N-
+                                               number or tail number.
+ PWSID                    PWS ID               The aircraft public water system identification number (PWS_ID)
+                                               used by EPA to uniquely identify the aircraft public water system
+                                               (PWS).
+ Routine Sample           Routine Sample       The frequency of routine coliform sampling scheduled for this
+ Frequency                Frequency            aircraft.
+ Sample Type              Sample Type          Indicates the type of individual sample: routine, repeat, follow-up,
+                                               special.
+ Date and Time            Sample Taken On      The date and time the sample was collected. When the galley and
+ Collected                                     lavatory samples are collected on the same day, the date and
+                                               time the first sample was collected is used. The required format is
+                                               MM/DD/YYYY with time reported on a 24-hour clock as H:MI
+                                               (e.g., 12/01/2014 15:00).
+ Date and Time Results    Samples Results On   The date and time the sample analysis results were received from
+ Received                                      the laboratory (e.g., phone message, USPS delivery date, office
+                                               date and time stamp, e-mail receipt date and time). The required
+                                               format is MM/DD/YYYY with time reported on a 24-hour clock as
+                                               Hours:Minutes (e.g., 12/01/2014 15:00).
+ Sample Collection        Sample1 Location     The location on the aircraft from where the first sample was
+ Location (Sample 1)                           collected. The options are [galley] or [lavatory].
+ Total Coliform Result    Sample1 Total        The reported lab result that indicates the presence or absence of
+ (Sample 1)               Coliform             total coliform in the first sample analyzed. The drop-down list
+                                               options are [Present] or [Absent].
+ E. coli Result (Sample   Sample1 E.Coli       The lab analytical result that indicates the presence or absence of
+ 1)                                            E. coli in the first sample analyzed. The drop-down list options are
+                                               [Present] or [Absent] or [Did not speciate]. “Did not speciate” is
+                                               used when the lab did not analyze a TC+ sample (or “present”
+                                               sample result) for E. coli. Note: certified labs are required to
+                                               analyze all TC+ samples for E. coli, but it is the carrier’s
+                                               responsibility to make sure the lab completed the speciation.
+ Sample Collection        Sample2 Location     The location on the aircraft from where the second sample was
+ Location (Sample 2)                           collected. The options are [galley] or [lavatory].
+ Total Coliform Result    Sample2 Total        The reported lab result that indicates the presence or absence of
+ (Sample 2)               Coliform             total coliform in the second sample analyzed. The drop-down list
+                                               options are [Present] or [Absent].
+ E. coli Result (Sample   Sample2 E. coli      The lab analytical result that indicates the presence or absence of
+ 2)                                            E. coli in the second sample analyzed. The drop-down list options
+                                               are [Present] or [Absent] or [Did not speciate]. “Did not speciate”
+                                               is used when the lab did not analyze a TC+ sample (or “present”
+                                               sample result) for E. coli. Note: certified labs are required to
+                                               analyze all TC+ samples for E. coli, but it is the carrier’s
+                                               responsibility to make sure the lab completed the speciation.
+ Sample Collection        Sample3 Location     The location on the aircraft from where the third sample was
+ Location (Sample 3)                           collected. The options are [galley] or [lavatory].
+ Total Coliform Result    Sample3 Total        The reported lab result that indicates the presence or absence of
+ (Sample 3)               Coliform             total coliform in the third sample analyzed. The drop-down list
+                                               options are [Present] or [Absent].
+ E. coli Result (Sample   Sample3 E. coli      The lab analytical result that indicates the presence or absence of
+ 3)                                            E. coli in the third sample analyzed. The drop-down list options
+                                               are [Present] or [Absent] or [Did not speciate]. “Did not speciate”
+                                               is used when the lab did not analyze a TC+ sample (or “present”
+                                               sample result) for E. coli. Note: certified labs are required to
+                                               analyze all TC+ samples for E. coli, but it is the carrier’s
+                                               responsibility to make sure the lab completed the speciation.
+
+
+
+
+Data Management QA/QC Process                      E-17                                           February 2024
+for the SYR 4 ICR Dataset
+Section 7: Additional Data Collected under SYR 4 ICR
+Additional data relating to certain microbial rules were collected under the SYR 4 ICR request,
+including calculated compliance values and corrective actions information. Note that these data
+did not undergo the same quality assurance evaluations as the rest of the data.
+
+Calculated Compliance Values
+
+Exhibit E.9 provides a summary of the data elements included in the calculative compliance
+values related to Cryptosporidium binning information from SYR 4 ICR database. Exhibit E.10
+provides a summary of the systems and states that provided SYR4 Cryptosporidium binning
+data.
+
+Exhibit E.9: Data Dictionary of Cryptosporidium Binning Information Included as
+part of the Calculated Compliance Values Table (Filename: SYR4_CryptoBinning)
+Data Element                           Column Name            Description
+Contaminant Identification Code        ANALYTE_CODE           4-digit Safe Drinking Water Information System
+                                                              (SDWIS) contaminant identification number for which
+                                                              the sample is being analyzed.
+Contaminant Name                       ANALYTE_NAME           Common name of contaminant for which the sample is
+                                                              being analyzed.
+Public Water System Identification     PWSID                  The code used to identify each PWS. The code begins
+Number (PWSID)                                                with the standard 2- character postal State
+                                                              abbreviation or region code; the remaining 7 numbers
+                                                              are unique to each PWS in the State.
+Facility Identification Code           WATER_FACILITY_ID A unique identifier for each water system facility.
+Compliance Period Begin Date           CP_PRD_BEGIN_ DT Compliance Period Begin Date.
+Compliance Period End Date             CP_PRD_END_DT          Compliance Period End Date.
+                                                              The BIN assignment for the period of time covered by
+Bin Number                             BIN_NUMBER
+                                                              the average.
+
+
+Exhibit E.10: Six-Year Review 4 Data Summary for Calculated Compliance Values
+                 Related to Cryptosporidium Binning Information
+                                     Total Number of   Total
+                    Number of
+                                     Sample            Number of       Zip Filename
+                    States
+                                     Records           Systems
+                          23             27,812             486        SYR4_CryptoBinning.zip
+
+
+
+Corrective Actions
+
+Exhibit E.11 provides a summary of the data elements included in the corrective actions table
+within the SYR 4 ICR database. Exhibit E.12 provides a summary of the corrective action data
+collected as part of SYR. Note, however, that EPA did not evaluate the specific types of
+corrective actions (e.g., those related to sanitary surveys) as part of SYR 4.
+
+
+
+Data Management QA/QC Process                          E-18                                         February 2024
+for the SYR 4 ICR Dataset
+                Exhibit E.11: Corrective Actions Data Dictionary (Filename:
+                                 SYR4_CorrectiveActions)
+Data Element                     Column Name               Description
+Corrective Action ID             CORACT_ID                 Unique identifier for each corrective action.
+Public Water System              PWSID                     The code used to identify each PWS. The code
+Identification Number (PWSID)                              begins with the standard 2- character postal State
+                                                           abbreviation or region code; the remaining 7
+                                                           numbers are unique to each PWS in the State.
+                                                           State in which the system is located using the
+State Code                       STATE_CODE
+                                                           State’s two letter abbreviation.
+Date Issue Identified            DATE_ISSUE_IDENTIFIED     Date the corrective action was identified.
+Schedule Type                    SCHEDULE_TYPE             Type of schedule for the corrective action.
+Schedule Description             SCHEDULE_DESCRIPTION Schedule for the corrective action.
+Corrective Action Category Code CORACT_CAT_CODE            Category code for the corrective action.
+Corrective Action Name           CORACT_NAME               Name of the corrective action.
+Due Date                         DUE_DATE                  Due date for the required corrective action.
+                                                           The date that the water system achieved the
+Achieved Date                    ACHIEVED_DATE
+                                                           corrective action required.
+
+
+
+
+        Exhibit E.12: Six-Year Review 4 Data Summary for Corrective Actions
+                                Total Number   Total
+                  Number of
+                                of Sample      Number of     Zip Filename
+                  States
+                                Records        Systems
+                        41         69,821         15,984     SYR4_Corrective_Actions.zip
+
+
+
+
+Section 8: Treatment Data
+Exhibits E.13 and E.14 provide a comprehensive summary of the data elements included in the
+treatment information within the SYR 4 ICR database. EPA has posted these data online;
+however, it is important to note that the treatment information did not undergo the same quality
+assurance evaluations as the SYR 4 occurrence data. Exhibit E.13 identifies the data elements
+used in the treatment information tables and a description of each data element. However, the
+majority of these data elements are not populated in the SYR 4 ICR dataset. Exhibit E.14
+represents the database relationships between tables in the SYR 4 ICR treatment database. This
+diagram shows how the treatment tables relate to one another. Bolded field names are primary
+keys, or unique fields, designated to identify all table records. Primary keys contain a unique
+number for each row of data. Italicized field names are foreign keys that serve as the link (i.e.,
+connection) between two or more related tables. Relationships between key fields in different
+tables are illustrated by the lines connecting the tables.
+
+
+
+
+Data Management QA/QC Process                     E-19                                          February 2024
+for the SYR 4 ICR Dataset
+Exhibit E.13: Treatment Data Dictionary (Filename: SYR4_Treatment)
+ Data Element                        Description
+                               Water system facility plant table (T6YWSFPLT)
+ Treatment Plant ID                  Unique identifier for each treatment plant water system facility record.
+                                     Identifier that relates each record to the unique record in the T6YWSF
+ Water Facility ID
+                                     table.
+                                     A State-assigned value which identifies the treatment plant water system
+ State Assigned ID Code
+                                     facility.
+                                     The value extracted from SDWIS/State will be “TP” (treatment plant).
+ Water Facility Type                 The values from non-SDWIS States include “TM” (transmission manifold)
+                                     and “ST” (storage).
+                                     Unfiltered (UF), Conventional Filtration (CF), Direct Filtration (DF),
+ Filter Type                         Diatomaceous Earth (DE), Other (OT), and other permitted values that
+                                     the System Administrator may add.
+ Description of Filter               A description of the filter.
+ Disinfectant Concentration (mg/L)   Disinfectant Concentration in mg/L.
+                                     Contact Time Status. Permitted values are: RQD – Required; NRQD -
+                                     Not Required; REQT – Requested; RECV – Received; URVW - Under
+ Contact Time Status
+                                     Review; RVWD – Reviewed; APVD – Approved; DTMD – Determined;
+                                     DENY – Denied; RESB – Resubmitted.
+ Contact Time Determination Date     Date the Contact Time was determined.
+                                     Contact Time in minutes – the number of minutes the water was in
+ Contact Time                        contact with the disinfectant in order to be properly disinfected. The
+                                     range of values is 0001 to 2400.
+ CT Value                            CT value in mg x min/liter.
+ Disinfection Benchmark for
+                                     The disinfection profile benchmark for Giardia inactivation in Logs.
+ Giardia Inactivation in Logs
+ Status of Disinfection Benchmark    The status of the disinfection profile benchmark for Giardia inactivation.
+ for Giardia Inactivation            See CONTACT_TIME_STAT for permitted values and description.
+ Date of Disinfection Benchmark
+                                     The date the disinfection virus benchmark was determined.
+ for Giardia
+ Disinfection Benchmark for
+                                     The disinfection profile benchmark for Giardia inactivation percent.
+ Giardia Inactivation Percent
+ Disinfection Benchmark for Virus
+                                     The disinfection profile benchmark for virus inactivation in Logs.
+ Inactivation in Logs
+ Status of Disinfection Benchmark    The status of the disinfection profile benchmark for Virus inactivation.
+ for Virus Inactivation              See CONTACT_TIME_STAT for permitted values and description
+ Date of Disinfection Benchmark
+                                     The date the disinfection virus benchmark was determined.
+ for Virus
+ Disinfection Benchmark for Virus
+                                     The disinfection profile benchmark for virus inactivation percent.
+ Inactivation Percent
+                                     Under the Filter Backwash Rule, a water system is required to submit a
+                                     schematic of this treatment plant to the primacy agency for review to
+ FBR Schematic Status                demonstrate the percentage of filter backwash that is returned to the
+                                     treatment plant influent. See CONTACT_TIME_STAT for permitted
+                                     values and description.
+                                     Date primacy agency received treatment plant schematic to demonstrate
+ Date FBR Schematic Received         the percentage of filter backwash that is returned to the treatment plant
+                                     influent.
+                                     Date primacy agency completes review of treatment plant schematic and
+ Date FBR Schematic Reviewed         determines the percentage of filter backwash that is returned to the
+                                     treatment plant influent.
+ Status of Alternate Return          The status of a request from the water system to request an alternate
+ Location for FBR                    location for return of the filter backwash
+ Date of Alternate Return Location   The date that the water system requested an alternate location for return
+ for FBR                             of the filter backwash.
+                                     The status of corrective action by the water system as required by the
+ Status of FBR Corrective Action     primacy agency after review of the schematic of the filter backwash flow
+                                     in the treatment plant.
+
+
+
+Data Management QA/QC Process                          E-20                                          February 2024
+for the SYR 4 ICR Dataset
+ Data Element                        Description
+                                     The date that the water system achieved the corrective action required
+ FBR Corrective Action Date
+                                     for the filter backwash.
+ User ID Initials                    The User ID of the person who created this record.
+                                     A memo field into which a user may enter comments about the Filter
+ FBR Comments
+                                     Backwash Recycling Rule.
+ Disinfection Benchmark Reason       Text description associated with the Disinfection Benchmark Reason.
+ Contact Time Reason                 Text description associated with the Contact Time.
+                               Treatment process table (T6YTREATPROCESS)
+ Treatment Process ID                Unique identifier for each treatment record.
+                                     Identifier that relates each record to the unique record in the T6YWSF
+ Water Facility ID
+                                     table.
+ Treatment Objective Code            A coded value that categorizes the treatment objective.
+ Treatment Objective Name            The name of the treatment objective.
+ Treatment Process Code              A coded value that categorizes the treatment process.
+ Treatment Process Name              The name of the treatment process.
+                                 Water system flows table (T6YWSFFLOWS)
+ Water System Facility Flow ID       Unique identifier for each water system facility flow record.
+                                     Identifier that relates each record to the unique record in the T6YWSF
+ Water Facility ID
+                                     table.
+                                     Identifier for each water system facility flow entry that is unique when
+ Facility Flow ID Number
+                                     combined with T6YWSFT6YWSF_ID.
+                                     This attribute identifies the water system facilities that are part of the
+ Facility Train ID
+                                     same flow.
+                                     This attribute identifies the order of the water system facilities in a
+ Sequence ID
+                                     specific flow.
+                                     A system administrator controlled code of the type of water flowing
+ Process Water Type
+                                     between the facilities.
+ Water Quantity Measure              A value that represents the number of gallons of water purchased.
+                                     A coded value which specifies the unit of measurement for the quantity
+ Water Quantity Measure Unit
+                                     of water purchased.
+ Connection Type                     Categorizes the type of connection between the water system facilities.
+                                     The date of the connection of the water system facility to another water
+ Connection Date
+                                     system facility.
+                                     The date of the disconnection of the water system facility from another
+ Disconnection Date
+                                     water system facility.
+                                     Identifier for each supplying water system facility that is unique when
+ Supplying Facility ID
+                                     combined with TINWSF0ST_CODE.
+ Supplying Facility State Code       Two-digit code that identifies the State that submitted data for the facility
+
+
+
+
+Data Management QA/QC Process                            E-21                                            February 2024
+for the SYR 4 ICR Dataset
+Exhibit E.14: Treatment Data Diagram
+
+
+
+
+Section 9: SYR 4 Data Considerations
+The SYR 4 ICR data has undergone appropriate quality assurance evaluation and enough States
+provided compliance monitoring data and treatment technique information to be representative
+for national-scale analyses. EPA used the data in analytical activities informing decisions for
+SYR 4. The data include sufficient information for users to be able to reproduce the SYR 4
+analyses. There are a few limitations of the final SYR 4 ICR dataset that should also be
+acknowledged. There may be different levels of completeness for different contaminants within
+the dataset. In some cases, the number of records per State ranged from less than one hundred
+records up to more than a million records for a given contaminant. States might not have
+submitted data for certain contaminants if they have monitoring waivers for the contaminant.
+States may grant waivers to PWSs to reduce monitoring frequencies, and it is possible that no
+samples were collected by systems during the SYR 4 period of review. Other States may have
+submitted data for these contaminants under the ICR; however, the data were not in a format
+compatible with the SYR 4 ICR dataset. Furthermore, there were four States and three additional
+tribes or territories whose data are missing entirely from the analysis. A thorough QA/QC
+process was undertaken to evaluate these SYR 4 ICR data used for analyses. However, it is
+possible that data entry errors may still exist in the final SYR 4 ICR dataset. The QA/QC review
+focused only on the data elements essential for analysis as part of SYR 4. For a complete
+discussion of the SYR 4 ICR dataset, including a description of the quality assurance/quality
+control review, refer to the main text of this document and USEPA (2024a). For more detailed
+information on the microbial contaminants’ occurrence analysis, refer to USEPA (2024b).
+
+
+
+Data Management QA/QC Process                 E-22                                  February 2024
+for the SYR 4 ICR Dataset
+Section 10: Instructions on Importing SYR 4 Datasets
+These text files are tab delimited and have no text qualifier. Field names are included in the first
+row of each file. The complete SYR 4 ICR dataset is too large to be imported into Excel as well
+as certain individual files, these files include individual years of TC and EC files, free chlorine,
+total chlorine and paired datasets of TC/EC/FC with residual disinfectant. The data are available
+for download for each parameter and should be imported into a data management system that
+supports large datasets for analysis.
+
+10A: Downloading Data Files (Note that instructions may vary depending on the version and
+software used to import data.)
+
+   1. Begin by reviewing the SYR 4 ICR Dataset Summary (Exhibit E.2) and in particular note
+      the table of Data Field Names and Definitions (Exhibit E.1).
+
+   2. Access the SYR 4 ICR data by going to the Six-Year Review homepage. Click on the
+      link for “Six-Year Review 4.”
+
+   3. Click on the desired zip file and select “Save As” to save the file to your computer.
+
+   4. Navigate to the location on your computer where you saved the zip file and extract the
+      zip file contents by clicking “Open with” and using WinZip or a similar file compression
+      software
+
+10B: Importing Data into Microsoft Excel
+
+       Using Microsoft Excel 2013 or a newer version is recommended due to the size of the
+       dataset(s). Note, the following microbial and disinfection byproduct data files are too
+       large to import into Microsoft Excel: TTHM, HAA, free residual chlorine, total chlorine,
+       all TC files, EC, and all paired microbes and disinfectant residual files.
+
+   5. Open a blank workbook in Microsoft Excel.
+
+   6. In the workbook, select Data among the tabs at the top of the page.
+
+   7. On the far left, top of the screen, go to the Get External Data section and select From
+      Text.
+
+   8. You will be prompted to select a text file. Locate the text files you extracted in Step 4,
+      and click “Import” on the text file of interest.
+
+   9. A preview of the file text converted to a table will appear. At the top, verify that File
+      Origin (depending on your computer’s operating system) displays “10000: Western
+      European (Mac)” or “1252: Western European (Windows).” Select “Tab” as the
+      Delimiter and “Based on first 200 rows” as the Data Type Detection. Click Load To...
+
+
+Data Management QA/QC Process                   E-23                                    February 2024
+for the SYR 4 ICR Dataset
+   10. In the next window, choose “Table” under Select how you want to view the data in your
+       workbook. Select “Existing worksheet” for where to put the data and verify the table’s
+       origin cell origin displays as “=$A$1.” Click OK.
+
+   11. A “Queries & Connections” window will appear on the right of the screen as Excel
+       generates the new table. This step may take several minutes.
+
+   12. Save the Excel spreadsheet file once the table generation is complete.
+
+10C: Importing Data into R
+
+   1. Open a blank R script.
+
+   2. Using the function read.delim(), import the text file using the following format:
+
+            a. [analyte name] <- read.delim(file = [filepath], header = TRUE)
+
+            Example: bromoform <- read.delim(file = "C:/Users/[username]/Desktop/SYR4-
+            Microbes /SUMMARY_MDBPS_BROMOFORM.txt", header = TRUE)
+
+   3. Check the data frame that is generated to ensure correct formatting.
+
+   4. NOTE: data columns that should be in date format will be imported as character type. To
+      fix the format, include the line "df$DATE <- as.Date.character(df$DATE, format = "%d-
+      %b-%y")" in the R code, replacing df with the name of the dataframe, and DATE with
+      the name of the column containing date information.
+
+10D: Importing Data into Microsoft Access
+
+   1. Open a blank database in Microsoft Access.
+
+   2. In the database, select External Data among the tabs at the top of the page.
+
+   3. On the far left, top of the screen, go to the New Data Source dropdown and select From
+      File > Text File.
+
+   4. You will be prompted to select a text file. Locate the text files you extracted in Step 4,
+      and with the following options: “import the source data into a new table in the current
+      database”, or “Link to the data source by creating a linked table”. You can choose either
+      method, but note that linking the file will maintain a smaller database size. Click OK.
+
+
+
+
+Data Management QA/QC Process                 E-24                                   February 2024
+for the SYR 4 ICR Dataset
+   5. The Link (or Import) Text Wizard will appear. The default settings will be displayed and
+      should have Delimited selected as the data format. Select Next>.
+
+
+
+
+   6. Default settings will display next and should have “Tab” selected as the delimiter. Select
+      the checkmark box next to “First Row Contains Field Names.” Next, click
+      “Advanced…”.
+
+
+
+
+Data Management QA/QC Process                 E-25                                  February 2024
+for the SYR 4 ICR Dataset
+           7. The Link (or Import) Specification window will appear. In the Dates, Times, and
+              Numbers section, set the Date Order value to “DMY.”
+
+
+
+
+   8. On the screen that follows, keep the default settings shown below and click Next>.
+
+
+
+
+Data Management QA/QC Process                E-26                                 February 2024
+for the SYR 4 ICR Dataset
+       If you are importing instead of linking, a window will pop up related to setting a primary
+       key. The default is set to “Let Access add a primary key”. Check “No primary key” and
+       click Next >.
+
+
+
+
+   9. A final screen will appear. Enter a meaningful name for the linked/imported table. This
+      field will be auto-populated with the name of the linked file. Click Finish.
+
+
+
+
+Data Management QA/QC Process                 E-27                                   February 2024
+for the SYR 4 ICR Dataset
+Part Two: Filtering and Formatting Data in Excel
+
+   10. To efficiently search, have cell A1 selected, choose “Data” among the tabs on the top of
+       the page and click on “Filter.” Each header title for each column now will have a small
+       dropdown arrow displayed.
+
+   11. Filtering the data: a. If you want to look for a specific public water system, click the
+       dropdown arrow for “PWSID” or “System Name.” Within the search field, type the name
+       and select from the displayed list. b. If you want to search for a different public water
+       system, click the dropdown arrow and “Clear Filter from PWSID” or “Clear Filter from
+       System Name.” c. If you want to filter the data by contaminant, select “Analyte Name.”
+
+   12. Multiple filters can be applied for example, allowing you to look for an individual water
+       system’s data for a specific contaminant of interest.
+
+   13. De-select Filter in the top menu bar and the entire database will again be displayed.
+
+   14. Note, all column formats are imported as the default General formatting. Column formats
+       must be individually, manually changed in Excel after the download is complete to aid in
+       data analysis. Use the Home screen in Excel, highlight the column and select the format
+       from the drop-down menu. Suggested formats are:
+
+        Text fields    Analyte Name
+                       State Code
+                       PWSID
+                       System Name
+                       System Type
+                       Source Water Type
+                       Water Facility Type
+
+
+Data Management QA/QC Process                 E-28                                   February 2024
+for the SYR 4 ICR Dataset
+                         Sampling Point Type
+                         Source Type Code
+                         Sample Type Code
+                         Laboratory Assigned ID
+                         Sample Collection Date
+                         Detection Limit Unit
+                         Detection Limit Code
+                         Value Unit
+                         Presence Indicator Code
+        Numeric fields   Analyte ID
+                         Retail Population Served
+                         Adjusted Total Population Served
+                         Water Facility ID
+                         Sampling Point ID
+                         Six-Year ID
+                         Sample ID
+                         Detection Limit Value
+                         Detect
+                         Value
+                         Residual Field Free Chlorine mg/L
+                         Residual Field Total Chlorine mg/L
+
+
+
+References
+United States Environmental Protection Agency (USEPA). 2016. Six-Year Review 3 Technical
+Support Document for Disinfectants/Disinfection Byproducts Rules. EPA-810-R-16-012.
+December 2016.
+
+USEPA. 2019. Information Collection Request Submitted to OMB for Review and Approval;
+Comment Request; Contaminant Occurrence Data in Support of the EPA’s Fourth Six-Year
+Review of National Primary Drinking Water Regulations: October 31, 2019, Volume 84,
+Number 211, Page 58381-58382.
+
+
+
+
+Data Management QA/QC Process                      E-29                       February 2024
+for the SYR 4 ICR Dataset
+

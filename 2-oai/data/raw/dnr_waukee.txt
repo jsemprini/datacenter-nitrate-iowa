@@ -1,0 +1,93 @@
+Source Water Protection Tracker
+Home
+Source Water
+|
+Admin
+|
+Logout
+Waukee Water Supply
+PWSID:
+2573080
+Superintendent:
+WAUKEE WATER SUPPLY
+Water Source:
+Purchased Surface Water
+Phone Number:
+515-978-7920
+PWS Type:
+Community
+Mailing Address:
+ATTN COLE DANIEL WATER SUPT
+Population:
+31823
+230 HICKMAN ROAD
+WAUKEE IA  50263
+Source Water Mapper
+(Click on
+Aquifer Name
+to view source water assessment map)
+No aquifer information available
+Well Information
+Geosam Link
+Tag ID
+Local Name
+Drill Date
+Aquifer
+Depth (ft)
+Status
+462
+0
+Waukee #1 (W462)
+3/1/1937
+Mississippian
+808
+Not Used
+10436
+0
+Waukee #2 (W10436)
+10/11/1958
+Mississippian
+965
+Not Used
+17425
+0
+Waukee #1 (W17425)
+9/30/1965
+Cambrian-Ordovician
+2737
+Plugged
+23434
+1050391
+Waukee #2 (W23434)
+1/1/1975
+Cambrian-Ordovician
+2730
+Active
+Other Documents
+(Click on record link to view)
+(e.g. Sanitary Surveys, Municipal Water Supply Inventories, etc.)
+Waukee (2573080) 1977.pdf
+Waukee (2573080) 1978.pdf
+Waukee (2573080) 1995.pdf
+Waukee (2573080) 2000.pdf
+Waukee (2573080) 2003.pdf
+Waukee (2573080) 2006.pdf
+Waukee (2573080) 2012.pdf
+Waukee (2573080) 2015.pdf
+Waukee (2573080) 2017.pdf
+Waukee (2573080) 2020.pdf
+Waukee MWSI Report (2573080) 1992.PDF
+Phase 1 Assessments
+(Click on record link to view)
+Waukee (2573080) 2026.pdf
+Waukee (2573080).doc
+Phase 2 Documents
+(Click on record link to view)
+No Phase 2 Documents Found
+Phase 2 Progress
+DNR Home
+|
+Site Policy
+|
+Leading Iowans in caring for our natural resources.
+2.4.2.8148

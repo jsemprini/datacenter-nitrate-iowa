@@ -1,0 +1,45 @@
+[
+  {
+    "url": "https://www.epa.gov/dwsixyearreview",
+    "status": 200,
+    "bytes": 55492,
+    "final_url": "https://www.epa.gov/dwsixyearreview",
+    "path": "audit/raw/page_0.html"
+  },
+  {
+    "url": "https://www.epa.gov/dwsixyearreview/contaminant-occurrence-data",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.epa.gov/dwsixyearreview/six-year-review-4-drinking-water-standards",
+    "status": 200,
+    "bytes": 71314,
+    "final_url": "https://www.epa.gov/dwsixyearreview/six-year-review-4-drinking-water-standards",
+    "path": "audit/raw/page_2.html"
+  },
+  {
+    "url": "https://hhs.iowa.gov/epht",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://programs.iowadnr.gov/sourcewater/",
+    "status": 200,
+    "bytes": 673130,
+    "final_url": "https://programs.iowadnr.gov/sourcewater/",
+    "path": "audit/raw/page_4.html"
+  },
+  {
+    "url": "https://www.waterqualitydata.us/data/Result/search?statecode=US:19&characteristicName=Nitrate&startDateLo=01-01-2020&startDateHi=12-31-2020&mimeType=csv&zip=no",
+    "status": 200,
+    "bytes": 480189,
+    "final_url": "https://www.waterqualitydata.us/data/Result/search?statecode=US:19&characteristicName=Nitrate&startDateLo=01-01-2020&startDateHi=12-31-2020&mimeType=csv&zip=no",
+    "path": "audit/raw/page_5.csv"
+  },
+  {
+    "url": "https://ciww.gov/stage-iii-daily-updates/",
+    "status": 200,
+    "bytes": 164110,
+    "final_url": "https://ciww.gov/stage-iii-daily-updates/",
+    "path": "audit/raw/page_6.html"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "P1",
+    "severity": "fatal",
+    "finding": "Generated nitrate outcomes presented as observations",
+    "evidence": "01_fetch_and_clean_data.py build_pws_nitrate_panels lines 609-725",
+    "impact": "No empirical treatment effect or equivalence can be inferred",
+    "remedy": "Rebuild from observed analytical records"
+  },
+  {
+    "id": "P2",
+    "severity": "fatal",
+    "finding": "Claimed external nitrate ingestion never reads files",
+    "evidence": "01_fetch_and_clean_data.py lines 602-607; extreme-value challenge leaves SHA256 unchanged",
+    "impact": "User-supplied observations do not affect results",
+    "remedy": "Use explicit schema parsers and provenance validation"
+  },
+  {
+    "id": "P3",
+    "severity": "fatal",
+    "finding": "Weather controls are generated",
+    "evidence": "01_fetch_and_clean_data.py climate_year_table and random perturbations",
+    "impact": "Weather coefficients cannot explain actual nitrate events",
+    "remedy": "Retrieve measured local weather; distinguish source and demand pathways"
+  },
+  {
+    "id": "P4",
+    "severity": "major",
+    "finding": "Group-time standard errors borrowed by multipliers",
+    "evidence": "02_did_equivalence_analysis.py se_cs = se_stk * 1.04 and se_overall_cs = se_overall_stk * 1.03",
+    "impact": "No justified group-time confidence intervals or equivalence tests",
+    "remedy": "Recompute complete estimator in a supply-cluster bootstrap or validated influence-function implementation"
+  },
+  {
+    "id": "P5",
+    "severity": "major",
+    "finding": "Estimator labels do not match implementation",
+    "evidence": "run_stacked_and_cs_did",
+    "impact": "Claims of full CS and Sun-Abraham robustness unsupported",
+    "remedy": "Name actual estimand, weights and uncertainty procedure"
+  },
+  {
+    "id": "P6",
+    "severity": "major",
+    "finding": "Unsupported spatial links and shared supplier dependence",
+    "evidence": "City-name matching, hand-entered coordinates and upstream_huc10_map",
+    "impact": "Treatment misclassification and spillover bias",
+    "remedy": "Verify catchments, capture zones and longitudinal supplier network"
+  },
+  {
+    "id": "P7",
+    "severity": "major",
+    "finding": "Treatment timing collapsed to years; future capacity front-loaded",
+    "evidence": "year >= cohort and active_acres from total linked dc_acres",
+    "impact": "Anticipation and intensity misclassification",
+    "remedy": "Use event quarters, timing intervals and dated phase/expansion data"
+  },
+  {
+    "id": "P8",
+    "severity": "major",
+    "finding": "Spatial counts and staggered estimates differ from written results",
+    "evidence": "reported_vs_reproduced.csv and original_spatial_counts.csv",
+    "impact": "Incomplete result reproducibility",
+    "remedy": "Generate tables from validated outputs"
+  },
+  {
+    "id": "P9",
+    "severity": "major",
+    "finding": "Nonsignificant pretrends labeled confirmed parallel trends",
+    "evidence": "pre_trends_parallel_confirmed = bool(f_pval > 0.10)",
+    "impact": "Identification assumptions overclaimed",
+    "remedy": "Report diagnostic limitations and sensitivity to plausible differential trends"
+  },
+  {
+    "id": "P10",
+    "severity": "major",
+    "finding": "Equivalence margins lack outcome-specific justification",
+    "evidence": "delta_abs=0.25 also used for binary exceedance",
+    "impact": "Probability margin is 25 percentage points, not 0.25 mg/L",
+    "remedy": "Prespecify separate margins by estimand and unit"
+  },
+  {
+    "id": "P11",
+    "severity": "major",
+    "finding": "Synthetic sample preview cannot reconstruct complete panel",
+    "evidence": "Three generated values per quarter; only selected years and m_idx=1 exported",
+    "impact": "No sample-level audit trail for reported outcomes",
+    "remedy": "Preserve all observed rows and exact aggregation lineage"
+  },
+  {
+    "id": "P12",
+    "severity": "major",
+    "finding": "Small independent exposure count and incomplete cohort support",
+    "evidence": "2006/2007 cohorts excluded; shared-water dependencies not resolved",
+    "impact": "Inference and statewide generalization unreliable",
+    "remedy": "Report support per cell, supply clusters, event-window composition and sensitivity"
+  }
+]

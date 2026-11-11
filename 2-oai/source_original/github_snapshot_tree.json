@@ -1,0 +1,102 @@
+{
+  "sha": "7e1f0e6d2a3c053a47ed9d90b45e894a9e02066a",
+  "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/trees/7e1f0e6d2a3c053a47ed9d90b45e894a9e02066a",
+  "tree": [
+    {
+      "path": "1-gemini",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "88260d3dc1819cff0bac3f3e578db82a97f756c4",
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/trees/88260d3dc1819cff0bac3f3e578db82a97f756c4"
+    },
+    {
+      "path": "1-gemini/01_fetch_and_clean_data.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84a90afe32b04ffd663ca9eee48d6248f5b04a50",
+      "size": 71808,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/84a90afe32b04ffd663ca9eee48d6248f5b04a50"
+    },
+    {
+      "path": "1-gemini/02_did_equivalence_analysis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8452b92e0d1be8befc3258cbcdfe8a986ad500e1",
+      "size": 33786,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/8452b92e0d1be8befc3258cbcdfe8a986ad500e1"
+    },
+    {
+      "path": "1-gemini/Code_Generated_Image (1).png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e4798c0a20c943da8e06152e6b93a4bb2c12e78",
+      "size": 285342,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/8e4798c0a20c943da8e06152e6b93a4bb2c12e78"
+    },
+    {
+      "path": "1-gemini/Code_Generated_Image.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c24f5d194d89bdac6392793e55168edbf2496a68",
+      "size": 267404,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/c24f5d194d89bdac6392793e55168edbf2496a68"
+    },
+    {
+      "path": "1-gemini/Iowa Data Centers Nitrate Manuscript.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27bc5fc96de61394a70b34859c26e3e2fec53929",
+      "size": 569149,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/27bc5fc96de61394a70b34859c26e3e2fec53929"
+    },
+    {
+      "path": "1-gemini/Iowa_Data_Centers_Water_Media_Article.docx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f386cb1e203ef44b3c54ffdd76c9b39d222969f",
+      "size": 133991,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/5f386cb1e203ef44b3c54ffdd76c9b39d222969f"
+    },
+    {
+      "path": "1-gemini/framing.docx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c19d323bab9b01e4efb22dd0e84367aa7ce35b7",
+      "size": 14002,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/2c19d323bab9b01e4efb22dd0e84367aa7ce35b7"
+    },
+    {
+      "path": "1-gemini/iowa_data_centers_panel.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3f700ccfbdcbd3fcc978f9c979e4450f09e2373",
+      "size": 22253,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/b3f700ccfbdcbd3fcc978f9c979e4450f09e2373"
+    },
+    {
+      "path": "1-gemini/iowa_dc_nitrate_report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dbcdfcc0d517d1530e34f306eb820009c44919e",
+      "size": 63704,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/1dbcdfcc0d517d1530e34f306eb820009c44919e"
+    },
+    {
+      "path": "1-gemini/prompt.docx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bc59de1a010d1ce853288257937aabcf966b499",
+      "size": 21008,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/1bc59de1a010d1ce853288257937aabcf966b499"
+    },
+    {
+      "path": "1-gemini/result.docx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27b5c8605040dfc68e0633d22410303d095b9cc1",
+      "size": 14478,
+      "url": "https://api.github.com/repos/jsemprini/datacenter-nitrate-iowa/git/blobs/27b5c8605040dfc68e0633d22410303d095b9cc1"
+    }
+  ],
+  "truncated": false
+}

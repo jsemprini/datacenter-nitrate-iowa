@@ -1,0 +1,39 @@
+[
+  {
+    "source": "https://www.epa.gov/system/files/other-files/2024-03/_syr4_phasechem_4-hybrid-nitrate-to-nitrate.zip",
+    "sha256": "5b8726c9adee8fbfa0ca265393814439d0f5d1a552b7a88b0322d19ec9d738e0",
+    "matches_audited_release": true
+  },
+  {
+    "rows": 28103,
+    "pws": 1649,
+    "output_sha256": "0aab0467dff6e70a5d0e87622c196eec12efb728a5a7593049ce093f689cbc19"
+  },
+  {
+    "url": "https://www.epa.gov/dwsixyearreview/six-year-review-4-compliance-monitoring-data-2012-2019",
+    "retrieved_utc": "2026-11-11T20:39:28.445959+00:00",
+    "status": 200,
+    "final_url": "https://www.epa.gov/dwsixyearreview/six-year-review-4-compliance-monitoring-data-2012-2019",
+    "path": "deliverables/data/raw/epa_syr4.html",
+    "bytes": 73458,
+    "sha256": "154178aac9b42265eb4dc39211d98d56d5c303e56060606e97c0fc1d80d294dd"
+  },
+  {
+    "url": "https://www.epa.gov/system/files/documents/2024-11/user-guide-to-downloading-and-using-syr4-data_0.pdf",
+    "retrieved_utc": "2026-11-11T20:39:32.416917+00:00",
+    "status": 200,
+    "final_url": "https://www.epa.gov/system/files/documents/2024-11/user-guide-to-downloading-and-using-syr4-data_0.pdf",
+    "path": "deliverables/data/raw/epa_syr4_guide.pdf",
+    "bytes": 1734146,
+    "sha256": "d950d07e1eeafdc9c295ee438b79973ef5b72fc740b1bff581113335c65015cd"
+  },
+  {
+    "url": "https://programs.iowadnr.gov/sourcewater/",
+    "retrieved_utc": "2026-11-11T20:39:35.831278+00:00",
+    "status": 200,
+    "final_url": "https://programs.iowadnr.gov/sourcewater/",
+    "path": "deliverables/data/raw/dnr_index.html",
+    "bytes": 670553,
+    "sha256": "836e16cb8988cf9b73932b8aa22afc14ac1197a5ef270c0fe53d3d7ad8f56336"
+  }
+]

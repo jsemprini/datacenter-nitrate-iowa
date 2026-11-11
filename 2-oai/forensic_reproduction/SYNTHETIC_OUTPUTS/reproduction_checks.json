@@ -1,0 +1,31 @@
+{
+  "data_class": "SYNTHETIC FORENSIC REPRODUCTION NOT OBSERVED WATER DATA",
+  "n_facility_rows": 70,
+  "facility_csv_matches": true,
+  "n_pws": 48,
+  "n_quarter_rows": 4176,
+  "n_annual_rows": 1056,
+  "n_sample_preview_rows": 912,
+  "n_quarters": 87,
+  "n_counties": 21,
+  "n_huc10": 32,
+  "n_treated_pws_10km": 31,
+  "drop_file_changes_output": false,
+  "quarter_sha256": "b3b504529d6d59370da3c4300fa19756d3150d9f58d3e0c57d88c644e1ac572b",
+  "treated_construction_cohorts": {
+    "2006.0": 1,
+    "2007.0": 3,
+    "2009.0": 3,
+    "2010.0": 5,
+    "2011.0": 1,
+    "2012.0": 4,
+    "2013.0": 3,
+    "2014.0": 2,
+    "2015.0": 2,
+    "2016.0": 2,
+    "2017.0": 2,
+    "2022.0": 1,
+    "2024.0": 1,
+    "2025.0": 1
+  }
+}

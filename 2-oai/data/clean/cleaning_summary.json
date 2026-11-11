@@ -1,0 +1,29 @@
+{
+  "raw_iowa_rows": 28103,
+  "all_pws": 1649,
+  "community_rows": 17017,
+  "community_pws": 845,
+  "eligible_rows": 17011,
+  "eligible_pws": 845,
+  "stage_all_rows": {
+    "unresolved": 27378,
+    "finished_or_entry": 717,
+    "raw": 8
+  },
+  "stage_community_rows": {
+    "unresolved": 16495,
+    "finished_or_entry": 521,
+    "raw": 1
+  },
+  "stage_eligible_rows": {
+    "unresolved": 16489,
+    "finished_or_entry": 521,
+    "raw": 1
+  },
+  "censored_rows": 9631,
+  "unusable_numeric_rows": 6,
+  "unobserved_community_pws_years": 157,
+  "community_pws_year_grid": 6760,
+  "quarterly_stratum_rows": 9965,
+  "annual_stratum_rows": 6689
+}

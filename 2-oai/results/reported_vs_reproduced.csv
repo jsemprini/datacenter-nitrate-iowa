@@ -1,0 +1,5 @@
+estimate,reported_beta,reproduced_beta,reproduced_se,data_class,source
+Construction TWFE,0.0013,0.00129,0.01782,synthetic forensic output,Original manuscript abstract
+Operation TWFE,-0.0124,-0.01238,0.0142,synthetic forensic output,Original manuscript abstract
+Claimed CS overall ATT,-0.0212,-0.01627,0.02082,synthetic forensic output,Original manuscript Table 3
+Stacked static ATT,0.0018,-0.00747,0.02021,synthetic forensic output,Original Markdown report summary table

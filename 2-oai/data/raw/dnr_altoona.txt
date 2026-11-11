@@ -1,0 +1,103 @@
+Source Water Protection Tracker
+Home
+Source Water
+|
+Admin
+|
+Logout
+Altoona Water Supply
+PWSID:
+7707030
+Superintendent:
+ALTOONA WATER SUPPLY
+Water Source:
+Ground Water
+Phone Number:
+515-967-4464
+PWS Type:
+Community
+Mailing Address:
+ATTN JEFF HAND
+Population:
+19565
+900 VENBURY DR
+ALTOONA IA  50009
+Source Water Mapper
+(Click on
+Aquifer Name
+to view source water assessment map)
+Cambrian-Ordovician
+Well Information
+Geosam Link
+Tag ID
+Local Name
+Drill Date
+Aquifer
+Depth (ft)
+Status
+3664
+1050013
+Altoona #1 (W3664)
+5/19/1949
+Cambrian-Ordovician
+2551
+Plugged
+20165
+1050014
+Altoona #2
+2/8/1968
+Cambrian-Ordovician
+2505
+Active
+23701
+1050015
+Altoona #3
+2/15/1976
+Cambrian-Ordovician
+2533
+Active
+35298
+0
+Altoona #1 (W35298)
+1/1/1931
+Silurian-Devonian
+695
+Not Used
+53394
+1050016
+Altoona #4
+12/1/1998
+Cambrian-Ordovician
+2527
+Active
+Other Documents
+(Click on record link to view)
+(e.g. Sanitary Surveys, Municipal Water Supply Inventories, etc.)
+Altoona (7707030) 1977.pdf
+Altoona (7707030) 1978.pdf
+Altoona (7707030) 1989.pdf
+Altoona (7707030) 1991.pdf
+Altoona (7707030) 1994.pdf
+Altoona (7707030) 1997.pdf
+Altoona (7707030) 2000.pdf
+Altoona (7707030) 2003.pdf
+Altoona (7707030) 2006.pdf
+Altoona (7707030) 2012.pdf
+Altoona (7707030) 2015.pdf
+Altoona (7707030) 2018.pdf
+Altoona (7707030) 2021.pdf
+Altoona MWSI Report (7707030) 2004.PDF
+Phase 1 Assessments
+(Click on record link to view)
+Altoona (7707030) 2012.pdf
+Altoona (7707030) 2016.pdf
+Phase 2 Documents
+(Click on record link to view)
+No Phase 2 Documents Found
+Phase 2 Progress
+DNR Home
+|
+Site Policy
+|
+Leading Iowans in caring for our natural resources.
+2.4.2.8148

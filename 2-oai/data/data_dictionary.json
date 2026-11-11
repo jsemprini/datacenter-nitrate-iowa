@@ -1,0 +1,35 @@
+{
+  "nitrate_samples.csv": {
+    "basis": "mg/L as nitrogen, regulatory analyte 1040",
+    "pwsid": "Original EPA PWS identifier, including numeric federal/tribal IDs",
+    "stage": "raw, finished_or_entry, unresolved, or conflict by available source/point codes",
+    "nitrate_lower": "Detected result or zero for a usable left-censored observation",
+    "nitrate_upper": "Detected result or sample-specific reporting limit for a censored observation",
+    "nitrate_mid": "Detected result or reporting limit divided by sqrt(2), descriptive substitution only",
+    "eligible": "Community (C), routine (RT), and usable numeric result/limit",
+    "censored": "EPA DETECT equals zero",
+    "limit_mg_l_as_n": "Detection/reporting limit converted independently from result unit",
+    "quarter_index": "4 * calendar year + quarter - 1",
+    "data_class": "observed_epa_syr4; see acquisition hash for provenance",
+    "native_fields": "Preserved; definitions in EPA user guide"
+  },
+  "nitrate_quarterly.csv": {
+    "unit": "PWS x quarter x stage",
+    "n_points": "Observed facility-point combinations",
+    "n_samples": "Eligible sample count",
+    "nitrate_mid": "Equal-point mean of within-point sample means",
+    "observed_max": "Maximum sample upper value; not continuous peak",
+    "exceed5_lower": "Any sample lower bound >5",
+    "exceed5_upper": "Any sample upper bound >5; differences between bounds indicate censoring uncertainty"
+  },
+  "nitrate_annual.csv": {
+    "unit": "PWS x year x stage",
+    "nitrate_mid": "Mean of observed quarter means",
+    "n_quarters": "Number of quarters with observations; never imputed"
+  },
+  "coverage_grid.csv": {
+    "unit": "845 community systems appearing in release x eight calendar years",
+    "observed": "At least one eligible sample across any stage",
+    "missing": "No outcome is filled; counts remain missing when unobserved"
+  }
+}

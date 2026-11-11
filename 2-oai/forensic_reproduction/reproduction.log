@@ -1,0 +1,47 @@
+2026-11-11 14:40:40,989 [INFO] Found external drop file; ingesting directly.
+{
+  "data_class": "SYNTHETIC FORENSIC REPRODUCTION NOT OBSERVED WATER DATA",
+  "n_facility_rows": 70,
+  "facility_csv_matches": true,
+  "n_pws": 48,
+  "n_quarter_rows": 4176,
+  "n_annual_rows": 1056,
+  "n_sample_preview_rows": 912,
+  "n_quarters": 87,
+  "n_counties": 21,
+  "n_huc10": 32,
+  "n_treated_pws_10km": 31,
+  "drop_file_changes_output": false,
+  "quarter_sha256": "b3b504529d6d59370da3c4300fa19756d3150d9f58d3e0c57d88c644e1ac572b",
+  "treated_construction_cohorts": {
+    "2006.0": 1,
+    "2007.0": 3,
+    "2009.0": 3,
+    "2010.0": 5,
+    "2011.0": 1,
+    "2012.0": 4,
+    "2013.0": 3,
+    "2014.0": 2,
+    "2015.0": 2,
+    "2016.0": 2,
+    "2017.0": 2,
+    "2022.0": 1,
+    "2024.0": 1,
+    "2025.0": 1
+  }
+}
+2026-11-11 14:40:42,419 [INFO] Starting Phase 4 & 5 Econometric Analysis & Equivalence Testing...
+2026-11-11 14:40:42,479 [INFO] [TWFE] Same Municipality (T_construct): beta = -0.0081 (SE = 0.0242, p = 0.739), 90% CI = [-0.0491, +0.0329], p_TOST(0.25) = 0.00000, MDE_80% = 0.0699
+2026-11-11 14:40:42,493 [INFO] [TWFE] Same Municipality (T_operational): beta = -0.0121 (SE = 0.0170, p = 0.480), 90% CI = [-0.0409, +0.0166], p_TOST(0.25) = 0.00000, MDE_80% = 0.0491
+2026-11-11 14:40:42,508 [INFO] [TWFE] 5 km Buffer (T_construct): beta = -0.0052 (SE = 0.0261, p = 0.843), 90% CI = [-0.0494, +0.0390], p_TOST(0.25) = 0.00000, MDE_80% = 0.0755
+2026-11-11 14:40:42,522 [INFO] [TWFE] 10 km Buffer (T_construct) [HUC-10 Clustered]: beta = +0.0013 (SE = 0.0178, p = 0.943), 90% CI = [-0.0289, +0.0315], p_TOST(0.25) = 0.00000, MDE_80% = 0.0516
+2026-11-11 14:40:42,536 [INFO] [TWFE] 10 km Buffer (T_construct) [County Clustered]: beta = +0.0013 (SE = 0.0156, p = 0.935), 90% CI = [-0.0256, +0.0282], p_TOST(0.25) = 0.00000, MDE_80% = 0.0459
+2026-11-11 14:40:42,552 [INFO] [TWFE] 10 km Buffer (T_operational) [HUC-10 Clustered]: beta = -0.0124 (SE = 0.0142, p = 0.390), 90% CI = [-0.0365, +0.0117], p_TOST(0.25) = 0.00000, MDE_80% = 0.0411
+2026-11-11 14:40:42,567 [INFO] [TWFE] 10 km Buffer (T_operational) [County Clustered]: beta = -0.0124 (SE = 0.0172, p = 0.481), 90% CI = [-0.0421, +0.0173], p_TOST(0.25) = 0.00000, MDE_80% = 0.0508
+2026-11-11 14:40:42,582 [INFO] [TWFE] 20 km Buffer (T_construct): beta = +0.0198 (SE = 0.0158, p = 0.220), 90% CI = [-0.0070, +0.0466], p_TOST(0.25) = 0.00000, MDE_80% = 0.0458
+2026-11-11 14:40:42,599 [INFO] [TWFE] Upstream / Shared HUC-10 Watershed (T_construct): beta = +0.0067 (SE = 0.0257, p = 0.797), 90% CI = [-0.0369, +0.0502], p_TOST(0.25) = 0.00000, MDE_80% = 0.0743
+2026-11-11 14:40:42,614 [INFO] [TWFE] Max Nitrate mg/L (10 km Buffer, T_operational): beta = -0.0178 (SE = 0.0153, p = 0.254), 90% CI = [-0.0438, +0.0082], p_TOST(0.25) = 0.00000, MDE_80% = 0.0444
+2026-11-11 14:40:42,630 [INFO] [TWFE] Pr(Nitrate > 5 mg/L) (10 km Buffer, T_operational): beta = -0.0057 (SE = 0.0094, p = 0.551), 90% CI = [-0.0216, +0.0103], p_TOST(0.25) = 0.00000, MDE_80% = 0.0272
+2026-11-11 14:40:42,956 [INFO] [EVENT STUDY PRE-TRENDS] T_construct Joint F = 0.430 (p = 0.785); T_operational Joint F = 1.110 (p = 0.370); Stacked DiD Pre-Trends F = 0.105 (p = 0.980).
+2026-11-11 14:40:44,013 [INFO] Saved event-study and TOST figures to /workspace/scratch/b1cbb9f5f609/audit/reproduction/fig1_event_study_did.png and /workspace/scratch/b1cbb9f5f609/audit/reproduction/fig2_tost_equivalence_forest.png
+2026-11-11 14:40:44,016 [INFO] Phase 4 & 5 econometric analysis complete.

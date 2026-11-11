@@ -1,0 +1,13 @@
+test_conflicting_duplicate_id_fails (__main__.ScientificChecks.test_conflicting_duplicate_id_fails) ... ok
+test_equivalence_is_not_non_significance (__main__.ScientificChecks.test_equivalence_is_not_non_significance) ... ok
+test_missing_quarters_are_not_created (__main__.ScientificChecks.test_missing_quarters_are_not_created) ... ok
+test_paired_changes_avoid_composition_bias (__main__.ScientificChecks.test_paired_changes_avoid_composition_bias) ... ok
+test_real_bootstrap_has_nonzero_uncertainty (__main__.ScientificChecks.test_real_bootstrap_has_nonzero_uncertainty) ... ok
+test_stage_conflict_is_not_finished (__main__.ScientificChecks.test_stage_conflict_is_not_finished) ... ok
+test_units_and_sample_specific_limits (__main__.ScientificChecks.test_units_and_sample_specific_limits) ... ok
+test_unknown_exposure_is_not_a_control (__main__.ScientificChecks.test_unknown_exposure_is_not_a_control) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 2.611s
+
+OK

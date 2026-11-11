@@ -1,0 +1,543 @@
+Source Water Protection Tracker
+Home
+Source Water
+|
+Admin
+|
+Logout
+Cedar Rapids Water Department
+PWSID:
+5715093
+Superintendent:
+CEDAR RAPIDS WATER DEPARTMENT
+Water Source:
+Groundwater UDI Surfacewater
+Phone Number:
+319-286-5973
+PWS Type:
+Community
+Mailing Address:
+ATTN CHRISTINE KNAPP WATER PLANT MANAGER
+Population:
+141831
+1111 SHAVER RD NE
+CEDAR RAPIDS IA  52402
+Source Water Mapper
+(Click on
+Aquifer Name
+to view source water assessment map)
+Alluvial
+Well Information
+Geosam Link
+Tag ID
+Local Name
+Drill Date
+Aquifer
+Depth (ft)
+Status
+13137
+0
+Cedar Rapids #East 1
+10/20/1961
+Alluvial
+68
+Not Used
+26136
+1010227
+Cedar Rapids #West 9
+1/1/1980
+Alluvial
+63
+Active
+26137
+1010218
+Cedar Rapids #West 10
+10/14/1980
+Alluvial
+67
+Active
+26138
+1010172
+Cedar Rapids #East 10
+1/1/1980
+Alluvial
+67
+Active
+26139
+1010219
+Cedar Rapids #West 11
+1/1/1980
+Alluvial
+66
+Active
+26140
+1010173
+Cedar Rapids #East 11
+11/19/1980
+Alluvial
+63
+Active
+27724
+1010174
+Cedar Rapids #East 12
+5/24/1984
+Alluvial
+60
+Active
+27725
+1010179
+Cedar Rapids #East 17
+8/22/1984
+Alluvial
+58.5
+Active
+27726
+1010180
+Cedar Rapids #East 18
+8/28/1984
+Alluvial
+59
+Active
+27727
+1010181
+Cedar Rapids #East 19
+9/4/1984
+Alluvial
+57
+Active
+28023
+1010175
+Cedar Rapids #East 13
+5/18/1984
+Alluvial
+61
+Active
+28024
+1010183
+Cedar Rapids #East 20
+10/1/1984
+Alluvial
+57
+Active
+28333
+1010176
+Cedar Rapids #East 14
+3/30/1984
+Alluvial
+65
+Active
+28334
+1010177
+Cedar Rapids #East 15
+4/13/1984
+Alluvial
+67
+Active
+28335
+1010178
+Cedar Rapids #East 16
+1/30/1984
+Alluvial
+69
+Active
+37627
+0
+Cedar Rapids #East 5
+1/1/1961
+Alluvial
+66
+Not Used
+37628
+0
+Cedar Rapids #East 6
+1/1/1961
+Alluvial
+70
+Not Used
+37629
+1010188
+Cedar Rapids #East 8
+1/1/1963
+Alluvial
+69.5
+Not Used
+37630
+1010217
+Cedar Rapids #West 1
+2/1/1964
+Alluvial
+66
+Plugged
+37631
+1010220
+Cedar Rapids #West 2
+1/1/1964
+Alluvial
+66
+Plugged
+37632
+1010221
+Cedar Rapids #West 3
+1/1/1964
+Alluvial
+68
+Active
+37633
+1010222
+Cedar Rapids #West 4
+1/1/1964
+Alluvial
+68
+Active
+37634
+1010223
+Cedar Rapids #West 5
+1/1/1964
+Alluvial
+68
+Active
+37635
+1010224
+Cedar Rapids #West 6
+1/1/1964
+Alluvial
+65
+Active
+37636
+1010225
+Cedar Rapids #West 7
+1/1/1964
+Alluvial
+68
+Active
+37637
+1010226
+Cedar Rapids #West 8
+1/1/1964
+Alluvial
+64
+Plugged
+37638
+1010210
+Cedar Rapids #Seminole 3
+1/11/1971
+Alluvial
+62.94
+Active
+37639
+1040779
+Cedar Rapids #Seminole 4
+1/12/1971
+Alluvial
+54.92
+Active
+37640
+1010212
+Cedar Rapids #Seminole 5
+1/12/1971
+Alluvial
+63.98
+Plugged
+37641
+1010213
+Cedar Rapids #Seminole 6
+1/13/1971
+Alluvial
+61.1
+Active
+37642
+1010216
+Cedar Rapids #Seminole 9
+1/14/1971
+Alluvial
+57.5
+Active
+37643
+1040780
+Cedar Rapids #Seminole 11
+7/11/1984
+Alluvial
+65
+Active
+37644
+0
+Cedar Rapids #East 7 Old
+1/1/1900
+Alluvial
+0
+Not Used
+37645
+0
+Cedar Rapids #Cedar River
+River
+0
+Not Used
+37812
+1010189
+Cedar Rapids #East 9
+11/28/1977
+Alluvial
+67
+Active
+37813
+1040777
+Cedar Rapids #Seminole 1
+1/1/1971
+Alluvial
+63.91
+Active
+37814
+1040778
+Cedar Rapids #Seminole 2
+1/8/1971
+Alluvial
+54
+Active
+37815
+1010214
+Cedar Rapids #Seminole 7
+1/13/1971
+Alluvial
+63.11
+Active
+37816
+1010215
+Cedar Rapids #Seminole 8
+1/14/1971
+Alluvial
+57.31
+Active
+37817
+1010195
+Cedar Rapids #Seminole 10
+1/15/1971
+Alluvial
+68.64
+Active
+37818
+0
+Cedar Rapids #East 2
+1/1/1961
+Alluvial
+67
+Not Used
+37819
+0
+Cedar Rapids #East 3
+1/1/1961
+Alluvial
+67
+Not Used
+37820
+0
+Cedar Rapids #East 4
+1/1/1961
+Alluvial
+70
+Not Used
+37821
+1010171
+Cedar Rapids #East 1 Offset 1
+9/21/1988
+Alluvial
+70
+Active
+37822
+1010182
+Cedar Rapids #East 2 Offset 2
+3/24/1989
+Alluvial
+72
+Active
+37823
+1010184
+Cedar Rapids #East 3 Offset
+3/31/1989
+Alluvial
+72
+Active
+37824
+1010185
+Cedar Rapids #East 4 Offset
+4/21/1989
+Alluvial
+72
+Active
+37825
+1010186
+Cedar Rapids #East 5 Offset
+4/6/1989
+Alluvial
+71.5
+Active
+37826
+1010187
+Cedar Rapids #East 6 Offset 6
+9/14/1988
+Alluvial
+70
+Not Used
+37827
+0
+Cedar Rapids #East 7
+1/1/1961
+Alluvial
+68
+Plugged
+37828
+1010198
+Cedar Rapids #Seminole 13
+1/1/1990
+Alluvial
+65
+Active
+37829
+1010197
+Cedar Rapids #Seminole 12
+1/1/1990
+Alluvial
+65
+Plugged
+37830
+1010199
+Cedar Rapids #Seminole 14
+1/1/1990
+Alluvial
+65
+Active
+37831
+1010200
+Cedar Rapids #Seminole 15
+1/1/1990
+Alluvial
+65
+Active
+37832
+1010201
+Cedar Rapids #Seminole 16
+1/1/1990
+Alluvial
+65
+Plugged
+43186
+1010202
+Cedar Rapids #Seminole 17
+1/1/1991
+Alluvial
+54
+Active
+43187
+1040782
+Cedar Rapids #Seminole 18
+1/1/1991
+Alluvial
+52
+Active
+43188
+1040783
+Cedar Rapids #Seminole 19
+1/1/1991
+Alluvial
+43
+Active
+43189
+1040784
+Cedar Rapids #Seminole 20
+1/1/1991
+Alluvial
+43
+Active
+43190
+1040785
+Cedar Rapids #Seminole 21
+1/1/1991
+Alluvial
+52
+Active
+43191
+1040786
+Cedar Rapids #Seminole 22
+1/1/1991
+Alluvial
+57
+Active
+43192
+1010209
+Cedar Rapids #Seminole 23
+1/1/1991
+Alluvial
+57
+Active
+43193
+1010190
+Cedar Rapids #Ranney 1
+1/1/1996
+Alluvial
+75
+Active
+43194
+1010191
+Cedar Rapids #Ranney 2
+1/1/1996
+Alluvial
+65
+Active
+56470
+1010192
+Cedar Rapids #Ranney 3
+Alluvial
+72
+Active
+56471
+1010193
+Cedar Rapids #Ranney 4
+4/8/2002
+Alluvial
+76
+Active
+75538
+0
+Cedar Rapids #Ranney 6
+12/10/2012
+Alluvial
+74
+Active
+84479
+0
+Cedar Rapids #Ranney 5
+11/19/2016
+Alluvial
+69
+Active
+Other Documents
+(Click on record link to view)
+(e.g. Sanitary Surveys, Municipal Water Supply Inventories, etc.)
+Cedar Rapids (5715093) 11-5-1991.pdf
+Cedar Rapids (5715093) 1978.pdf
+Cedar Rapids (5715093) 1979.pdf
+Cedar Rapids (5715093) 1986.pdf
+Cedar Rapids (5715093) 1987.pdf
+Cedar Rapids (5715093) 1989.pdf
+Cedar Rapids (5715093) 1990.pdf
+Cedar Rapids (5715093) 2004.pdf
+Cedar Rapids (5715093) 2007.pdf
+Cedar Rapids (5715093) 2013.pdf
+Cedar Rapids (5715093) 2019.pdf
+Cedar Rapids (5715093) 6-18-1991.pdf
+Cedar Rapids (5715093) Cedar River TMDL 2006.pdf
+Cedar Rapids (5715093) Cedar River TMDL Presentation 2006.pdf
+Cedar Rapids MWSI Report (5715093) 2001.PDF
+Phase 1 Assessments
+(Click on record link to view)
+Cedar Rapids (5715093) 2010.doc
+Cedar Rapids (5715093) 2019.pdf
+Phase 2 Documents
+(Click on record link to view)
+No Phase 2 Documents Found
+Phase 2 Progress
+DNR Home
+|
+Site Policy
+|
+Leading Iowans in caring for our natural resources.
+2.4.2.8148

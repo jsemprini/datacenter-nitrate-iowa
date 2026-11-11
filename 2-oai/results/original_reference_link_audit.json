@@ -1,0 +1,500 @@
+[
+  {
+    "url": "http://www.epa.gov/",
+    "pdf_pages": [
+      2
+    ],
+    "status": 200,
+    "final_url": "https://www.epa.gov/",
+    "page_title": "U.S. Environmental Protection Agency | US EPA"
+  },
+  {
+    "url": "http://www.linncountyiowa.gov/m/newsflash/Home/Detail/4488",
+    "pdf_pages": [
+      3,
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.linncountyiowa.gov/m/newsflash/Home/Detail/4488",
+    "page_title": "Linn County Passes Temporary Data Center Moratorium for Unincorporated Linn County \u2022 Linn County, IA"
+  },
+  {
+    "url": "https://baxtel.com/data-center/iowa",
+    "pdf_pages": [
+      5,
+      6,
+      14
+    ],
+    "status": 200,
+    "final_url": "https://baxtel.com/data-center/iowa",
+    "page_title": "Iowa Data Centers & Colocation"
+  },
+  {
+    "url": "https://blogforiowa.com/2026/11/11/take-action-on-data-centers-in-iowa-this-week/",
+    "pdf_pages": [
+      14
+    ],
+    "status": 200,
+    "final_url": "https://blogforiowa.com/2026/11/11/take-action-on-data-centers-in-iowa-this-week/",
+    "page_title": "Take Action On Data Centers In Iowa This Week | Blog For Iowa"
+  },
+  {
+    "url": "https://ciww.gov/",
+    "pdf_pages": [
+      1,
+      4,
+      6,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://ciww.gov/",
+    "page_title": "Reliable Drinking Water | Central Iowa Water Works"
+  },
+  {
+    "url": "https://ciww.gov/stage-iii-daily-updates/",
+    "pdf_pages": [
+      2,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://ciww.gov/stage-iii-daily-updates/",
+    "page_title": "Stage Iii Daily Updates | CIWW"
+  },
+  {
+    "url": "https://ciww.gov/why-is-ciww-implementing-a-lawn-watering-ban/",
+    "pdf_pages": [
+      15
+    ],
+    "status": 200,
+    "final_url": "https://ciww.gov/why-is-ciww-implementing-a-lawn-watering-ban/",
+    "page_title": "Why has CIWW implemented a lawn watering ban? | CIWW"
+  },
+  {
+    "url": "https://commonsenseinstituteus.org/research/the-economic-impact-of-data-centers-in-iowa/",
+    "pdf_pages": [
+      5,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://commonsenseinstituteus.org/research/the-economic-impact-of-data-centers-in-iowa/",
+    "page_title": "The Economic Impact of Data Centers in Iowa \u2013 Common Sense Institute"
+  },
+  {
+    "url": "https://dcmap.us/companies/meta/",
+    "pdf_pages": [
+      2,
+      6
+    ],
+    "status": 200,
+    "final_url": "https://dcmap.us/companies/meta/",
+    "page_title": "Meta Data Centers: 49 US Sites, 14.6 GW"
+  },
+  {
+    "url": "https://dcmap.us/states/iowa/",
+    "pdf_pages": [
+      3,
+      5,
+      6,
+      13,
+      14,
+      17
+    ],
+    "status": 200,
+    "final_url": "https://dcmap.us/states/iowa/",
+    "page_title": "Iowa Data Center Map: 70 Sites, 6.2 GW"
+  },
+  {
+    "url": "https://ehsrc.public-health.uiowa.edu/wp-content/uploads/2026/02/Environmental-Health-Fact-Sheets-Full-Packet-as-of-Feb-2026.pdf",
+    "pdf_pages": [
+      3,
+      17
+    ],
+    "status": 200,
+    "final_url": "https://ehsrc.public-health.uiowa.edu/wp-content/uploads/2026/02/Environmental-Health-Fact-Sheets-Full-Packet-as-of-Feb-2026.pdf",
+    "page_title": null
+  },
+  {
+    "url": "https://hhs.iowa.gov/about/data-reports/environment/drinking-water",
+    "pdf_pages": [
+      7,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://hhs.iowa.gov/about/data-reports/environment/drinking-water",
+    "page_title": "Public Drinking Water | Health & Human Services"
+  },
+  {
+    "url": "https://hhs.iowa.gov/health-prevention/providers-professionals/center-acute-disease-epidemiology/epi-manual/environmental-disease/methemoglobinemia",
+    "pdf_pages": [
+      15
+    ],
+    "status": 200,
+    "final_url": "https://hhs.iowa.gov/health-prevention/providers-professionals/center-acute-disease-epidemiology/epi-manual/environmental-disease/methemoglobinemia",
+    "page_title": "Methemoglobinemia | Health & Human Services"
+  },
+  {
+    "url": "https://humansincontrol.org/state/iowa/",
+    "pdf_pages": [
+      16
+    ],
+    "status": 200,
+    "final_url": "https://humansincontrol.org/state/iowa/",
+    "page_title": "AI Rules for Iowa \u2013 Iowans in Control"
+  },
+  {
+    "url": "https://inrc.cals.iastate.edu/files/inline-files/jasabe_n_processing_in_grass_waterways_0.pdf",
+    "pdf_pages": [
+      16
+    ],
+    "status": 200,
+    "final_url": "https://inrc.cals.iastate.edu/files/inline-files/jasabe_n_processing_in_grass_waterways_0.pdf",
+    "page_title": null
+  },
+  {
+    "url": "https://iowasaifuture.com/2026/05/30/data-centers-impact-on-iowas-water/",
+    "pdf_pages": [
+      16
+    ],
+    "status": 200,
+    "final_url": "https://iowasaifuture.com/2026/05/30/data-centers-impact-on-iowas-water/",
+    "page_title": "Data Centers Impact on Iowa's Water - Iowa's AI Future"
+  },
+  {
+    "url": "https://iowasaifuture.com/2026/06/24/iowa-ai-data-center-progress/",
+    "pdf_pages": [
+      2,
+      5,
+      6,
+      13,
+      16
+    ],
+    "status": 200,
+    "final_url": "https://iowasaifuture.com/2026/06/24/iowa-ai-data-center-progress/",
+    "page_title": "Iowa AI data Center Progress - Iowa's AI Future"
+  },
+  {
+    "url": "https://iwla.org/double-trouble-coupling-climate-change-and-nitrate-pollution/",
+    "pdf_pages": [
+      16
+    ],
+    "status": 200,
+    "final_url": "https://iwla.org/double-trouble-coupling-climate-change-and-nitrate-pollution/",
+    "page_title": "Double Trouble: Coupling Climate Change and Nitrate Pollution - Izaak Walton League of America"
+  },
+  {
+    "url": "https://opportunityiowa.gov/press-release/2024-05-17/ieda-board-approves-assistance-established-company-two-startups-iowa",
+    "pdf_pages": [
+      5
+    ],
+    "status": 200,
+    "final_url": "https://opportunityiowa.gov/press-release/2024-05-17/ieda-board-approves-assistance-established-company-two-startups-iowa",
+    "page_title": "IEDA Board approves assistance for an established company, two startups in Iowa | Economic Development & Finance Authority"
+  },
+  {
+    "url": "https://primeflowfiltration.com/reverse-osmosis-west-des-moines.php",
+    "pdf_pages": [
+      6,
+      13,
+      17
+    ],
+    "status": 200,
+    "final_url": "https://primeflowfiltration.com/reverse-osmosis-west-des-moines.php",
+    "page_title": "Reverse Osmosis West Des Moines, IA | Prime Flow Filtration"
+  },
+  {
+    "url": "https://programs.iowadnr.gov/sourcewater/",
+    "pdf_pages": [
+      3,
+      5,
+      6,
+      7,
+      16
+    ],
+    "status": 200,
+    "final_url": "https://programs.iowadnr.gov/sourcewater/",
+    "page_title": "Source Water Protection Tracker"
+  },
+  {
+    "url": "https://puritymap.com/city-report/davenport/",
+    "pdf_pages": [
+      6,
+      17
+    ],
+    "status": 200,
+    "final_url": "https://puritymap.com/city-report/davenport/",
+    "page_title": "Is Davenport Tap Water Safe to Drink? 2026 Water Report"
+  },
+  {
+    "url": "https://servercountry.org/policy/iowa/",
+    "pdf_pages": [
+      3,
+      5,
+      6,
+      13,
+      14,
+      17
+    ],
+    "status": 200,
+    "final_url": "https://servercountry.org/policy/iowa/",
+    "page_title": "Iowa Data Center Policy | Server Country"
+  },
+  {
+    "url": "https://www.axios.com/local/des-moines/2025/06/17/central-iowa-water-ban-data-centers-microsoft",
+    "pdf_pages": [
+      2,
+      14
+    ],
+    "status": 200,
+    "final_url": "https://www.axios.com/local/des-moines/2025/06/17/central-iowa-water-ban-data-centers-microsoft",
+    "page_title": "Data centers are not to blame for central Iowa water crisis, experts say - Axios Des Moines"
+  },
+  {
+    "url": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/",
+    "pdf_pages": [
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/",
+    "page_title": "Iowa communities grapple with regulating data centers as development spreads - Business Record"
+  },
+  {
+    "url": "https://www.cbwaterworks.com/water-quality/",
+    "pdf_pages": [
+      6,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.cbwaterworks.com/water-quality/",
+    "page_title": "Water Quality - Council Bluffs Water Works - Safe Drinking Water is Our Business"
+  },
+  {
+    "url": "https://www.cityofpeosta.org/pages/data-center-Information",
+    "pdf_pages": [
+      3,
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.cityofpeosta.org/pages/data-center-Information",
+    "page_title": "Data Center Information | City of Peosta"
+  },
+  {
+    "url": "https://www.cleanenergydistricts.org/data-centers-in-iowa-resource-hub",
+    "pdf_pages": [
+      5,
+      6,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.cleanenergydistricts.org/data-centers-in-iowa-resource-hub",
+    "page_title": "Data Centers in Iowa Resource Hub - Clean Energy Districts"
+  },
+  {
+    "url": "https://www.datacenterdynamics.com/en/news/microsoft-acquires-111-acres-in-west-des-moines-iowa-for-data-center-campus/",
+    "pdf_pages": [
+      2,
+      6,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.datacenterdynamics.com/en/news/microsoft-acquires-111-acres-in-west-des-moines-iowa-for-data-center-campus/",
+    "page_title": "Microsoft acquires 111 acres in West Des Moines, Iowa, for data center campus - DCD"
+  },
+  {
+    "url": "https://www.dmww.com/",
+    "pdf_pages": [
+      2
+    ],
+    "status": 200,
+    "final_url": "https://www.dmww.com/",
+    "page_title": "Des Moines Water Works, IA"
+  },
+  {
+    "url": "https://www.dmww.com/news_detail_T37_R452.php",
+    "pdf_pages": [
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.dmww.com/news_detail_T37_R452.php",
+    "page_title": "Des Moines Water Works, IA"
+  },
+  {
+    "url": "https://www.dubuquecountyiowa.gov/811/Data-Centers",
+    "pdf_pages": [
+      3,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.dubuquecountyiowa.gov/811/Data-Centers",
+    "page_title": "Data Center Planning Process | Dubuque County, IA"
+  },
+  {
+    "url": "https://www.economicdevelopmentcr.com/data-centers/",
+    "pdf_pages": [
+      2,
+      6,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.economicdevelopmentcr.com/data-centers/",
+    "page_title": "Data Centers \u2013 Cedar Rapids Economic Development"
+  },
+  {
+    "url": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/",
+    "pdf_pages": [
+      13,
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/",
+    "page_title": "Data centers and water: economic growth or environmental threat? | Iowa Agriculture Water Alliance"
+  },
+  {
+    "url": "https://www.iowadnr.gov/media/8538/download?inline",
+    "pdf_pages": [
+      15
+    ],
+    "status": 200,
+    "final_url": "https://www.iowadnr.gov/media/8538/download?inline",
+    "page_title": null
+  },
+  {
+    "url": "https://www.iowapublicradio.org/environment/2026-06-09/central-iowa-water-works-nitrate-lawn-watering-ban-drinking-water",
+    "pdf_pages": [
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.iowapublicradio.org/environment/2026-06-09/central-iowa-water-works-nitrate-lawn-watering-ban-drinking-water",
+    "page_title": "Central Iowa Water Works issues lawn watering ban due to high nitrates levels | Iowa Public Radio"
+  },
+  {
+    "url": "https://www.iowapublicradio.org/ipr-news/2025-06-25/nitrate-levels-central-iowa-water-des-moines",
+    "pdf_pages": [
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.iowapublicradio.org/ipr-news/2025-06-25/nitrate-levels-central-iowa-water-des-moines",
+    "page_title": "Central Iowa Water Works shows how its Des Moines plant tests and treats drinking water with nitrates | Iowa Public Radio"
+  },
+  {
+    "url": "https://www.iowapublicradio.org/ipr-news/2025-08-06/nitrate-levels-water-quality-iowa-rivers-farm-runoff",
+    "pdf_pages": [
+      14,
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.iowapublicradio.org/ipr-news/2025-08-06/nitrate-levels-water-quality-iowa-rivers-farm-runoff",
+    "page_title": "A growing number of Iowa farmers are reducing nitrate runoff. But water quality experts say the pace of the change needs to ramp up | Iowa Public Radio"
+  },
+  {
+    "url": "https://www.kindwaterco.com/des-moines-water-guide",
+    "pdf_pages": [
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.kindwaterco.com/des-moines-water-guide",
+    "page_title": "Des Moines Water Softener Guide | Kind Water Co"
+  },
+  {
+    "url": "https://www.kindwaterco.com/service-areas/altoona",
+    "pdf_pages": [
+      6,
+      13,
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.kindwaterco.com/service-areas/altoona",
+    "page_title": "Altoona Water Softeners, Filtration & Repair | Kind Water Co"
+  },
+  {
+    "url": "https://www.linncountyiowa.gov/m/newsflash/Home/Detail/4594",
+    "pdf_pages": [
+      3,
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.linncountyiowa.gov/m/newsflash/Home/Detail/4594",
+    "page_title": "Linn County Approves Agreement With Google for Independent Water Study \u2022 Linn County, IA"
+  },
+  {
+    "url": "https://www.mmcginvest.com/feasibility-study-iowa",
+    "pdf_pages": [
+      6,
+      16
+    ],
+    "status": 200,
+    "final_url": "https://www.mmcginvest.com/feasibility-study-iowa",
+    "page_title": "Iowa Feasibility Study Consultants: SBA, USDA | MMCG Invest"
+  },
+  {
+    "url": "https://www.northscottpress.com/wdadvocatenews/wdadvocatenews/stories/meta-spends-60k-per-acre-for-farmland,159958",
+    "pdf_pages": [
+      16
+    ],
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.polkcountyiowa.gov/emergency-management/nitrates",
+    "pdf_pages": [
+      2,
+      17
+    ],
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.reddit.com/r/desmoines/comments/1tq1dot/central_iowa_water_works_asks_customers_to_reduce/",
+    "pdf_pages": [
+      2,
+      17
+    ],
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.thegazette.com/business/what-can-we-learn-from-other-iowa-data-centers/article_1356b9f9-99f2-4fd2-981c-8ae2ed4850c6.html",
+    "pdf_pages": [
+      17
+    ],
+    "status": 200,
+    "final_url": "https://www.thegazette.com/business/what-can-we-learn-from-other-iowa-data-centers/article_1356b9f9-99f2-4fd2-981c-8ae2ed4850c6.html",
+    "page_title": "What can we learn from other Iowa data centers? | Cedar Rapids Business News, Iowa City Business News | thegazette.com"
+  },
+  {
+    "url": "https://www.thegazette.com/news/environment/cedar-rapids-officials-say-drinking-water-is-safe-even-amid-nitrate-spike-in-some-iowa/article_4ff59bcb-c8b6-59aa-9d59-e9f76753b1b4.html",
+    "pdf_pages": [
+      13,
+      17
+    ],
+    "status": 200,
+    "final_url": "https://www.thegazette.com/news/environment/cedar-rapids-officials-say-drinking-water-is-safe-even-amid-nitrate-spike-in-some-iowa/article_4ff59bcb-c8b6-59aa-9d59-e9f76753b1b4.html",
+    "page_title": "Cedar Rapids officials say drinking water is safe, even amid nitrate spike in some Iowa rivers | Environmental News, Nature News | thegazette.com"
+  },
+  {
+    "url": "https://www.thegazette.com/news/environment/google-data-center-would-be-among-cedar-rapids-largest-water-and-energy-users/article_70095b9e-c333-58c3-b664-b25ba3df016f.html",
+    "pdf_pages": [
+      2,
+      17
+    ],
+    "status": 200,
+    "final_url": "https://www.thegazette.com/news/environment/google-data-center-would-be-among-cedar-rapids-largest-water-and-energy-users/article_70095b9e-c333-58c3-b664-b25ba3df016f.html",
+    "page_title": "Google data center would be among Cedar Rapids\u2019 largest water and energy users | Environmental News, Nature News | thegazette.com"
+  },
+  {
+    "url": "https://www.waterqualitydata.us/data/Result/search?statecode=US:19&characteristicName=Nitrate&mimeType=csv",
+    "pdf_pages": [
+      7
+    ],
+    "status": 200,
+    "final_url": "https://www.waterqualitydata.us/data/Result/search?statecode=US:19&characteristicName=Nitrate&mimeType=csv",
+    "page_title": null
+  },
+  {
+    "url": "https://www.waukee.org/1176/Save-Water",
+    "pdf_pages": [
+      3,
+      6,
+      17
+    ],
+    "status": 200,
+    "final_url": "https://www.waukee.org/1176/Save-Water",
+    "page_title": "Save Water | Waukee, IA - Official Website"
+  }
+]
