@@ -1,0 +1,46 @@
+{
+  "releases": [
+    "SYR4"
+  ],
+  "date_range": [
+    "2012-01-03",
+    "2019-12-30"
+  ],
+  "raw_rows": 28103,
+  "rows_after_exact_dedup": 28103,
+  "all_pws": 1649,
+  "community_rows": 17017,
+  "community_pws": 845,
+  "community_stage_counts": {
+    "entry": 16608,
+    "raw": 395,
+    "process_control": 14
+  },
+  "community_sample_type_counts": {
+    "RT": 17013,
+    "CO": 4
+  },
+  "eligible_rows": 16997,
+  "eligible_pws": 845,
+  "eligible_entry_rows": 16603,
+  "eligible_raw_rows": 394,
+  "censored_share_eligible": 0.3027004765546861,
+  "unusable_numeric_rows": 6,
+  "source_water_type_pws": {
+    "GW": 814,
+    "SW": 23,
+    "GU": 8
+  },
+  "geocode_methods": {
+    "exact": 315,
+    "no_match": 253,
+    "non_municipal_name": 240,
+    "ngram": 32,
+    "rejected_county_mismatch": 4,
+    "exact_county_disambiguated": 1
+  },
+  "geocoded_pws": 348,
+  "panel_rows_entry": 6602,
+  "panel_rows_raw": 39,
+  "panel_pws_entry": 845
+}

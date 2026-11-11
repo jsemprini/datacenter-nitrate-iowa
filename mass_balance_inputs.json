@@ -1,0 +1,48 @@
+{
+  "_note": "Inputs for physical upper-bound calculations. All flows in cubic feet per second (cfs); areas in acres; yields in kg N per hectare per year. Values are transcribed from the cited public documents.",
+  "rivers": {
+    "raccoon_van_meter": {
+      "label": "Raccoon River at Van Meter (USGS 05484500), upstream of Central Iowa Water Works Fleur Drive intake",
+      "drainage_area_sq_mi": 3441,
+      "mean_flow_cfs": 1554,
+      "median_flow_cfs": 600,
+      "q90_flow_cfs": 118,
+      "flow_period": "water years 1916-2004",
+      "source": "USGS Water Resources Data Iowa WY2004 (WDR-IA-04-1), station page; https://webarchive.library.unt.edu/eot2008/20080924190628/http:/pubs.usgs.gov/wdr/2004/wdr-ia-04-1/pdf/ia_21.pdf",
+      "q90_recent_cfs": 222,
+      "q90_recent_period": "1984-2013",
+      "q90_recent_source": "USGS StreamStats gage statistics 05484500; https://streamstats.usgs.gov/gagePages/IA/05484500_stats.pdf",
+      "nitrate_n_yield_kg_ha_yr": 26.1,
+      "yield_period": "1972-2000",
+      "yield_source": "Schilling KE, Zhang Y-K (2004) Baseflow contribution to nitrate-nitrogen export from a large, agricultural watershed, USA. J Hydrol 295:305-316. doi:10.1016/j.jhydrol.2004.03.010"
+    },
+    "missouri_omaha": {
+      "label": "Missouri River at Omaha (USGS 06610000), adjacent to Council Bluffs Water Works intake",
+      "median_flow_cfs": 44000,
+      "p05_flow_cfs": 25700,
+      "flow_period": "water years 1996-2000 daily means",
+      "source": "USGS NASQAN WRI 01-4255 statistics page; https://pubs.usgs.gov/wri/wri014255/results/stat/omaha.htm"
+    },
+    "cedar_cedar_rapids": {
+      "label": "Cedar River at Cedar Rapids (USGS 05464500), recharge source for Cedar Rapids alluvial collector wells",
+      "drainage_area_sq_mi": 6510,
+      "mean_flow_cfs": 3780,
+      "q90_flow_cfs_wy2004": 690,
+      "flow_period": "water years 1903-2004 (mean); WY2004 (Q90)",
+      "source": "USGS Water Resources Data Iowa WY2004; https://webarchive.library.unt.edu/eot2008/20080924190628/http:/pubs.usgs.gov/wdr/2004/wdr-ia-04-1/pdf/ia_15.pdf"
+    }
+  },
+  "export_scenarios_kg_ha_yr": {
+    "post_development_low_input": 5.0,
+    "row_crop_counterfactual": 26.1,
+    "construction_extreme": 100.0,
+    "construction_implausible_ceiling": 250.0,
+    "_basis": "26.1 = observed long-run Raccoon watershed yield (Schilling & Zhang 2004). 100 and 250 are deliberately extreme ceilings (about 4x and 10x the agricultural watershed yield) chosen to bound, not estimate, construction-phase losses; 5 represents a low-input developed/turf landscape. Results are reported per 1,000 acres so other assumptions can be substituted linearly."
+  },
+  "campus_area_scenarios_acres": {
+    "raccoon_documented_central_iowa": {"acres": 1070.8, "components": "Microsoft Mountain 41.8 + Alluvion 154 + Osmium 240 + Ginger West 188 + Ginger East 147 + Apple Waukee phase 1 300", "assumption": "conservatively assumes every documented central Iowa campus drains to the Raccoon River above the Fleur Drive intake; several sites likely drain elsewhere"},
+    "raccoon_with_full_apple_site": {"acres": 2770.8, "components": "as above but full ~2,000-acre Apple site", "assumption": "extreme upper bound"},
+    "missouri_google_documented": {"acres": 1068, "components": "Southlands 928 + campus 1 assumed 140", "assumption": "campus 1 acreage not documented; 140 acres taken from the 1-gemini table as a placeholder for the bound only"}
+  },
+  "unit_conversions": {"cfs_to_m3_s": 0.0283168, "acre_to_ha": 0.404686, "seconds_per_year": 31557600}
+}

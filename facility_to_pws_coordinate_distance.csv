@@ -1,0 +1,71 @@
+facility_id,facility_name,nearest_pws,distance_km
+IA_DC_001,Meta Altoona Data Center - Building 1,IA7707030,1.387
+IA_DC_002,Meta Altoona Data Center - Building 2/3,IA7707030,1.537
+IA_DC_003,Meta Altoona Data Center - Building 4 & 5,IA7707030,1.675
+IA_DC_004,Meta Altoona Data Center - Building 6 & 7,IA7707030,1.941
+IA_DC_005,"Meta Altoona Data Center - Building 8, 9 & 10",IA7707030,2.245
+IA_DC_006,Meta Altoona Data Center - Building 12 Expansion,IA7707030,2.465
+IA_DC_007,Microsoft Project Mountain (DSM 05/06),IA7785007,6.886
+IA_DC_008,Microsoft Project Alluvion Phase 1 (DSM 09/10),IA7785007,5.94
+IA_DC_009,Microsoft Project Alluvion Phase 2 (DSM 11/14),IA7785007,6.15
+IA_DC_010,LightEdge Des Moines 1 (Altoona Facility),IA7707030,1.245
+IA_DC_011,LightEdge Des Moines 2 (Cologix DSM2),IA7727031,2.834
+IA_DC_012,IP Pathways Urbandale Data Center,IA7720051,2.717
+IA_DC_013,Tract Altoona Technology Park,IA7717032,3.474
+IA_DC_014,Microsoft Project Ginger East,IA9164078,5.916
+IA_DC_015,Cielo Digital Des Moines Data Center Campus,IA7727031,7.064
+IA_DC_016,Edged Ankeny Data Center,IA7709053,3.511
+IA_DC_017,Edged Des Moines South Campus,IA7727031,6.316
+IA_DC_018,Waukee Data Center (Apple Campus Phase 1),IA2573080,3.567
+IA_DC_019,Microsoft Project Ginger West (DSM 42/43),IA2570046,5.922
+IA_DC_020,US Signal Waukee / Des Moines West,IA2573080,2.578
+IA_DC_021,LightEdge West Des Moines / Dallas Co Annex,IA2573080,6.242
+IA_DC_022,Microsoft Van Meter / Vision Park Campus,IA2570046,0.51
+IA_DC_023,COPT Van Meter Campus,IA2570046,1.14
+IA_DC_024,Microsoft Project Osmium - Warren Co Phase (DSM 12),IA7785007,9.28
+IA_DC_025,Microsoft Project Osmium - Madison Co Phase,IA7785007,10.22
+IA_DC_026,Microsoft Project Ruthenium,IA2570046,10.892
+IA_DC_027,Tract / Project West Norwalk Campus,IA9164078,0.776
+IA_DC_028,Google Cedar Rapids / Big Cedar Data Center,IA5731032,5.312
+IA_DC_029,QTS Cedar Rapids / Big Cedar Campus Phase 1,IA5731032,4.208
+IA_DC_030,QTS Cedar Rapids / Big Cedar Campus Phase 2,IA5731032,3.947
+IA_DC_031,CLOP Cedar Rapids 1515 33rd Avenue SW,IA5715093,4.404
+IA_DC_032,Google Palo / Duane Arnold Energy Center Campus,IA5765101,3.878
+IA_DC_033,Enseva Hiawatha Data Center,IA5735045,0.059
+IA_DC_034,ImOn Communications Cedar Rapids Data Center,IA5715093,0.011
+IA_DC_035,Aureon Cedar Rapids Colocation Facility,IA5715093,1.529
+IA_DC_036,Fairfax Morgan Creek Prospective Data Campus,IA5731032,0.237
+IA_DC_037,Google Council Bluffs - Campus 1 (North),IA7820080,5.023
+IA_DC_038,Google Council Bluffs - Campus 2 East (Southlands),IA7820080,9.963
+IA_DC_039,Council Bluffs Data Center - Campus 2 West,IA7820080,9.919
+IA_DC_040,CyrusOne OCB1 Council Bluffs,IA7820080,6.8
+IA_DC_041,Edged Council Bluffs (Project Lola),IA7820080,11.107
+IA_DC_042,The ColoHub Data Center,IA8222001,8.112
+IA_DC_043,South Front Networks Davenport Colocation,IA8222001,2.207
+IA_DC_044,US Signal Davenport Edge Center,IA8222001,0.0
+IA_DC_045,Meta Davenport Hyperscale Data Center Campus,IA8230008,5.844
+IA_DC_046,US Secure Hosting Center - Monticello Main,IA5343098,0.069
+IA_DC_047,US Secure Hosting Center - Monticello Annex 2,IA5343098,0.215
+IA_DC_048,US Secure Hosting Center - Monticello Bunker 3,IA5343098,0.422
+IA_DC_049,FiberComm Sioux City Colocation Center,IA9778054,0.0
+IA_DC_050,South Front Networks Sioux City Facility,IA9774033,0.6
+IA_DC_051,Google Salix Data Center,IA9770024,0.166
+IA_DC_052,Enseva Ames Data Center,IA8503039,3.051
+IA_DC_053,LightEdge Ames Aviation Way Data Center,IA8503039,3.973
+IA_DC_054,Cedar Falls Utilities / Cyberlink Data Center,IA0709084,3.658
+IA_DC_055,INVISION / Waterloo Enterprise Colocation,IA0790074,0.0
+IA_DC_056,InfoBunker Des,IA0819033,0.08
+IA_DC_057,Pioneer IA5 Site,IA0819033,2.22
+IA_DC_058,Great Lakes Colocation Data Center,IA3045046,0.014
+IA_DC_059,Enseva Grinnell Data Center,IA7930008,0.959
+IA_DC_060,South Front Networks Dubuque Facility,IA3126052,0.0
+IA_DC_061,Applied Digital Adair County Data Center,IA0105002,0.308
+IA_DC_062,PathOne Ida County Data Center,IA4715072,0.058
+IA_DC_063,QTS Clinton Data Center Campus,IA2326048,5.703
+IA_DC_064,Peosta Energy and Data Campus,IA3170001,0.209
+IA_DC_065,Wahawk Power Waterloo Data Center,IA0790074,5.76
+IA_DC_066,Alliant Energy QTS 2 Iowa Campus,IA5731032,3.704
+IA_DC_067,MidAmerican Orient Grid Support Compute Site,IA0105002,38.093
+IA_DC_068,PathOne Hull Data Center,IA8444063,0.084
+IA_DC_069,Dubuque Regional Airport Data Center Prospect,IA3126052,11.548
+IA_DC_070,Marshalltown Industrial Park Data Center Prospect,IA6469042,2.484

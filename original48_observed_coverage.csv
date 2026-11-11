@@ -1,0 +1,49 @@
+pwsid,system_name,primary_water_source,aquifer_detail,years_observed,samples,mean_nitrate,purchased_or_consecutive_per_original_text
+IA7727031,Des Moines Water Works (CIWW Fleur/McMullen/Saylorville),Surface Water,Des Moines & Raccoon Rivers + Infiltration Gallery,8.0,284.0,3.8142548983673,False
+IA7785007,West Des Moines Water Works (A.C. Ward + 25% DMWW Blend),Blended Alluvial/Jordan/Surface,Jordan Deep Wells (0.4 mg/L) + Alluvial + 25% Purchased DMWW Surface,8.0,8.0,0.7473033905932738,True
+IA7707030,Altoona Water Supply,Deep Confined Bedrock (Jordan Aquifer),Cambrian-Ordovician Jordan Aquifer Deep Wells (3 Plants),8.0,24.0,0.5242851130197758,False
+IA2573080,Waukee Water Supply (CIWW Consecutive),Surface Water,Purchased Surface/Alluvial Water via CIWW/DMWW,,,,True
+IA7709053,Ankeny Municipal Water Utility (CIWW Member),Blended Alluvial/Jordan/Surface,Purchased Surface Water (DMWW/CIWW) + Jordan ASR Backup,8.0,31.0,1.6477083333333333,True
+IA7780042,Urbandale Water Utility (CIWW Member),Surface Water,Purchased Surface Water (DMWW/CIWW),,,,True
+IA2570046,Van Meter Municipal Water Works,Shallow Alluvial Groundwater,Raccoon River Alluvial Sand & Gravel Wells,8.0,8.0,1.60775,False
+IA7717032,Bondurant Municipal Water Supply,Surface Water,Purchased Surface Water (DMWW/CIWW) in Mud Creek/Skunk HUC10,,,,True
+IA7720051,Clive Water Department (CIWW Member),Blended Alluvial/Jordan/Surface,Purchased Surface Water (DMWW/CIWW) + Jordan ASR,,,,True
+IA7740011,Johnston Municipal Water Supply (CIWW Member),Surface Water,Purchased Surface Water (DMWW/CIWW),,,,True
+IA7736011,Grimes Water Supply (CIWW Member),Blended Alluvial/Jordan/Surface,Alluvial & Jordan Wells + CIWW Reverse Osmosis,8.0,17.0,0.3153961711658269,True
+IA9164078,Norwalk Water Supply,Surface Water,Purchased Surface Water (DMWW/CIWW),,,,True
+IA7770050,Polk City Water Supply,Shallow Alluvial Groundwater,Alluvial Aquifer + Consecutive DMWW/CIWW Supply,8.0,8.0,1.1588388347648317,True
+IA2503003,Adel Municipal Water Works,Shallow Alluvial Groundwater,North Raccoon River Alluvial Wells,8.0,8.0,0.9125,False
+IA9133075,Indianola Water Supply,Deep Confined Bedrock (Jordan Aquifer),Cambrian-Ordovician Jordan Aquifer Wells,8.0,8.0,0.0707106781186547,False
+IA9113071,Carlisle Water Supply,Shallow Alluvial Groundwater,Des Moines River Alluvial Wells,7.0,7.0,1.1142857142857143,False
+IA7751092,Mitchellville Water Supply,Shallow Alluvial Groundwater,Skunk River Alluvial Wells (Downstream of Altoona HUC10),8.0,9.0,1.26875,False
+IA5715093,Cedar Rapids Water Department (J Ave & NW Plants),Shallow Alluvial Groundwater,52 Horizontal/Vertical Collector Wells in Cedar River Sand & Gravel,8.0,793.0,3.561461833422295,False
+IA5751035,Marion Municipal Water Department,Deep Confined Bedrock (Jordan Aquifer),67% Jordan Aquifer + 33% Silurian Aquifer Wells,8.0,32.0,0.32763592007505143,False
+IA5735045,Hiawatha Water Department,Deep Confined Bedrock (Jordan Aquifer),Silurian Dolomite & Bedrock Wells,8.0,47.0,1.4283012033745432,False
+IA5731032,Fairfax Water Supply,Deep Confined Bedrock (Jordan Aquifer),Silurian Aquifer Bedrock Wells,8.0,26.0,0.7071067811865475,False
+IA5765101,Palo Water Supply,Deep Confined Bedrock (Jordan Aquifer),Silurian Aquifer Wells near Cedar River,8.0,21.0,1.2780553294481674,False
+IA5343098,Monticello Water Supply,Deep Confined Bedrock (Jordan Aquifer),Silurian-Cambrian-Ordovician Dolomite Wells,8.0,51.0,4.784027777777778,False
+IA5225079,Iowa City Water Department,Blended Alluvial/Jordan/Surface,Iowa River Collector Wells + Silurian Deep Wells Dilution,8.0,111.0,3.413457341206575,False
+IA5208071,Coralville Municipal Water System,Deep Confined Bedrock (Jordan Aquifer),Jordan & Silurian Deep Bedrock Wells,8.0,8.0,1.0133883476483185,False
+IA5252072,North Liberty Water Supply,Deep Confined Bedrock (Jordan Aquifer),Jordan & Silurian Aquifer Deep Wells,8.0,17.0,0.6755203820042827,False
+IA8222001,Iowa-American Water Company - Davenport/Bettendorf,Surface Water,Mississippi River Surface Water Intakes,8.0,8.0,2.7825,False
+IA8230008,Eldridge Water Supply,Deep Confined Bedrock (Jordan Aquifer),Silurian-Ordovician Deep Wells,8.0,8.0,0.5966213466261494,False
+IA2326048,Iowa-American Water Company - Clinton District,Deep Confined Bedrock (Jordan Aquifer),Cambrian-Ordovician Jordan Deep Wells,8.0,29.0,0.01381535593728845,False
+IA3126052,Dubuque Water Works,Blended Alluvial/Jordan/Surface,Mississippi River Alluvial Collector Wells + Deep Cambrian-Ordovician,8.0,11.0,0.7073033905932737,False
+IA3170001,Peosta Water Supply,Deep Confined Bedrock (Jordan Aquifer),Cambrian-Ordovician Deep Bedrock Wells,8.0,18.0,0.07879126073623878,False
+IA7820080,Council Bluffs Water Works (Narrows & Council Point),Surface Water,Missouri River Surface Intake + Alluvial Wells,8.0,58.0,1.1367139706020462,False
+IA9778054,Sioux City Water Supply,Shallow Alluvial Groundwater,Missouri River Horizontal Collector & Alluvial Wells,8.0,15.0,0.825534699080048,False
+IA9774033,Sergeant Bluff Water Supply,Shallow Alluvial Groundwater,Missouri River Alluvial & Dakota Wells,,,,False
+IA9770024,Salix Water Supply,Shallow Alluvial Groundwater,Missouri River Alluvial Wells,8.0,8.0,0.26775,False
+IA8444063,Hull Water Supply,Shallow Alluvial Groundwater,Shallow Alluvial & Buried Channel Wells + Lewis & Clark RWS,,,,False
+IA8486053,Sioux Center Municipal Water Department,Shallow Alluvial Groundwater,Alluvial & Dakota Wells + Lewis & Clark RWS,8.0,88.0,5.359449028970693,False
+IA4715072,Galva Water Supply,Shallow Alluvial Groundwater,Dakota & Alluvial Wells,,,,False
+IA3045046,Lake Park Municipal Utilities,Shallow Alluvial Groundwater,Buried Channel / Dakota Aquifer,,,,False
+IA0105002,Adair Municipal Water Supply,Shallow Alluvial Groundwater,Dakota & Alluvial Wells (Purchased/Local),8.0,10.0,1.3184433619633036,True
+IA8503039,Ames Water Treatment Plant,Shallow Alluvial Groundwater,South Skunk River & Squaw Creek Alluvial Sand & Gravel Wells,8.0,26.0,0.618718433538229,False
+IA8562044,Nevada Water Supply,Deep Confined Bedrock (Jordan Aquifer),Jordan & Mississippian Deep Wells,8.0,8.0,0.5649271728019902,False
+IA0819033,Boone Water Works,Shallow Alluvial Groundwater,Des Moines River Alluvial Wells,8.0,96.0,4.173059463531091,False
+IA0790074,Waterloo Water Works,Deep Confined Bedrock (Jordan Aquifer),Silurian-Devonian Bedrock Limestone Wells,8.0,223.0,4.7273830045634,False
+IA0709084,Cedar Falls Municipal Water Utilities,Deep Confined Bedrock (Jordan Aquifer),Silurian-Devonian Bedrock Limestone Wells,8.0,183.0,4.208369569055102,False
+IA7930008,Grinnell Water Department,Deep Confined Bedrock (Jordan Aquifer),Cambrian-Ordovician Jordan Aquifer Deep Wells,8.0,8.0,1.0,False
+IA6273005,Oskaloosa Municipal Water Department,Shallow Alluvial Groundwater,Des Moines River Alluvial Wells (1.17 mg/L in CCR),8.0,8.0,1.189276695296637,False
+IA6469042,Marshalltown Water Works,Shallow Alluvial Groundwater,Iowa River Alluvial & Pleistocene Buried Channel Wells,8.0,11.0,0.5800485314420897,False

@@ -1,0 +1,134 @@
+{
+  "passed": 25,
+  "total": 25,
+  "tests": [
+    {
+      "test": "SYR4 Iowa extract matches audited SHA-256",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Acquisition log records every attempt including failures",
+      "passed": true,
+      "detail": "7 entries"
+    },
+    {
+      "test": "No random number generation in 00_extract_public_data.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "No random number generation in 01_clean_data.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "No random number generation in 03_build_exposure.py",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Randomness in 04_analyze.py is limited to seeded permutation draws",
+      "passed": true,
+      "detail": "['rng = np.random.default_rng(seed)', 'rng = np.random.default_rng(rng_seed)']"
+    },
+    {
+      "test": "Row count preserved through cleaning",
+      "passed": true,
+      "detail": "28103 vs 28103"
+    },
+    {
+      "test": "ug/L results divided by 1000",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Censoring bounds ordered lower <= mid <= upper",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Non-detects use their own reporting limit (no common MDL assumed)",
+      "passed": true,
+      "detail": "21 distinct limits"
+    },
+    {
+      "test": "Raw-water records are never labelled entry",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Annual panel unique by system-stage-year",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Panel cell reproduces from samples (DMWW 2015)",
+      "passed": true,
+      "detail": "6.4805"
+    },
+    {
+      "test": "No filled or interpolated years (every panel row has >= 1 sample)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Geocoding spot checks",
+      "passed": true,
+      "detail": "{'IA8222001': 'Davenport', 'IA7820080': 'Council Bluffs', 'IA7707030': 'Altoona', 'IA7785007': 'West Des Moines', 'IA7727031': 'Des Moines', 'IA5715093': 'Cedar Rapids'}"
+    },
+    {
+      "test": "County codes decode (Polk=77, Dallas=25, Linn=57)",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "ARTIFICIAL: imputation estimator recovers a known effect exactly (noise-free)",
+      "passed": true,
+      "detail": "0.799999999999994"
+    },
+    {
+      "test": "ARTIFICIAL: event-study coefficients are zero when no effect remains",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Test-inversion linearity identity holds",
+      "passed": true,
+      "detail": "0.430000 vs 0.430000"
+    },
+    {
+      "test": "ARTIFICIAL: randomization test has close-to-nominal size (alpha = 0.10)",
+      "passed": true,
+      "detail": "0.08"
+    },
+    {
+      "test": "Table 2 matches results.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Every main specification used >= 1,900 valid placebo draws",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Conventional cluster SEs over-reject under placebo assignment (documented)",
+      "passed": true,
+      "detail": "{'alpha_0_05': 0.4455, 'alpha_0_10': 0.5005, 'draws': 2000}"
+    },
+    {
+      "test": "Randomization inference is reproducible with a fixed seed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Audit: original outcomes regenerate exactly and ignore external data",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "python": "3.13.18",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5"
+}

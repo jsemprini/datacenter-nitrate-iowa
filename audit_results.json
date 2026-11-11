@@ -1,0 +1,121 @@
+{
+  "commit": "68148b21e14a535dd37a63cda3fb9e1b63d5cc9c",
+  "file_sha256": {
+    "01_fetch_and_clean_data.py": "9378cb91f823b7a8982a046ba594f69e4e5f30fb3b0da8632389237615c92782",
+    "02_did_equivalence_analysis.py": "7004ff7c26742c1c63b0c366e1445274b5d455ebd807f322a18bec8f66e96e6b",
+    "iowa_data_centers_panel.csv": "6b2373b5b02979f9f4f64dfe23b4f438648809e80987af9f11079be538f68df5",
+    "iowa_dc_nitrate_report.md": "421c4fd128506acdac7789b2ce47a7d4256188469fea8f4f4cfe87a8e731a2a1"
+  },
+  "static": {
+    "panel_builder_creates_rng_seed_20261111": true,
+    "panel_builder_rng_normal_calls": 5,
+    "panel_builder_discards_download": true,
+    "panel_builder_reads_any_csv": false,
+    "panel_builder_has_hand_entered_climate_table": true,
+    "panel_builder_hardcodes_system_values": 5,
+    "planted_grading_pulse_mg_l": 0.022,
+    "planted_land_retirement_slope_per_500_acres": -0.015,
+    "analysis_scales_cs_se_by_1_04": true,
+    "analysis_scales_overall_cs_se_by_1_03": true,
+    "analysis_cs_cohort_filter_2008_2025": true,
+    "analysis_declares_parallel_trends_if_p_gt_0_10": true,
+    "analysis_tost_margin_0_25_reused_for_binary_outcome": true
+  },
+  "regenerated": {
+    "facility_table_matches_repository_csv": true,
+    "quarter_rows": 4176,
+    "annual_rows": 1056,
+    "n_pws": 48,
+    "quarter_panel_sha256": "b3b504529d6d59370da3c4300fa19756d3150d9f58d3e0c57d88c644e1ac572b",
+    "matches_2oai_reported_hash": true,
+    "deterministic_rerun_identical": true
+  },
+  "drop_file_challenge": {
+    "absurd_value_inserted_mg_l": 987654.321,
+    "output_changed": false,
+    "max_mean_nitrate_after_challenge": 10.5178
+  },
+  "headline_reproduction": {
+    "reported": {
+      "construct_10km_beta": 0.0013,
+      "construct_10km_se": 0.0178,
+      "operational_10km_beta": -0.0124,
+      "operational_10km_se": 0.0142
+    },
+    "reproduced_construct": {
+      "beta": 0.00129,
+      "se": 0.01782,
+      "p_two_sided": 0.9429,
+      "n_obs": 4176,
+      "n_clusters": 32,
+      "p_tost_025mgl": 0.0
+    },
+    "reproduced_operational": {
+      "beta": -0.01238,
+      "se": 0.0142,
+      "p_two_sided": 0.3901,
+      "n_obs": 4176,
+      "n_clusters": 32,
+      "p_tost_025mgl": 0.0
+    },
+    "planted_term_on_construct_design_beta": -0.00163,
+    "planted_term_on_operational_design_beta": -0.00625,
+    "interpretation": "Estimates recover the generator's planted terms plus simulation noise; they carry no information about Iowa water."
+  },
+  "coordinates": {
+    "facilities_within_0_05_km_of_a_pws_point": 6,
+    "examples": [
+      "ImOn Communications Cedar Rapids Data Center",
+      "US Signal Davenport Edge Center",
+      "FiberComm Sioux City Colocation Center",
+      "INVISION / Waterloo Enterprise Colocation",
+      "Great Lakes Colocation Data Center",
+      "South Front Networks Dubuque Facility"
+    ]
+  },
+  "dates": {
+    "campuses_compared": 9,
+    "outside_documented_interval": 3
+  },
+  "observed_coverage_of_original_48": {
+    "with_own_entry_point_records_2012_2019": 38,
+    "without_records": [
+      "Waukee Water Supply (CIWW Consecutive)",
+      "Urbandale Water Utility (CIWW Member)",
+      "Bondurant Municipal Water Supply",
+      "Clive Water Department (CIWW Member)",
+      "Johnston Municipal Water Supply (CIWW Member)",
+      "Norwalk Water Supply",
+      "Sergeant Bluff Water Supply",
+      "Hull Water Supply",
+      "Galva Water Supply",
+      "Lake Park Municipal Utilities"
+    ],
+    "original_text_says_purchased_or_ciww": 11,
+    "observed_samples_total": 2334,
+    "original_claimed_quarterly_cells": 4176,
+    "observed_pws_years_2012_2019": 303
+  },
+  "spatial_counts_code_vs_manuscript": {
+    "same_municipality": [
+      19,
+      15
+    ],
+    "5km": [
+      21,
+      15
+    ],
+    "10km": [
+      31,
+      21
+    ],
+    "20km": [
+      37,
+      29
+    ],
+    "huc10": [
+      34,
+      24
+    ]
+  }
+}

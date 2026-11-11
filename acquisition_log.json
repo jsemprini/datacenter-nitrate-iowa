@@ -1,0 +1,48 @@
+[
+  {
+    "run_started_utc": "2026-11-11T21:25:15.181181+00:00"
+  },
+  {
+    "step": "syr4_national_zip",
+    "url": "https://www.epa.gov/system/files/other-files/2024-03/_syr4_phasechem_4-hybrid-nitrate-to-nitrate.zip",
+    "attempted_utc": "2026-11-11T21:25:15.181254+00:00",
+    "ok": false,
+    "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/jsemprini/datacenter-nitrate-iowa/68148b21e14a535dd37a63cda3fb9e1b63d5cc9c/2-oai/data/raw/epa_syr4_iowa_nitrate_raw.csv",
+    "attempted_utc": "2026-11-11T21:25:15.399538+00:00",
+    "http_status": 200,
+    "ok": true,
+    "path": "data/raw/epa_syr4_iowa_nitrate_raw.csv",
+    "bytes": 4143134,
+    "sha256": "0aab0467dff6e70a5d0e87622c196eec12efb728a5a7593049ce093f689cbc19",
+    "step": "syr4_iowa_from_pinned_mirror",
+    "matches_audited_extract": true
+  },
+  {
+    "url": "https://www.epa.gov/sites/default/files/2016-12/syr3_phasechem_3.zip",
+    "attempted_utc": "2026-11-11T21:25:16.060353+00:00",
+    "ok": false,
+    "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "step": "syr3_phasechem_3_zip"
+  },
+  {
+    "url": "https://19january2025snapshot.epa.gov/sites/default/files/2016-12/syr3_phasechem_3.zip",
+    "attempted_utc": "2026-11-11T21:25:16.083612+00:00",
+    "ok": false,
+    "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "step": "syr3_phasechem_3_zip"
+  },
+  {
+    "step": "syr3",
+    "status": "not_acquired",
+    "consequence": "analysis restricted to SYR4 (2012-2019)"
+  },
+  {
+    "step": "iowa_places",
+    "source": "GeoNames cities500 via geonamescache==3.0.2",
+    "rows": 457,
+    "sha256": "2ec6d6ef19f2cf1ff6abf08a8d84076e7585fe17b28e82a7ce718ce07eb69013"
+  }
+]

@@ -1,0 +1,10 @@
+campus_id,original_facility_id,original_t_construct,documented_construct_year,documented_interval,year_difference,original_vs_documented_location_km,documented_coord_basis,construct_source
+GOOG_CB1,IA_DC_037,2007-07-15,2007,2007-2007,0,0.0,approximate: former drive-in site near Lake Manawa; 1-gemini coordinate retained after consistency check,https://datacenterknowledge.com/servers/in-iowa-a-field-becomes-a-billion-dollar-google-server-farm
+GOOG_CB2,IA_DC_038,2012-09-01,2012,2011-2012,0,1.22,Baxtel campus page (10410 Bunge Ave),https://baxtel.com/campus/google-council-bluffs-southlands-campus
+MSFT_MTN,IA_DC_007,2009-04-15,2010,2010-2010,-1,0.0,approximate: S 88th St / 8855 Grand Ave (Dallas County parcel 16-23-351-001); 1-gemini coordinate consistent,https://datacenterknowledge.com/hyperscalers/microsoft-starts-building-iowa-data-center
+MSFT_ALV,IA_DC_008,2014-07-10,2014,2014-2015,0,0.0,approximate: Iowa Hwy 5 near Veterans Parkway (Business Record); 1-gemini coordinate consistent,https://www.businessrecord.com/?p=320572
+MSFT_OSM,IA_DC_024,2016-11-01,2018,2017-2018,-2,0.42,Baxtel campus page (5855 SW Kerry St),https://www.datacenterdynamics.com/news/microsoft-delays-west-des-moines-osmium-data-center-build/
+META_ALT,IA_DC_001,2013-06-18,2013,2013-2013,0,3.94,Baxtel campus page (100 Share Way NW),https://datacenters.atmeta.com/2021/12/meta-announces-new-expansion-to-altoona-campus-new-hardhat-in-hand-graduates/
+APPL_WAU,IA_DC_018,2022-06-15,2021,2021-2022,1,0.0,approximate: Hickman Rd and S Ave NW Waukee (Business Record); 1-gemini coordinate consistent,https://datacenterdynamics.com/en/news/apple-begins-preparation-work-in-iowa-plans-to-connect-danish-data-center-to-district-heating-scheme
+MSFT_GW,IA_DC_019,2021-05-01,2022,2022-2023,-1,0.0,approximate: 11100 Booneville Rd (Business Record); 1-gemini coordinate,https://businessrecord.com/?p=119668
+MSFT_GE,IA_DC_014,2023-05-10,2023,2022-2023,0,0.0,approximate: south of Iowa Hwy 5 and east of Veterans Pkwy (Business Record); 1-gemini coordinate,https://businessrecord.com/?p=119668

@@ -1,0 +1,40 @@
+river,flow_statistic,flow_cfs,area_scenario,acres,export_scenario,export_kg_ha_yr,net_load_kg_yr,delta_conc_mg_l,gross_load_kg_yr,gross_conc_mg_l
+Raccoon (Van Meter),mean,1554,raccoon_documented_central_iowa,1070.8,construction_extreme,100.0,32023.7,0.023060664968661895,43333.8,0.0312052299981893
+Raccoon (Van Meter),mean,1554,raccoon_documented_central_iowa,1070.8,construction_implausible_ceiling,250.0,97024.3,0.06986850996594585,108334.4,0.07801307499547325
+Raccoon (Van Meter),mean,1554,raccoon_documented_central_iowa,1070.8,post_development_low_input,5.0,-9143.4,-0.006584303529617942,2166.7,0.0015602614999094648
+Raccoon (Van Meter),mean,1554,raccoon_with_full_apple_site,2770.8,construction_extreme,100.0,82864.4,0.059671731878192365,112130.4,0.0807465925280005
+Raccoon (Van Meter),mean,1554,raccoon_with_full_apple_site,2770.8,construction_implausible_ceiling,250.0,251060.0,0.18079162067019308,280326.0,0.20186648132000123
+Raccoon (Van Meter),mean,1554,raccoon_with_full_apple_site,2770.8,post_development_low_input,5.0,-23659.5,-0.017037531023408103,5606.5,0.004037329626400024
+Raccoon (Van Meter),mean,1554,per_1000_acres,1000.0,construction_extreme,100.0,29906.3,0.021535921711488503,40468.6,0.029141977958712456
+Raccoon (Van Meter),mean,1554,per_1000_acres,1000.0,construction_implausible_ceiling,250.0,90609.2,0.06524888864955719,101171.5,0.07285494489678114
+Raccoon (Van Meter),mean,1554,per_1000_acres,1000.0,post_development_low_input,5.0,-8538.9,-0.006148957349288329,2023.4,0.0014570988979356228
+Raccoon (Van Meter),median,600,raccoon_documented_central_iowa,1070.8,construction_extreme,100.0,32023.7,0.05972712226883431,43333.8,0.08082154569531029
+Raccoon (Van Meter),median,600,raccoon_documented_central_iowa,1070.8,construction_implausible_ceiling,250.0,97024.3,0.18095944081179977,108334.4,0.20205386423827576
+Raccoon (Van Meter),median,600,raccoon_documented_central_iowa,1070.8,post_development_low_input,5.0,-9143.4,-0.017053346141710474,2166.7,0.004041077284765514
+Raccoon (Van Meter),median,600,raccoon_with_full_apple_site,2770.8,construction_extreme,100.0,82864.4,0.15454978556451826,112130.4,0.2091336746475213
+Raccoon (Van Meter),median,600,raccoon_with_full_apple_site,2770.8,construction_implausible_ceiling,250.0,251060.0,0.46825029753580016,280326.0,0.5228341866188032
+Raccoon (Van Meter),median,600,raccoon_with_full_apple_site,2770.8,post_development_low_input,5.0,-23659.5,-0.04412720535062699,5606.5,0.010456683732376064
+Raccoon (Van Meter),median,600,per_1000_acres,1000.0,construction_extreme,100.0,29906.3,0.055778037232755234,40468.6,0.07547772291306527
+Raccoon (Van Meter),median,600,per_1000_acres,1000.0,construction_implausible_ceiling,250.0,90609.2,0.16899462160235315,101171.5,0.18869430728266318
+Raccoon (Van Meter),median,600,per_1000_acres,1000.0,post_development_low_input,5.0,-8538.9,-0.015925799534656775,2023.4,0.003773886145653263
+Raccoon (Van Meter),Q90 1916-2004,118,raccoon_documented_central_iowa,1070.8,construction_extreme,100.0,32023.7,0.30369723187542863,43333.8,0.4109570120100523
+Raccoon (Van Meter),Q90 1916-2004,118,raccoon_documented_central_iowa,1070.8,construction_implausible_ceiling,250.0,97024.3,0.9201327498905071,108334.4,1.0273925300251308
+Raccoon (Van Meter),Q90 1916-2004,118,raccoon_documented_central_iowa,1070.8,post_development_low_input,5.0,-9143.4,-0.08671192953412103,2166.7,0.020547850600502612
+Raccoon (Van Meter),Q90 1916-2004,118,raccoon_with_full_apple_site,2770.8,construction_extreme,100.0,82864.4,0.7858463672772114,112130.4,1.0633915660043454
+Raccoon (Van Meter),Q90 1916-2004,118,raccoon_with_full_apple_site,2770.8,construction_implausible_ceiling,250.0,251060.0,2.3809337162837294,280326.0,2.6584789150108636
+Raccoon (Van Meter),Q90 1916-2004,118,raccoon_with_full_apple_site,2770.8,post_development_low_input,5.0,-23659.5,-0.22437562042691686,5606.5,0.05316957830021727
+Raccoon (Van Meter),Q90 1916-2004,118,per_1000_acres,1000.0,construction_extreme,100.0,29906.3,0.2836171384716368,40468.6,0.3837850317613488
+Raccoon (Van Meter),Q90 1916-2004,118,per_1000_acres,1000.0,construction_implausible_ceiling,250.0,90609.2,0.85929468611366,101171.5,0.959462579403372
+Raccoon (Van Meter),Q90 1916-2004,118,per_1000_acres,1000.0,post_development_low_input,5.0,-8538.9,-0.08097864170164461,2023.4,0.01918925158806744
+Missouri (Omaha),median,44000,missouri_google_documented,1068.0,construction_extreme,100.0,31939.9,0.0008123310513352172,43220.5,0.0010992301100611868
+Missouri (Omaha),median,44000,missouri_google_documented,1068.0,construction_implausible_ceiling,250.0,96770.6,0.0024611762164269972,108051.2,0.0027480752751529672
+Missouri (Omaha),median,44000,missouri_google_documented,1068.0,post_development_low_input,5.0,-9119.5,-0.00023193755322291045,2161.0,5.496150550305935e-05
+Missouri (Omaha),5th percentile,25700,missouri_google_documented,1068.0,construction_extreme,100.0,31939.9,0.0013907613330252746,43220.5,0.001881950382984133
+Missouri (Omaha),5th percentile,25700,missouri_google_documented,1068.0,construction_implausible_ceiling,250.0,96770.6,0.004213686907501474,108051.2,0.004704875957460333
+Missouri (Omaha),5th percentile,25700,missouri_google_documented,1068.0,post_development_low_input,5.0,-9119.5,-0.0003970915308096521,2161.0,9.409751914920667e-05
+Cedar (Cedar Rapids),mean,3780,per_1000_acres,1000.0,construction_extreme,100.0,29906.3,0.008853656703611943,40468.6,0.01198059093858179
+Cedar (Cedar Rapids),mean,3780,per_1000_acres,1000.0,construction_implausible_ceiling,250.0,90609.2,0.026824543111484623,101171.5,0.02995147734645447
+Cedar (Cedar Rapids),mean,3780,per_1000_acres,1000.0,post_development_low_input,5.0,-8538.9,-0.0025279046880407577,2023.4,0.0005990295469290894
+Cedar (Cedar Rapids),Q90 WY2004,690,per_1000_acres,1000.0,construction_extreme,100.0,29906.3,0.04850264107196106,40468.6,0.06563280253310022
+Cedar (Cedar Rapids),Q90 WY2004,690,per_1000_acres,1000.0,construction_implausible_ceiling,250.0,90609.2,0.1469518448716114,101171.5,0.16408200633275055
+Cedar (Cedar Rapids),Q90 WY2004,690,per_1000_acres,1000.0,post_development_low_input,5.0,-8538.9,-0.01384852133448415,2023.4,0.0032816401266550113
